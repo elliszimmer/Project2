@@ -21,6 +21,14 @@
     ],
     "company_info": [
         {
+            "Ticker": "NVDA",
+            "Company": "Nvidia",
+            "Sub-sector": "Semiconductors",
+            "Headquarters": "Santa Clara, California",
+            "Date added": "2001-11-30",
+            "Founded": "1993"
+        },
+        {
             "Ticker": "MMM",
             "Company": "3M",
             "Sub-sector": "Industrial Conglomerates",
@@ -1265,7 +1273,7 @@
             "Company": "Dominion Energy",
             "Sub-sector": "Electric Utilities",
             "Headquarters": "Richmond, Virginia",
-            "Date added": "2015-01-05",
+            "Date added": "1901-01-01",
             "Founded": "1983"
         },
         {
@@ -1713,7 +1721,7 @@
             "Company": "Freeport-McMoRan",
             "Sub-sector": "Copper",
             "Headquarters": "Phoenix, Arizona",
-            "Date added": "1992-04-30",
+            "Date added": "1901-01-01",
             "Founded": "1912"
         },
         {
@@ -1969,7 +1977,7 @@
             "Company": "Humana",
             "Sub-sector": "Managed Health Care",
             "Headquarters": "Louisville, Kentucky",
-            "Date added": "1984-12-31",
+            "Date added": "1901-01-01",
             "Founded": "1961"
         },
         {
