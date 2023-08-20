@@ -1,5 +1,4 @@
 // 1. Read in the json sample data from the given url
-//const url = "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json";
 const url = "https://raw.githubusercontent.com/elliszimmer/Project3_Group2/javascript-branch-A/final_dataset.json"             
 //const filepath = "final_dataset.json"
 let jsonData;
@@ -8,6 +7,8 @@ dataPromise.then(data => {
     console.log("JSON data: ", data);  // Logs the JSON data to the console
     // Here we are going to execute our sequence of routines
     jsonData = data;
+    
+    // Populate menu1 with tickers acquired from json dataset 
     let tickers = data.tickers;
     let dropdown1 = d3.select("#Menu_1"); // Select the dropdown element using D3
     // Append the default option
@@ -15,9 +16,12 @@ dataPromise.then(data => {
     // Populate the dropdown using D3's data join
     dropdown1.selectAll("option:not(:first-child)").data(tickers).enter().append("option").text(d => d).attr("value", d => d);
 
+    // Populate menu2 with years acquired from json dataset
+    let years = menu2dateList();
+    // Select an option from Dropdown_menu_2 "year"
     let dropdown2 = d3.select("#Menu_2");
     dropdown2.append("option").text("Select an inspection year").attr("value", "").property("selected", true);
-    dropdown2.selectAll("option:not(:first-child)").data(tickers).enter().append("option").text(d => d).attr("value", d => d);
+    dropdown2.selectAll("option:not(:first-child)").data(years).enter().append("option").text(d => d).attr("value", d => d);
 
     document.getElementById('applyButton').addEventListener('click', function() {
         // Retrieve values from dropdowns
@@ -37,15 +41,16 @@ dataPromise.then(data => {
     console.error("Error fetching or parsing the data:", error);
 });
 
+// Execute the following function when the apply button is clicked
+function btnClicked(ticker, year) {
+    // Do something with the input parameters to test it works
+    console.log("Selected values:", ticker, year);    
+    // Any other logic you want to perform when the dropdown value changes
 
-// function btnClicked(ticker, year) {
-//     // Do something with the selectedValue
-//     console.log("Selected values:", ticker, year);
-    
-//     // Any other logic you want to perform when the dropdown value changes
-// }
+}
 
-function option1Changed(selectedTicker) {
+// Populate company info when an option is selected from menu 1
+function option1Changed(selectedTicker) {    
     // Do something with the selectedValue
     console.log("Selected Value from menu 1:", selectedTicker);
     
@@ -77,7 +82,6 @@ function option1Changed(selectedTicker) {
     // We now check if the entire company_info list has been searched and nothing was found case
     if (lengthCheck === jsonData.company_info.length){
         console.log("Company info is not available");
-
     }
     else{
         // Update the "Company Info panel"
@@ -90,4 +94,12 @@ function option1Changed(selectedTicker) {
         console.log("companyMetaObject: ", companyMetaObject);
     }
     // console.log("sampleObject: ", sampleObject);    
+}
+
+// Populate Dropdown menu 2 
+function menu2dateList(){
+    // Extract the years and make sure they are unique using a Set
+    let years = [...new Set((jsonData.stock_history)[0].dates.map(date => date.split("-")[0]))];
+    console.log(years);
+    return years;
 }
