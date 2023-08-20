@@ -1,6 +1,6 @@
 // 1. Read in the json sample data from the given url
 //const url = "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json";
-const url = "https://raw.githubusercontent.com/elliszimmer/Project3_Group2/javascript-branch-A/final_dataset.json"
+const url = "https://raw.githubusercontent.com/elliszimmer/Project3_Group2/javascript-branch-A/final_dataset.json"             
 //const filepath = "final_dataset.json"
 let jsonData;
 dataPromise = d3.json(url);
