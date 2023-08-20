@@ -126,15 +126,20 @@ function menu2dateList(){
 
 // Populate all company info
 function displayAllLogos() {
+    company_list = [];
     // Obtaining the selected companies
     for(let i = 1; i < jsonData.tickers.length; i++){
         for(let j = 0; j < jsonData.company_info.length; j++){
-            if((jsonData.tickers)[i] === (jsonData.company_info[j]).Ticker){
-                companyMetaObject.ticker = (jsonData.company_info[j]).Ticker;
-                companyMetaObject.company = (jsonData.company_info[j]).Company;
-                companyMetaObject.subsector = (jsonData.company_info[j]).Sub-sector;
+            if((jsonData.tickers)[i] === (jsonData.company_info)[j].Ticker){
+                //companyMetaObject.ticker = (jsonData.company_info[j]).Ticker;
+                //companyMetaObject.company = (jsonData.company_info[j]).Company;
+                //companyMetaObject.subsector = (jsonData.company_info[j]).Sub_sector;
+                //companyMetaObject.headquarter = (jsonData.company_info[j]).Headquarters;
+                companyMetaObject = (jsonData.company_info)[j];    
+                break;
             }
         }
+        company_list.push(companyMetaObject);
     }
     // List of ticker logo paths
     // const tickerLogoPaths = ['./Resources/AAPL.png',
@@ -159,10 +164,57 @@ function displayAllLogos() {
     let panel = d3.select("#company-metadata");
     panel.html(""); // Clear any existing metadata
 
+    console.log("company_list: ", company_list);
+    
+    const scatterData = company_list.map((Ticker, idx) => {
+        // Generate formatted info string for hover
+        const hoverInfo = Object.entries(Ticker)
+            .filter(([key]) => key !== 'LogoPath')
+            .map(([key, value]) => `${key.toUpperCase()}: ${value}`)
+            .join('<br>');
 
-    companyMetaObject = (jsonData.company_info)[i];
+        return {
+            x: [idx % 3],  // Assuming 5 logos per row, change accordingly
+            y: [Math.floor(idx / 3)],
+            hovertext: hoverInfo,
+            //hoverinfo: 'text',
+            mode: 'markers',
+            marker: {
+                size: {size: 50, opacity: 0}, // Adjust size as needed
+                symbol: `url(${encodePath(Ticker.LogoPath)})`
+            }
+        };
+    });
 
+    const layout = {
+        margin: {
+            l: 0,  // left margin
+            r: 0,  // right margin
+            b: 0,  // bottom margin
+            t: 0   // top margin
+        },
+        autosize: true,
+        xaxis: { 
+            type: 'linear',
+            visible: false,
+            dtick: 0.5,
+            range: [-0.5, 3-0.5]
+        },
+        yaxis: { 
+            visible: false,
+            dtick: 1,
+            range: [-0.5, 6-0.5] 
+        },
+        showlegend: false,
+        hovermode: 'closest'
+    };
 
+    Plotly.newPlot('company-metadata', scatterData, layout);
+    console.log(scatterData);
+
+}
+function encodePath(path) {
+    return encodeURIComponent(path);
 }
 
 // Create a bubble chart that displays each sample.

@@ -13,10 +13,17 @@ body {
     box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1);
     padding: 20px;
 }
-.grid-container {
+/* .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* this will auto adjust the number of columns based on container width */
-    gap: 10px; /* space between logos */
+  /*  gap: 10px; /* space between logos */
+/*} */
+
+#company-metadata {
+    width: 100%;
+    /*height: 600px;*/
+    padding: 0;
+    margin: 0;
 }
 
 /*h1 {
