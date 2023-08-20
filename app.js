@@ -55,48 +55,55 @@ function btnClicked(ticker, year) {
 
 // Populate company info when an option is selected from menu 1
 function option1Changed(selectedTicker) {    
-    // Do something with the selectedValue
-    console.log("Selected Value from menu 1:", selectedTicker);
+    // // Do something with the selectedValue
+    // console.log("Selected Value from menu 1:", selectedTicker);
     
-    // Any other logic you want to perform when the dropdown value changes
-    if (jsonData) {
-        console.log("tickers length: ", jsonData.tickers.length);
-        console.log("company_info length", jsonData.company_info.length);
-        console.log("stock_history length",jsonData.stock_history.length);
-    }
+    // // Just testing if the data is accessible
+    // if (jsonData) {
+    //     console.log("tickers length: ", jsonData.tickers.length);
+    //     console.log("company_info length", jsonData.company_info.length);
+    //     console.log("stock_history length",jsonData.stock_history.length);
+    // }
     
     // First acquire the sample data from the selected ID
-    let sampleObject = {}; // Declare an empty object to hold the filtered content
-    let metadataObject;
-    let lengthCheck = 0;
-    for(let i = 0; i < jsonData.company_info.length; i++){
-        lengthCheck = i;
-        // Filtering out the specific data        
-        if((jsonData.company_info)[i].Ticker == selectedTicker){
-            // Obtain a sample from the list
-            // sampleObject.sample_values = (jsonData.samples)[i].sample_values;
-            // sampleObject.otu_ids = (jsonData.samples)[i].otu_ids;
-            // sampleObject.otu_labels = (jsonData.samples)[i].otu_labels;
-            // Obtain the metadata
-            companyMetaObject = (jsonData.company_info)[i];            
-            // console.log("selected sample: ", sampleObject);
-            break;            
-        }
-    }
-    // We now check if the entire company_info list has been searched and nothing was found case
-    if (lengthCheck === jsonData.company_info.length){
-        console.log("Company info is not available");
+    if(selectedTicker === "Select All"){
+        console.log("All Company info is shown");
+        displayAllLogos();
     }
     else{
-        // Update the "Company Info panel"
-        let panel = d3.select("#company-metadata");
-        panel.html(""); // Clear any existing metadata
-        // Loop through each data entry in the object and append to panel
-        Object.entries(companyMetaObject).forEach(([key, value]) => {
-            panel.append("h6").text(`${key.toUpperCase()}: ${value}`);
-        });
-        console.log("companyMetaObject: ", companyMetaObject);
+        let sampleObject = {}; // Declare an empty object to hold the filtered content
+        let companyMetaObject;
+        let lengthCheck = 0;
+        for(let i = 0; i < jsonData.company_info.length; i++){
+            lengthCheck = i;
+            // Filtering out the specific data        
+            if((jsonData.company_info)[i].Ticker == selectedTicker){
+                // Obtain a sample from the list
+                // sampleObject.sample_values = (jsonData.samples)[i].sample_values;
+                // sampleObject.otu_ids = (jsonData.samples)[i].otu_ids;
+                // sampleObject.otu_labels = (jsonData.samples)[i].otu_labels;
+                // Obtain the metadata
+                companyMetaObject = (jsonData.company_info)[i];            
+                // console.log("selected sample: ", sampleObject);
+                break;            
+            }
+        }
+        // We now check if the entire company_info list has been searched and nothing was found case
+        if (lengthCheck === jsonData.company_info.length){
+            console.log("Company info is not available");
+        }
+        else{
+            // Update the "Company Info panel"
+            let panel = d3.select("#company-metadata");
+            panel.html(""); // Clear any existing metadata
+            // Loop through each data entry in the object and append to panel
+            Object.entries(companyMetaObject).forEach(([key, value]) => {
+                panel.append("h6").text(`${key.toUpperCase()}: ${value}`);
+            });
+            console.log("companyMetaObject: ", companyMetaObject);
+        }
     }
+    
     // console.log("sampleObject: ", sampleObject);    
 }
 
@@ -108,28 +115,59 @@ function menu2dateList(){
     return years;
 }
 
-// Create a bubble chart that displays each sample.
-function plotBubbleChart(sampleObject, selectedID) {
-    let trace = {
-        x: sampleObject.otu_ids,
-        y: sampleObject.sample_values,
-        text: sampleObject.otu_labels,
-        mode: 'markers',
-        marker: {
-            size: sampleObject.sample_values, // To set size based on the value in the 'sample_values' array
-            color: sampleObject.otu_ids, // To set color based on OTU ID
-            colorscale: 'Portland',  // Colorscale
-            sizemode: 'diameter'  // Sizemode as diameter
-        }
-    };
+// Populate all company info
+function displayAllLogos() {
+    // List of ticker logo paths
+    const tickerLogoPaths = ['./Resources/AAPL.png',
+                             './Resources/AMZN.png',
+                             './Resources/ANSS.png',
+                             './Resources/DXC.png',
+                             './Resources/FFIV.png',
+                             './Resources/GE.png',
+                             './Resources/GOOGL.png',
+                             './Resources/JNPR.png',
+                             './Resources/KEYS.png',
+                             './Resources/META.png',
+                             './Resources/MSFT.png',
+                             './Resources/MTD.png',
+                             './Resources/NVDA.png',
+                             './Resources/QRVO.png',
+                             './Resources/SEDG.png',
+                             './Resources/TSLA.png',
+                             './Resources/ZBH.png'];
 
-    let layout = {
-        title: `Bubble Chart for id: ${selectedID}`,
-        showlegend: false,
-        height: 600,
-        width: 1200,
-        xaxis: { title: "OTU IDs" },
-    };
+    // Update the "Company Info panel"
+    let panel = d3.select("#company-metadata");
+    panel.html(""); // Clear any existing metadata
 
-    Plotly.newPlot("bubble", [trace], layout);
+
+    companyMetaObject = (jsonData.company_info)[i];
+
+    
 }
+
+// Create a bubble chart that displays each sample.
+// function plotBubbleChart(sampleObject, selectedID) {
+//     let trace = {
+//         x: sampleObject.otu_ids,
+//         y: sampleObject.sample_values,
+//         text: sampleObject.otu_labels,
+//         mode: 'markers',
+//         marker: {
+//             size: sampleObject.sample_values, // To set size based on the value in the 'sample_values' array
+//             color: sampleObject.otu_ids, // To set color based on OTU ID
+//             colorscale: 'Portland',  // Colorscale
+//             sizemode: 'diameter'  // Sizemode as diameter
+//         }
+//     };
+
+//     let layout = {
+//         title: `Bubble Chart for id: ${selectedID}`,
+//         showlegend: false,
+//         height: 600,
+//         width: 1200,
+//         xaxis: { title: "OTU IDs" },
+//     };
+
+//     Plotly.newPlot("bubble", [trace], layout);
+// }

@@ -27,7 +27,8 @@
             "Sub-sector": "Industrial Conglomerates",
             "Headquarters": "Saint Paul, Minnesota",
             "Date added": "1957-03-04",
-            "Founded": "1902"
+            "Founded": "1902",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AOS",
@@ -35,7 +36,8 @@
             "Sub-sector": "Building Products",
             "Headquarters": "Milwaukee, Wisconsin",
             "Date added": "2017-07-26",
-            "Founded": "1916"
+            "Founded": "1916",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ABT",
@@ -43,7 +45,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "North Chicago, Illinois",
             "Date added": "1957-03-04",
-            "Founded": "1888"
+            "Founded": "1888",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ABBV",
@@ -51,7 +54,8 @@
             "Sub-sector": "Pharmaceuticals",
             "Headquarters": "North Chicago, Illinois",
             "Date added": "2012-12-31",
-            "Founded": "2013 (1888)"
+            "Founded": "2013 (1888)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ACN",
@@ -59,7 +63,8 @@
             "Sub-sector": "IT Consulting & Other Services",
             "Headquarters": "Dublin, Ireland",
             "Date added": "2011-07-06",
-            "Founded": "1989"
+            "Founded": "1989",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ATVI",
@@ -67,7 +72,8 @@
             "Sub-sector": "Interactive Home Entertainment",
             "Headquarters": "Santa Monica, California",
             "Date added": "2015-08-31",
-            "Founded": "2008"
+            "Founded": "2008",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ADM",
@@ -75,7 +81,8 @@
             "Sub-sector": "Agricultural Products & Services",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1957-03-04",
-            "Founded": "1902"
+            "Founded": "1902",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ADBE",
@@ -83,7 +90,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "San Jose, California",
             "Date added": "1997-05-05",
-            "Founded": "1982"
+            "Founded": "1982",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ADP",
@@ -91,7 +99,8 @@
             "Sub-sector": "Human Resource & Employment Services",
             "Headquarters": "Roseland, New Jersey",
             "Date added": "1981-03-31",
-            "Founded": "1949"
+            "Founded": "1949",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AAP",
@@ -99,7 +108,8 @@
             "Sub-sector": "Automotive Retail",
             "Headquarters": "Raleigh, North Carolina",
             "Date added": "2015-07-09",
-            "Founded": "1932"
+            "Founded": "1932",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AES",
@@ -107,7 +117,8 @@
             "Sub-sector": "Independent Power Producers & Energy Traders",
             "Headquarters": "Arlington, Virginia",
             "Date added": "1998-10-02",
-            "Founded": "1981"
+            "Founded": "1981",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AFL",
@@ -115,7 +126,8 @@
             "Sub-sector": "Life & Health Insurance",
             "Headquarters": "Columbus, Georgia",
             "Date added": "1999-05-28",
-            "Founded": "1955"
+            "Founded": "1955",
+            "LogoPath": NaN
         },
         {
             "Ticker": "A",
@@ -123,7 +135,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Santa Clara, California",
             "Date added": "2000-06-05",
-            "Founded": "1999"
+            "Founded": "1999",
+            "LogoPath": NaN
         },
         {
             "Ticker": "APD",
@@ -131,7 +144,8 @@
             "Sub-sector": "Industrial Gases",
             "Headquarters": "Allentown, Pennsylvania",
             "Date added": "1985-04-30",
-            "Founded": "1940"
+            "Founded": "1940",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AKAM",
@@ -139,7 +153,8 @@
             "Sub-sector": "Internet Services & Infrastructure",
             "Headquarters": "Cambridge, Massachusetts",
             "Date added": "2007-07-12",
-            "Founded": "1998"
+            "Founded": "1998",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ALK",
@@ -147,7 +162,8 @@
             "Sub-sector": "Passenger Airlines",
             "Headquarters": "SeaTac, Washington",
             "Date added": "2016-05-13",
-            "Founded": "1985"
+            "Founded": "1985",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ALB",
@@ -155,7 +171,8 @@
             "Sub-sector": "Specialty Chemicals",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "2016-07-01",
-            "Founded": "1994"
+            "Founded": "1994",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ARE",
@@ -163,7 +180,8 @@
             "Sub-sector": "Office REITs",
             "Headquarters": "Pasadena, California",
             "Date added": "2017-03-20",
-            "Founded": "1994"
+            "Founded": "1994",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ALGN",
@@ -171,7 +189,8 @@
             "Sub-sector": "Health Care Supplies",
             "Headquarters": "Tempe, Arizona",
             "Date added": "2017-06-19",
-            "Founded": "1997"
+            "Founded": "1997",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ALLE",
@@ -179,7 +198,8 @@
             "Sub-sector": "Building Products",
             "Headquarters": "New York City, New York",
             "Date added": "2013-12-02",
-            "Founded": "1908"
+            "Founded": "1908",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LNT",
@@ -187,7 +207,8 @@
             "Sub-sector": "Electric Utilities",
             "Headquarters": "Madison, Wisconsin",
             "Date added": "2016-07-01",
-            "Founded": "1917"
+            "Founded": "1917",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ALL",
@@ -195,7 +216,8 @@
             "Sub-sector": "Property & Casualty Insurance",
             "Headquarters": "Glenview, Illinois",
             "Date added": "1995-07-13",
-            "Founded": "1931"
+            "Founded": "1931",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GOOGL",
@@ -203,7 +225,8 @@
             "Sub-sector": "Interactive Media & Services",
             "Headquarters": "Mountain View, California",
             "Date added": "2014-04-03",
-            "Founded": "1998"
+            "Founded": "1998",
+            "LogoPath": "./Resources/GOOGL.png"
         },
         {
             "Ticker": "GOOG",
@@ -211,7 +234,8 @@
             "Sub-sector": "Interactive Media & Services",
             "Headquarters": "Mountain View, California",
             "Date added": "2006-04-03",
-            "Founded": "1998"
+            "Founded": "1998",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MO",
@@ -219,7 +243,8 @@
             "Sub-sector": "Tobacco",
             "Headquarters": "Richmond, Virginia",
             "Date added": "1957-03-04",
-            "Founded": "1985"
+            "Founded": "1985",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AMZN",
@@ -227,7 +252,8 @@
             "Sub-sector": "Broadline Retail",
             "Headquarters": "Seattle, Washington",
             "Date added": "2005-11-18",
-            "Founded": "1994"
+            "Founded": "1994",
+            "LogoPath": "./Resources/AMZN.png"
         },
         {
             "Ticker": "AMCR",
@@ -235,7 +261,8 @@
             "Sub-sector": "Paper & Plastic Packaging Products & Materials",
             "Headquarters": "Warmley, Bristol, United Kingdom",
             "Date added": "2019-06-07",
-            "Founded": "2019 (1860)"
+            "Founded": "2019 (1860)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AMD",
@@ -243,7 +270,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "Santa Clara, California",
             "Date added": "2017-03-20",
-            "Founded": "1969"
+            "Founded": "1969",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AEE",
@@ -251,7 +279,8 @@
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "St. Louis, Missouri",
             "Date added": "1991-09-19",
-            "Founded": "1902"
+            "Founded": "1902",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AAL",
@@ -259,7 +288,8 @@
             "Sub-sector": "Passenger Airlines",
             "Headquarters": "Fort Worth, Texas",
             "Date added": "2015-03-23",
-            "Founded": "1934"
+            "Founded": "1934",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AEP",
@@ -267,7 +297,8 @@
             "Sub-sector": "Electric Utilities",
             "Headquarters": "Columbus, Ohio",
             "Date added": "1957-03-04",
-            "Founded": "1906"
+            "Founded": "1906",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AXP",
@@ -275,7 +306,8 @@
             "Sub-sector": "Consumer Finance",
             "Headquarters": "New York City, New York",
             "Date added": "1976-06-30",
-            "Founded": "1850"
+            "Founded": "1850",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AIG",
@@ -283,7 +315,8 @@
             "Sub-sector": "Property & Casualty Insurance",
             "Headquarters": "New York City, New York",
             "Date added": "1980-03-31",
-            "Founded": "1919"
+            "Founded": "1919",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AMT",
@@ -291,7 +324,8 @@
             "Sub-sector": "Telecom Tower REITs",
             "Headquarters": "Boston, Massachusetts",
             "Date added": "2007-11-19",
-            "Founded": "1995"
+            "Founded": "1995",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AWK",
@@ -299,7 +333,8 @@
             "Sub-sector": "Water Utilities",
             "Headquarters": "Camden, New Jersey",
             "Date added": "2016-03-04",
-            "Founded": "1886"
+            "Founded": "1886",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AMP",
@@ -307,7 +342,8 @@
             "Sub-sector": "Asset Management & Custody Banks",
             "Headquarters": "Minneapolis, Minnesota",
             "Date added": "2005-10-03",
-            "Founded": "1894"
+            "Founded": "1894",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ABC",
@@ -315,7 +351,8 @@
             "Sub-sector": "Health Care Distributors",
             "Headquarters": "Conshohocken, Pennsylvania",
             "Date added": "2001-08-30",
-            "Founded": "1985"
+            "Founded": "1985",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AME",
@@ -323,7 +360,8 @@
             "Sub-sector": "Electrical Components & Equipment",
             "Headquarters": "Berwyn, Pennsylvania",
             "Date added": "2013-09-23",
-            "Founded": "1930"
+            "Founded": "1930",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AMGN",
@@ -331,7 +369,8 @@
             "Sub-sector": "Biotechnology",
             "Headquarters": "Thousand Oaks, California",
             "Date added": "1992-01-02",
-            "Founded": "1980"
+            "Founded": "1980",
+            "LogoPath": NaN
         },
         {
             "Ticker": "APH",
@@ -339,7 +378,8 @@
             "Sub-sector": "Electronic Components",
             "Headquarters": "Wallingford, Connecticut",
             "Date added": "2008-09-30",
-            "Founded": "1932"
+            "Founded": "1932",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ADI",
@@ -347,7 +387,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "Wilmington, Massachusetts",
             "Date added": "1999-10-12",
-            "Founded": "1965"
+            "Founded": "1965",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ANSS",
@@ -355,7 +396,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "Canonsburg, Pennsylvania",
             "Date added": "2017-06-19",
-            "Founded": "1969"
+            "Founded": "1969",
+            "LogoPath": "./Resources/ANSS.png"
         },
         {
             "Ticker": "AON",
@@ -363,7 +405,8 @@
             "Sub-sector": "Insurance Brokers",
             "Headquarters": "London, UK",
             "Date added": "1996-04-23",
-            "Founded": "1982 (1919)"
+            "Founded": "1982 (1919)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "APA",
@@ -371,7 +414,8 @@
             "Sub-sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Houston, Texas",
             "Date added": "1997-07-28",
-            "Founded": "1954"
+            "Founded": "1954",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AAPL",
@@ -379,7 +423,8 @@
             "Sub-sector": "Technology Hardware, Storage & Peripherals",
             "Headquarters": "Cupertino, California",
             "Date added": "1982-11-30",
-            "Founded": "1977"
+            "Founded": "1977",
+            "LogoPath": "./Resources/AAPL.png"
         },
         {
             "Ticker": "AMAT",
@@ -387,7 +432,8 @@
             "Sub-sector": "Semiconductor Materials & Equipment",
             "Headquarters": "Santa Clara, California",
             "Date added": "1995-03-16",
-            "Founded": "1967"
+            "Founded": "1967",
+            "LogoPath": NaN
         },
         {
             "Ticker": "APTV",
@@ -395,7 +441,8 @@
             "Sub-sector": "Automotive Parts & Equipment",
             "Headquarters": "Dublin, Ireland",
             "Date added": "2012-12-24",
-            "Founded": "1994"
+            "Founded": "1994",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ACGL",
@@ -403,7 +450,8 @@
             "Sub-sector": "Reinsurance",
             "Headquarters": "Hamilton, Bermuda",
             "Date added": "2022-11-01",
-            "Founded": "1995"
+            "Founded": "1995",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ANET",
@@ -411,7 +459,8 @@
             "Sub-sector": "Communications Equipment",
             "Headquarters": "Santa Clara, California",
             "Date added": "2018-08-28",
-            "Founded": "2004"
+            "Founded": "2004",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AJG",
@@ -419,7 +468,8 @@
             "Sub-sector": "Insurance Brokers",
             "Headquarters": "Rolling Meadows, Illinois",
             "Date added": "2016-05-31",
-            "Founded": "1927"
+            "Founded": "1927",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AIZ",
@@ -427,7 +477,8 @@
             "Sub-sector": "Multi-line Insurance",
             "Headquarters": "New York City, New York",
             "Date added": "2007-04-10",
-            "Founded": "1892"
+            "Founded": "1892",
+            "LogoPath": NaN
         },
         {
             "Ticker": "T",
@@ -435,7 +486,8 @@
             "Sub-sector": "Integrated Telecommunication Services",
             "Headquarters": "Dallas, Texas",
             "Date added": "1983-11-30",
-            "Founded": "1983 (1885)"
+            "Founded": "1983 (1885)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ATO",
@@ -443,7 +495,8 @@
             "Sub-sector": "Gas Utilities",
             "Headquarters": "Dallas, Texas",
             "Date added": "2019-02-15",
-            "Founded": "1906"
+            "Founded": "1906",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ADSK",
@@ -451,7 +504,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "San Francisco, California",
             "Date added": "1989-12-01",
-            "Founded": "1982"
+            "Founded": "1982",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AZO",
@@ -459,7 +513,8 @@
             "Sub-sector": "Specialty Stores",
             "Headquarters": "Memphis, Tennessee",
             "Date added": "1997-01-02",
-            "Founded": "1979"
+            "Founded": "1979",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AVB",
@@ -467,7 +522,8 @@
             "Sub-sector": "Residential REITs",
             "Headquarters": "Arlington, Virginia",
             "Date added": "2007-01-10",
-            "Founded": "1978"
+            "Founded": "1978",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AVY",
@@ -475,7 +531,8 @@
             "Sub-sector": "Paper & Plastic Packaging Products & Materials",
             "Headquarters": "Glendale, California",
             "Date added": "1987-12-31",
-            "Founded": "1990"
+            "Founded": "1990",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AXON",
@@ -483,7 +540,8 @@
             "Sub-sector": "Aerospace & Defense",
             "Headquarters": "Scottsdale, Arizona",
             "Date added": "2023-05-04",
-            "Founded": "1993"
+            "Founded": "1993",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BKR",
@@ -491,7 +549,8 @@
             "Sub-sector": "Oil & Gas Equipment & Services",
             "Headquarters": "Houston, Texas",
             "Date added": "2017-07-07",
-            "Founded": "2017"
+            "Founded": "2017",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BALL",
@@ -499,7 +558,8 @@
             "Sub-sector": "Metal, Glass & Plastic Containers",
             "Headquarters": "Broomfield, Colorado",
             "Date added": "1984-10-31",
-            "Founded": "1880"
+            "Founded": "1880",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BAC",
@@ -507,7 +567,8 @@
             "Sub-sector": "Diversified Banks",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "1976-06-30",
-            "Founded": "1998 (1923 / 1874)"
+            "Founded": "1998 (1923 / 1874)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BBWI",
@@ -515,7 +576,8 @@
             "Sub-sector": "Specialty Stores",
             "Headquarters": "Columbus, Ohio",
             "Date added": "1983-09-30",
-            "Founded": "1963"
+            "Founded": "1963",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BAX",
@@ -523,7 +585,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Deerfield, Illinois",
             "Date added": "1972-09-30",
-            "Founded": "1931"
+            "Founded": "1931",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BDX",
@@ -531,7 +594,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Franklin Lakes, New Jersey",
             "Date added": "1972-09-30",
-            "Founded": "1897"
+            "Founded": "1897",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WRB",
@@ -539,7 +603,8 @@
             "Sub-sector": "Property & Casualty Insurance",
             "Headquarters": "Greenwich, Connecticut",
             "Date added": "2019-12-05",
-            "Founded": "1967"
+            "Founded": "1967",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BRK.B",
@@ -547,7 +612,8 @@
             "Sub-sector": "Multi-Sector Holdings",
             "Headquarters": "Omaha, Nebraska",
             "Date added": "2010-02-16",
-            "Founded": "1839"
+            "Founded": "1839",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BBY",
@@ -555,7 +621,8 @@
             "Sub-sector": "Computer & Electronics Retail",
             "Headquarters": "Richfield, Minnesota",
             "Date added": "1999-06-29",
-            "Founded": "1966"
+            "Founded": "1966",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BIO",
@@ -563,7 +630,8 @@
             "Sub-sector": "Life Sciences Tools & Services",
             "Headquarters": "Hercules, California",
             "Date added": "2020-06-22",
-            "Founded": "1952"
+            "Founded": "1952",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TECH",
@@ -571,7 +639,8 @@
             "Sub-sector": "Life Sciences Tools & Services",
             "Headquarters": "Minneapolis, Minnesota",
             "Date added": "2021-08-30",
-            "Founded": "1976"
+            "Founded": "1976",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BIIB",
@@ -579,7 +648,8 @@
             "Sub-sector": "Biotechnology",
             "Headquarters": "Cambridge, Massachusetts",
             "Date added": "2003-11-13",
-            "Founded": "1978"
+            "Founded": "1978",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BLK",
@@ -587,7 +657,8 @@
             "Sub-sector": "Asset Management & Custody Banks",
             "Headquarters": "New York City, New York",
             "Date added": "2011-04-04",
-            "Founded": "1988"
+            "Founded": "1988",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BK",
@@ -595,7 +666,8 @@
             "Sub-sector": "Asset Management & Custody Banks",
             "Headquarters": "New York City, New York",
             "Date added": "1995-03-31",
-            "Founded": "1784"
+            "Founded": "1784",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BA",
@@ -603,7 +675,8 @@
             "Sub-sector": "Aerospace & Defense",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1957-03-04",
-            "Founded": "1916"
+            "Founded": "1916",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BKNG",
@@ -611,7 +684,8 @@
             "Sub-sector": "Hotels, Restaurants & Leisure",
             "Headquarters": "Norwalk, Connecticut",
             "Date added": "2009-11-06",
-            "Founded": "1996"
+            "Founded": "1996",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BWA",
@@ -619,7 +693,8 @@
             "Sub-sector": "Automotive Parts & Equipment",
             "Headquarters": "Auburn Hills, Michigan",
             "Date added": "2011-12-19",
-            "Founded": "1880"
+            "Founded": "1880",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BXP",
@@ -627,7 +702,8 @@
             "Sub-sector": "Office REITs",
             "Headquarters": "Boston, Massachusetts",
             "Date added": "2006-04-03",
-            "Founded": "1970"
+            "Founded": "1970",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BSX",
@@ -635,7 +711,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Marlborough, Massachusetts",
             "Date added": "1995-02-24",
-            "Founded": "1979"
+            "Founded": "1979",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BMY",
@@ -643,7 +720,8 @@
             "Sub-sector": "Pharmaceuticals",
             "Headquarters": "New York City, New York",
             "Date added": "1957-03-04",
-            "Founded": "1989 (1887)"
+            "Founded": "1989 (1887)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "AVGO",
@@ -651,7 +729,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "San Jose, California",
             "Date added": "2014-05-08",
-            "Founded": "1961"
+            "Founded": "1961",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BR",
@@ -659,7 +738,8 @@
             "Sub-sector": "Data Processing & Outsourced Services",
             "Headquarters": "Lake Success, New York",
             "Date added": "2018-06-18",
-            "Founded": "1962"
+            "Founded": "1962",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BRO",
@@ -667,7 +747,8 @@
             "Sub-sector": "Insurance Brokers",
             "Headquarters": "Daytona Beach, Florida",
             "Date added": "2021-09-20",
-            "Founded": "1939"
+            "Founded": "1939",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BF.B",
@@ -675,7 +756,8 @@
             "Sub-sector": "Distillers & Vintners",
             "Headquarters": "Louisville, Kentucky",
             "Date added": "1982-10-31",
-            "Founded": "1870"
+            "Founded": "1870",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BG",
@@ -683,7 +765,8 @@
             "Sub-sector": "Agricultural Products & Services",
             "Headquarters": "Chesterfield, Missouri",
             "Date added": "2023-03-15",
-            "Founded": "1818"
+            "Founded": "1818",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CHRW",
@@ -691,7 +774,8 @@
             "Sub-sector": "Air Freight & Logistics",
             "Headquarters": "Eden Prairie, Minnesota",
             "Date added": "2007-03-02",
-            "Founded": "1905"
+            "Founded": "1905",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CDNS",
@@ -699,7 +783,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "San Jose, California",
             "Date added": "2017-09-18",
-            "Founded": "1988"
+            "Founded": "1988",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CZR",
@@ -707,7 +792,8 @@
             "Sub-sector": "Casinos & Gaming",
             "Headquarters": "Reno, Nevada",
             "Date added": "2021-03-22",
-            "Founded": "1973"
+            "Founded": "1973",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CPT",
@@ -715,7 +801,8 @@
             "Sub-sector": "Residential REITs",
             "Headquarters": "Houston, Texas",
             "Date added": "2022-04-04",
-            "Founded": "1981"
+            "Founded": "1981",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CPB",
@@ -723,7 +810,8 @@
             "Sub-sector": "Packaged Foods & Meats",
             "Headquarters": "Camden, New Jersey",
             "Date added": "1957-03-04",
-            "Founded": "1869"
+            "Founded": "1869",
+            "LogoPath": NaN
         },
         {
             "Ticker": "COF",
@@ -731,7 +819,8 @@
             "Sub-sector": "Consumer Finance",
             "Headquarters": "Tysons Corner, Virginia",
             "Date added": "1998-07-01",
-            "Founded": "1994"
+            "Founded": "1994",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CAH",
@@ -739,7 +828,8 @@
             "Sub-sector": "Health Care Distributors",
             "Headquarters": "Dublin, Ohio",
             "Date added": "1997-05-27",
-            "Founded": "1971"
+            "Founded": "1971",
+            "LogoPath": NaN
         },
         {
             "Ticker": "KMX",
@@ -747,7 +837,8 @@
             "Sub-sector": "Automotive Retail",
             "Headquarters": "Richmond, Virginia",
             "Date added": "2010-06-28",
-            "Founded": "1993"
+            "Founded": "1993",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CCL",
@@ -755,7 +846,8 @@
             "Sub-sector": "Hotels, Resorts & Cruise Lines",
             "Headquarters": "Miami, Florida",
             "Date added": "1998-12-22",
-            "Founded": "1972"
+            "Founded": "1972",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CARR",
@@ -763,7 +855,8 @@
             "Sub-sector": "Building Products",
             "Headquarters": "Palm Beach Gardens, Florida",
             "Date added": "2020-04-03",
-            "Founded": "2020 (1915)"
+            "Founded": "2020 (1915)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CTLT",
@@ -771,7 +864,8 @@
             "Sub-sector": "Pharmaceuticals",
             "Headquarters": "Somerset, New Jersey",
             "Date added": "2020-09-21",
-            "Founded": "2007"
+            "Founded": "2007",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CAT",
@@ -779,7 +873,8 @@
             "Sub-sector": "Construction Machinery & Heavy Transportation Equipment",
             "Headquarters": "Irving, Texas",
             "Date added": "1957-03-04",
-            "Founded": "1925"
+            "Founded": "1925",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CBOE",
@@ -787,7 +882,8 @@
             "Sub-sector": "Financial Exchanges & Data",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2017-03-01",
-            "Founded": "1973"
+            "Founded": "1973",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CBRE",
@@ -795,7 +891,8 @@
             "Sub-sector": "Real Estate Services",
             "Headquarters": "Dallas, Texas",
             "Date added": "2006-11-10",
-            "Founded": "1906"
+            "Founded": "1906",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CDW",
@@ -803,7 +900,8 @@
             "Sub-sector": "Technology Distributors",
             "Headquarters": "Lincolnshire, Illinois",
             "Date added": "2019-09-23",
-            "Founded": "1984"
+            "Founded": "1984",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CE",
@@ -811,7 +909,8 @@
             "Sub-sector": "Specialty Chemicals",
             "Headquarters": "Irving, Texas",
             "Date added": "2018-12-24",
-            "Founded": "1918"
+            "Founded": "1918",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CNC",
@@ -819,7 +918,8 @@
             "Sub-sector": "Managed Health Care",
             "Headquarters": "St. Louis, Missouri",
             "Date added": "2016-03-30",
-            "Founded": "1984"
+            "Founded": "1984",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CNP",
@@ -827,7 +927,8 @@
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "Houston, Texas",
             "Date added": "1985-07-31",
-            "Founded": "1882"
+            "Founded": "1882",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CDAY",
@@ -835,7 +936,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "Minneapolis, Minnesota",
             "Date added": "2021-09-20",
-            "Founded": "1992"
+            "Founded": "1992",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CF",
@@ -843,7 +945,8 @@
             "Sub-sector": "Fertilizers & Agricultural Chemicals",
             "Headquarters": "Deerfield, Illinois",
             "Date added": "2008-08-27",
-            "Founded": "1946"
+            "Founded": "1946",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CRL",
@@ -851,7 +954,8 @@
             "Sub-sector": "Life Sciences Tools & Services",
             "Headquarters": "Wilmington, Massachusetts",
             "Date added": "2021-05-14",
-            "Founded": "1947"
+            "Founded": "1947",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SCHW",
@@ -859,7 +963,8 @@
             "Sub-sector": "Investment Banking & Brokerage",
             "Headquarters": "Westlake, Texas",
             "Date added": "1997-06-02",
-            "Founded": "1971"
+            "Founded": "1971",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CHTR",
@@ -867,7 +972,8 @@
             "Sub-sector": "Cable & Satellite",
             "Headquarters": "Stamford, Connecticut",
             "Date added": "2016-09-08",
-            "Founded": "1993"
+            "Founded": "1993",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CVX",
@@ -875,7 +981,8 @@
             "Sub-sector": "Integrated Oil & Gas",
             "Headquarters": "San Ramon, California",
             "Date added": "1957-03-04",
-            "Founded": "1879"
+            "Founded": "1879",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CMG",
@@ -883,7 +990,8 @@
             "Sub-sector": "Restaurants",
             "Headquarters": "Newport Beach, California",
             "Date added": "2011-04-28",
-            "Founded": "1993"
+            "Founded": "1993",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CB",
@@ -891,7 +999,8 @@
             "Sub-sector": "Property & Casualty Insurance",
             "Headquarters": "Zurich, Switzerland",
             "Date added": "2010-07-15",
-            "Founded": "1985"
+            "Founded": "1985",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CHD",
@@ -899,7 +1008,8 @@
             "Sub-sector": "Household Products",
             "Headquarters": "Ewing, New Jersey",
             "Date added": "2015-12-29",
-            "Founded": "1847"
+            "Founded": "1847",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CI",
@@ -907,7 +1017,8 @@
             "Sub-sector": "Managed Health Care",
             "Headquarters": "Bloomfield, Connecticut",
             "Date added": "1976-06-30",
-            "Founded": "1982"
+            "Founded": "1982",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CINF",
@@ -915,7 +1026,8 @@
             "Sub-sector": "Property & Casualty Insurance",
             "Headquarters": "Fairfield, Ohio",
             "Date added": "1997-12-18",
-            "Founded": "1950"
+            "Founded": "1950",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CTAS",
@@ -923,7 +1035,8 @@
             "Sub-sector": "Diversified Support Services",
             "Headquarters": "Mason, Ohio",
             "Date added": "2001-03-01",
-            "Founded": "1929"
+            "Founded": "1929",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CSCO",
@@ -931,7 +1044,8 @@
             "Sub-sector": "Communications Equipment",
             "Headquarters": "San Jose, California",
             "Date added": "1993-12-01",
-            "Founded": "1984"
+            "Founded": "1984",
+            "LogoPath": NaN
         },
         {
             "Ticker": "C",
@@ -939,7 +1053,8 @@
             "Sub-sector": "Diversified Banks",
             "Headquarters": "New York City, New York",
             "Date added": "1988-05-31",
-            "Founded": "1998"
+            "Founded": "1998",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CFG",
@@ -947,7 +1062,8 @@
             "Sub-sector": "Regional Banks",
             "Headquarters": "Providence, Rhode Island",
             "Date added": "2016-01-29",
-            "Founded": "1828"
+            "Founded": "1828",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CLX",
@@ -955,7 +1071,8 @@
             "Sub-sector": "Household Products",
             "Headquarters": "Oakland, California",
             "Date added": "1969-03-31",
-            "Founded": "1913"
+            "Founded": "1913",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CME",
@@ -963,7 +1080,8 @@
             "Sub-sector": "Financial Exchanges & Data",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2006-08-11",
-            "Founded": "1848"
+            "Founded": "1848",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CMS",
@@ -971,7 +1089,8 @@
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "Jackson, Michigan",
             "Date added": "1957-03-04",
-            "Founded": "1886"
+            "Founded": "1886",
+            "LogoPath": NaN
         },
         {
             "Ticker": "KO",
@@ -979,7 +1098,8 @@
             "Sub-sector": "Soft Drinks & Non-alcoholic Beverages",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1957-03-04",
-            "Founded": "1886"
+            "Founded": "1886",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CTSH",
@@ -987,7 +1107,8 @@
             "Sub-sector": "IT Consulting & Other Services",
             "Headquarters": "Teaneck, New Jersey",
             "Date added": "2006-11-17",
-            "Founded": "1994"
+            "Founded": "1994",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CL",
@@ -995,7 +1116,8 @@
             "Sub-sector": "Household Products",
             "Headquarters": "New York City, New York",
             "Date added": "1957-03-04",
-            "Founded": "1806"
+            "Founded": "1806",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CMCSA",
@@ -1003,7 +1125,8 @@
             "Sub-sector": "Cable & Satellite",
             "Headquarters": "Philadelphia, Pennsylvania",
             "Date added": "2002-11-19",
-            "Founded": "1963"
+            "Founded": "1963",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CMA",
@@ -1011,7 +1134,8 @@
             "Sub-sector": "Diversified Banks",
             "Headquarters": "Dallas, Texas",
             "Date added": "1995-12-01",
-            "Founded": "1849"
+            "Founded": "1849",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CAG",
@@ -1019,7 +1143,8 @@
             "Sub-sector": "Packaged Foods & Meats",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1983-08-31",
-            "Founded": "1919"
+            "Founded": "1919",
+            "LogoPath": NaN
         },
         {
             "Ticker": "COP",
@@ -1027,7 +1152,8 @@
             "Sub-sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Houston, Texas",
             "Date added": "1957-03-04",
-            "Founded": "2002"
+            "Founded": "2002",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ED",
@@ -1035,7 +1161,8 @@
             "Sub-sector": "Electric Utilities",
             "Headquarters": "New York City, New York",
             "Date added": "1957-03-04",
-            "Founded": "1823"
+            "Founded": "1823",
+            "LogoPath": NaN
         },
         {
             "Ticker": "STZ",
@@ -1043,7 +1170,8 @@
             "Sub-sector": "Distillers & Vintners",
             "Headquarters": "Victor, New York",
             "Date added": "2005-07-01",
-            "Founded": "1945"
+            "Founded": "1945",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CEG",
@@ -1051,7 +1179,8 @@
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "Baltimore, Maryland",
             "Date added": "2022-02-02",
-            "Founded": "1999"
+            "Founded": "1999",
+            "LogoPath": NaN
         },
         {
             "Ticker": "COO",
@@ -1059,7 +1188,8 @@
             "Sub-sector": "Health Care Supplies",
             "Headquarters": "San Ramon, California",
             "Date added": "2016-09-23",
-            "Founded": "1958"
+            "Founded": "1958",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CPRT",
@@ -1067,7 +1197,8 @@
             "Sub-sector": "Diversified Support Services",
             "Headquarters": "Dallas, Texas",
             "Date added": "2018-07-02",
-            "Founded": "1982"
+            "Founded": "1982",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GLW",
@@ -1075,7 +1206,8 @@
             "Sub-sector": "Electronic Components",
             "Headquarters": "Corning, New York",
             "Date added": "1995-02-27",
-            "Founded": "1851"
+            "Founded": "1851",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CTVA",
@@ -1083,7 +1215,8 @@
             "Sub-sector": "Fertilizers & Agricultural Chemicals",
             "Headquarters": "Indianapolis, Indiana",
             "Date added": "2019-06-03",
-            "Founded": "2019"
+            "Founded": "2019",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CSGP",
@@ -1091,7 +1224,8 @@
             "Sub-sector": "Research & Consulting Services",
             "Headquarters": "Washington, D.C.",
             "Date added": "2022-09-19",
-            "Founded": "1987"
+            "Founded": "1987",
+            "LogoPath": NaN
         },
         {
             "Ticker": "COST",
@@ -1099,7 +1233,8 @@
             "Sub-sector": "Consumer Staples Merchandise Retail",
             "Headquarters": "Issaquah, Washington",
             "Date added": "1993-10-01",
-            "Founded": "1976"
+            "Founded": "1976",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CTRA",
@@ -1107,7 +1242,8 @@
             "Sub-sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Houston, Texas",
             "Date added": "2008-06-23",
-            "Founded": "2021 (1989)"
+            "Founded": "2021 (1989)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CCI",
@@ -1115,7 +1251,8 @@
             "Sub-sector": "Telecom Tower REITs",
             "Headquarters": "Houston, Texas",
             "Date added": "2012-03-14",
-            "Founded": "1994"
+            "Founded": "1994",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CSX",
@@ -1123,7 +1260,8 @@
             "Sub-sector": "Rail Transportation",
             "Headquarters": "Jacksonville, Florida",
             "Date added": "1957-03-04",
-            "Founded": "1980"
+            "Founded": "1980",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CMI",
@@ -1131,7 +1269,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Columbus, Indiana",
             "Date added": "1965-03-31",
-            "Founded": "1919"
+            "Founded": "1919",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CVS",
@@ -1139,7 +1278,8 @@
             "Sub-sector": "Health Care Services",
             "Headquarters": "Woonsocket, Rhode Island",
             "Date added": "1957-03-04",
-            "Founded": "1996"
+            "Founded": "1996",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DHI",
@@ -1147,7 +1287,8 @@
             "Sub-sector": "Homebuilding",
             "Headquarters": "Arlington, Texas",
             "Date added": "2005-06-22",
-            "Founded": "1978"
+            "Founded": "1978",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DHR",
@@ -1155,7 +1296,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Washington, D.C.",
             "Date added": "1998-11-18",
-            "Founded": "1969"
+            "Founded": "1969",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DRI",
@@ -1163,7 +1305,8 @@
             "Sub-sector": "Restaurants",
             "Headquarters": "Orlando, Florida",
             "Date added": "1995-05-31",
-            "Founded": "1938"
+            "Founded": "1938",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DVA",
@@ -1171,7 +1314,8 @@
             "Sub-sector": "Health Care Facilities",
             "Headquarters": "Denver, Colorado",
             "Date added": "2008-07-31",
-            "Founded": "1979"
+            "Founded": "1979",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DE",
@@ -1179,7 +1323,8 @@
             "Sub-sector": "Agricultural & Farm Machinery",
             "Headquarters": "Moline, Illinois",
             "Date added": "1957-03-04",
-            "Founded": "1837"
+            "Founded": "1837",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DAL",
@@ -1187,7 +1332,8 @@
             "Sub-sector": "Passenger Airlines",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "2013-09-11",
-            "Founded": "1929"
+            "Founded": "1929",
+            "LogoPath": NaN
         },
         {
             "Ticker": "XRAY",
@@ -1195,7 +1341,8 @@
             "Sub-sector": "Health Care Supplies",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "2008-11-14",
-            "Founded": "2016 (1969)"
+            "Founded": "2016 (1969)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DVN",
@@ -1203,7 +1350,8 @@
             "Sub-sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Oklahoma City, Oklahoma",
             "Date added": "2000-08-30",
-            "Founded": "1971"
+            "Founded": "1971",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DXCM",
@@ -1211,7 +1359,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "San Diego, California",
             "Date added": "2020-05-12",
-            "Founded": "1999"
+            "Founded": "1999",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FANG",
@@ -1219,7 +1368,8 @@
             "Sub-sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Midland, Texas",
             "Date added": "2018-12-03",
-            "Founded": "2007"
+            "Founded": "2007",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DLR",
@@ -1227,7 +1377,8 @@
             "Sub-sector": "Data Center REITs",
             "Headquarters": "Austin, Texas",
             "Date added": "2016-05-18",
-            "Founded": "2004"
+            "Founded": "2004",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DFS",
@@ -1235,7 +1386,8 @@
             "Sub-sector": "Consumer Finance",
             "Headquarters": "Riverwoods, Illinois",
             "Date added": "2007-07-02",
-            "Founded": "1985"
+            "Founded": "1985",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DIS",
@@ -1243,7 +1395,8 @@
             "Sub-sector": "Movies & Entertainment",
             "Headquarters": "Burbank, California",
             "Date added": "1976-06-30",
-            "Founded": "1923"
+            "Founded": "1923",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DG",
@@ -1251,7 +1404,8 @@
             "Sub-sector": "Consumer Staples Merchandise Retail",
             "Headquarters": "Goodlettsville, Tennessee",
             "Date added": "2012-12-03",
-            "Founded": "1939"
+            "Founded": "1939",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DLTR",
@@ -1259,7 +1413,8 @@
             "Sub-sector": "Consumer Staples Merchandise Retail",
             "Headquarters": "Chesapeake, Virginia",
             "Date added": "2011-12-19",
-            "Founded": "1986"
+            "Founded": "1986",
+            "LogoPath": NaN
         },
         {
             "Ticker": "D",
@@ -1267,7 +1422,8 @@
             "Sub-sector": "Electric Utilities",
             "Headquarters": "Richmond, Virginia",
             "Date added": "2011-12-20",
-            "Founded": "1983"
+            "Founded": "1983",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DPZ",
@@ -1275,7 +1431,8 @@
             "Sub-sector": "Restaurants",
             "Headquarters": "Ann Arbor, Michigan",
             "Date added": "2020-05-12",
-            "Founded": "1960"
+            "Founded": "1960",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DOV",
@@ -1283,7 +1440,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Downers Grove, Illinois",
             "Date added": "1985-10-31",
-            "Founded": "1955"
+            "Founded": "1955",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DOW",
@@ -1291,7 +1449,8 @@
             "Sub-sector": "Commodity Chemicals",
             "Headquarters": "Midland, Michigan",
             "Date added": "2019-04-01",
-            "Founded": "2019"
+            "Founded": "2019",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DTE",
@@ -1299,7 +1458,8 @@
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "Detroit, Michigan",
             "Date added": "1957-03-04",
-            "Founded": "1995"
+            "Founded": "1995",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DUK",
@@ -1307,7 +1467,8 @@
             "Sub-sector": "Electric Utilities",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "1976-06-30",
-            "Founded": "1904"
+            "Founded": "1904",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DD",
@@ -1315,7 +1476,8 @@
             "Sub-sector": "Specialty Chemicals",
             "Headquarters": "Wilmington, Delaware",
             "Date added": "2019-04-02",
-            "Founded": "2017"
+            "Founded": "2017",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DXC",
@@ -1323,7 +1485,8 @@
             "Sub-sector": "IT Consulting & Other Services",
             "Headquarters": "Tysons Corner, Virginia",
             "Date added": "2017-04-04",
-            "Founded": "2017"
+            "Founded": "2017",
+            "LogoPath": "./Resources/DXC.png"
         },
         {
             "Ticker": "EMN",
@@ -1331,7 +1494,8 @@
             "Sub-sector": "Diversified Chemicals",
             "Headquarters": "Kingsport, Tennessee",
             "Date added": "1994-01-01",
-            "Founded": "1920"
+            "Founded": "1920",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ETN",
@@ -1339,7 +1503,8 @@
             "Sub-sector": "Electrical Components & Equipment",
             "Headquarters": "Dublin, Ireland",
             "Date added": "1957-03-04",
-            "Founded": "1911"
+            "Founded": "1911",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EBAY",
@@ -1347,7 +1512,8 @@
             "Sub-sector": "Broadline Retail",
             "Headquarters": "San Jose, California",
             "Date added": "2002-07-22",
-            "Founded": "1995"
+            "Founded": "1995",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ECL",
@@ -1355,7 +1521,8 @@
             "Sub-sector": "Specialty Chemicals",
             "Headquarters": "Saint Paul, Minnesota",
             "Date added": "1989-01-31",
-            "Founded": "1923"
+            "Founded": "1923",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EIX",
@@ -1363,7 +1530,8 @@
             "Sub-sector": "Electric Utilities",
             "Headquarters": "Rosemead, California",
             "Date added": "1957-03-04",
-            "Founded": "1886"
+            "Founded": "1886",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EW",
@@ -1371,7 +1539,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Irvine, California",
             "Date added": "2011-04-01",
-            "Founded": "1958"
+            "Founded": "1958",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EA",
@@ -1379,7 +1548,8 @@
             "Sub-sector": "Interactive Home Entertainment",
             "Headquarters": "Redwood City, California",
             "Date added": "2002-07-22",
-            "Founded": "1982"
+            "Founded": "1982",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ELV",
@@ -1387,7 +1557,8 @@
             "Sub-sector": "Managed Health Care",
             "Headquarters": "Indianapolis, Indiana",
             "Date added": "2002-07-25",
-            "Founded": "2014 (1946)"
+            "Founded": "2014 (1946)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LLY",
@@ -1395,7 +1566,8 @@
             "Sub-sector": "Pharmaceuticals",
             "Headquarters": "Indianapolis, Indiana",
             "Date added": "1970-12-31",
-            "Founded": "1876"
+            "Founded": "1876",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EMR",
@@ -1403,7 +1575,8 @@
             "Sub-sector": "Electrical Components & Equipment",
             "Headquarters": "Ferguson, Missouri",
             "Date added": "1965-03-31",
-            "Founded": "1890"
+            "Founded": "1890",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ENPH",
@@ -1411,7 +1584,8 @@
             "Sub-sector": "Electronic Components",
             "Headquarters": "Fremont, California",
             "Date added": "2021-01-07",
-            "Founded": "2006"
+            "Founded": "2006",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ETR",
@@ -1419,7 +1593,8 @@
             "Sub-sector": "Electric Utilities",
             "Headquarters": "New Orleans, Louisiana",
             "Date added": "1957-03-04",
-            "Founded": "1913"
+            "Founded": "1913",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EOG",
@@ -1427,7 +1602,8 @@
             "Sub-sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Houston, Texas",
             "Date added": "2000-11-02",
-            "Founded": "1999"
+            "Founded": "1999",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EPAM",
@@ -1435,7 +1611,8 @@
             "Sub-sector": "IT Consulting & Other Services",
             "Headquarters": "Newtown, Pennsylvania",
             "Date added": "2021-12-14",
-            "Founded": "1993"
+            "Founded": "1993",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EQT",
@@ -1443,7 +1620,8 @@
             "Sub-sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Pittsburgh, Pennsylvania",
             "Date added": "2022-10-03",
-            "Founded": "1888"
+            "Founded": "1888",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EFX",
@@ -1451,7 +1629,8 @@
             "Sub-sector": "Research & Consulting Services",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1997-06-19",
-            "Founded": "1899"
+            "Founded": "1899",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EQIX",
@@ -1459,7 +1638,8 @@
             "Sub-sector": "Data Center REITs",
             "Headquarters": "Redwood City, California",
             "Date added": "2015-03-20",
-            "Founded": "1998"
+            "Founded": "1998",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EQR",
@@ -1467,7 +1647,8 @@
             "Sub-sector": "Residential REITs",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2001-12-03",
-            "Founded": "1969"
+            "Founded": "1969",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ESS",
@@ -1475,7 +1656,8 @@
             "Sub-sector": "Residential REITs",
             "Headquarters": "San Mateo, California",
             "Date added": "2014-04-02",
-            "Founded": "1971"
+            "Founded": "1971",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EL",
@@ -1483,7 +1665,8 @@
             "Sub-sector": "Personal Care Products",
             "Headquarters": "New York City, New York",
             "Date added": "2006-01-05",
-            "Founded": "1946"
+            "Founded": "1946",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ETSY",
@@ -1491,7 +1674,8 @@
             "Sub-sector": "Broadline Retail",
             "Headquarters": "New York City, New York",
             "Date added": "2020-09-21",
-            "Founded": "2005"
+            "Founded": "2005",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EG",
@@ -1499,7 +1683,8 @@
             "Sub-sector": "Reinsurance",
             "Headquarters": "Hamilton, Bermuda",
             "Date added": "2017-06-19",
-            "Founded": "1973"
+            "Founded": "1973",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EVRG",
@@ -1507,7 +1692,8 @@
             "Sub-sector": "Electric Utilities",
             "Headquarters": "Kansas City, Missouri",
             "Date added": "2018-06-05",
-            "Founded": "1909"
+            "Founded": "1909",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ES",
@@ -1515,7 +1701,8 @@
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "Hartford, Connecticut",
             "Date added": "2009-01-01",
-            "Founded": "1966"
+            "Founded": "1966",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EXC",
@@ -1523,7 +1710,8 @@
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1957-03-04",
-            "Founded": "2000"
+            "Founded": "2000",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EXPE",
@@ -1531,7 +1719,8 @@
             "Sub-sector": "Hotels, Restaurants & Leisure",
             "Headquarters": "Seattle, Washington",
             "Date added": "2007-10-02",
-            "Founded": "1996"
+            "Founded": "1996",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EXPD",
@@ -1539,7 +1728,8 @@
             "Sub-sector": "Air Freight & Logistics",
             "Headquarters": "Seattle, Washington",
             "Date added": "2007-10-10",
-            "Founded": "1979"
+            "Founded": "1979",
+            "LogoPath": NaN
         },
         {
             "Ticker": "EXR",
@@ -1547,7 +1737,8 @@
             "Sub-sector": "Self-Storage REITs",
             "Headquarters": "Salt Lake City, Utah",
             "Date added": "2016-01-19",
-            "Founded": "1977"
+            "Founded": "1977",
+            "LogoPath": NaN
         },
         {
             "Ticker": "XOM",
@@ -1555,7 +1746,8 @@
             "Sub-sector": "Integrated Oil & Gas",
             "Headquarters": "Irving, Texas",
             "Date added": "1957-03-04",
-            "Founded": "1999"
+            "Founded": "1999",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FFIV",
@@ -1563,7 +1755,8 @@
             "Sub-sector": "Communications Equipment",
             "Headquarters": "Seattle, Washington",
             "Date added": "2010-12-20",
-            "Founded": "1996"
+            "Founded": "1996",
+            "LogoPath": "./Resources/FFIV.png"
         },
         {
             "Ticker": "FDS",
@@ -1571,7 +1764,8 @@
             "Sub-sector": "Financial Exchanges & Data",
             "Headquarters": "Norwalk, Connecticut",
             "Date added": "2021-12-20",
-            "Founded": "1978"
+            "Founded": "1978",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FICO",
@@ -1579,7 +1773,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "Bozeman, Montana",
             "Date added": "2023-03-20",
-            "Founded": "1956"
+            "Founded": "1956",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FAST",
@@ -1587,7 +1782,8 @@
             "Sub-sector": "Building Products",
             "Headquarters": "Winona, Minnesota",
             "Date added": "2008-09-15",
-            "Founded": "1967"
+            "Founded": "1967",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FRT",
@@ -1595,7 +1791,8 @@
             "Sub-sector": "Retail REITs",
             "Headquarters": "Rockville, Maryland",
             "Date added": "2016-02-01",
-            "Founded": "1962"
+            "Founded": "1962",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FDX",
@@ -1603,7 +1800,8 @@
             "Sub-sector": "Air Freight & Logistics",
             "Headquarters": "Memphis, Tennessee",
             "Date added": "1980-12-31",
-            "Founded": "1971"
+            "Founded": "1971",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FITB",
@@ -1611,7 +1809,8 @@
             "Sub-sector": "Regional Banks",
             "Headquarters": "Cincinnati, Ohio",
             "Date added": "1996-03-29",
-            "Founded": "1858"
+            "Founded": "1858",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FSLR",
@@ -1619,7 +1818,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "Tempe, Arizona",
             "Date added": "2022-12-19",
-            "Founded": "1999"
+            "Founded": "1999",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FE",
@@ -1627,7 +1827,8 @@
             "Sub-sector": "Electric Utilities",
             "Headquarters": "Akron, Ohio",
             "Date added": "1997-11-28",
-            "Founded": "1997"
+            "Founded": "1997",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FIS",
@@ -1635,7 +1836,8 @@
             "Sub-sector": "Transaction & Payment Processing Services",
             "Headquarters": "Jacksonville, Florida",
             "Date added": "2006-11-10",
-            "Founded": "1968"
+            "Founded": "1968",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FI",
@@ -1643,7 +1845,8 @@
             "Sub-sector": "Transaction & Payment Processing Services",
             "Headquarters": "Brookfield, Wisconsin",
             "Date added": "2001-04-02",
-            "Founded": "1984"
+            "Founded": "1984",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FLT",
@@ -1651,7 +1854,8 @@
             "Sub-sector": "Transaction & Payment Processing Services",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "2018-06-20",
-            "Founded": "2000"
+            "Founded": "2000",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FMC",
@@ -1659,7 +1863,8 @@
             "Sub-sector": "Fertilizers & Agricultural Chemicals",
             "Headquarters": "Philadelphia, Pennsylvania",
             "Date added": "2009-08-19",
-            "Founded": "1883"
+            "Founded": "1883",
+            "LogoPath": NaN
         },
         {
             "Ticker": "F",
@@ -1667,7 +1872,8 @@
             "Sub-sector": "Automobile Manufacturers",
             "Headquarters": "Dearborn, Michigan",
             "Date added": "1957-03-04",
-            "Founded": "1903"
+            "Founded": "1903",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FTNT",
@@ -1675,7 +1881,8 @@
             "Sub-sector": "Systems Software",
             "Headquarters": "Sunnyvale, California",
             "Date added": "2018-10-11",
-            "Founded": "2000"
+            "Founded": "2000",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FTV",
@@ -1683,7 +1890,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Everett, Washington",
             "Date added": "2016-07-01",
-            "Founded": "2016"
+            "Founded": "2016",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FOXA",
@@ -1691,7 +1899,8 @@
             "Sub-sector": "Movies & Entertainment",
             "Headquarters": "New York City, New York",
             "Date added": "2013-07-01",
-            "Founded": "2019"
+            "Founded": "2019",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FOX",
@@ -1699,7 +1908,8 @@
             "Sub-sector": "Movies & Entertainment",
             "Headquarters": "New York City, New York",
             "Date added": "2015-09-18",
-            "Founded": "2019"
+            "Founded": "2019",
+            "LogoPath": NaN
         },
         {
             "Ticker": "BEN",
@@ -1707,7 +1917,8 @@
             "Sub-sector": "Asset Management & Custody Banks",
             "Headquarters": "San Mateo, California",
             "Date added": "1998-04-30",
-            "Founded": "1947"
+            "Founded": "1947",
+            "LogoPath": NaN
         },
         {
             "Ticker": "FCX",
@@ -1715,7 +1926,8 @@
             "Sub-sector": "Copper",
             "Headquarters": "Phoenix, Arizona",
             "Date added": "1998-05-01",
-            "Founded": "1912"
+            "Founded": "1912",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GRMN",
@@ -1723,7 +1935,8 @@
             "Sub-sector": "Consumer Electronics",
             "Headquarters": "Schaffhausen, Switzerland",
             "Date added": "2012-12-12",
-            "Founded": "1989"
+            "Founded": "1989",
+            "LogoPath": NaN
         },
         {
             "Ticker": "IT",
@@ -1731,7 +1944,8 @@
             "Sub-sector": "IT Consulting & Other Services",
             "Headquarters": "Stamford, Connecticut",
             "Date added": "2017-04-05",
-            "Founded": "1979"
+            "Founded": "1979",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GEHC",
@@ -1739,7 +1953,8 @@
             "Sub-sector": "Health Care Technology",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2023-01-04",
-            "Founded": "1994"
+            "Founded": "1994",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GEN",
@@ -1747,7 +1962,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "Tempe, Arizona",
             "Date added": "2003-03-25",
-            "Founded": "1982"
+            "Founded": "1982",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GNRC",
@@ -1755,7 +1971,8 @@
             "Sub-sector": "Electrical Components & Equipment",
             "Headquarters": "Waukesha, Wisconsin",
             "Date added": "2021-03-22",
-            "Founded": "1959"
+            "Founded": "1959",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GD",
@@ -1763,7 +1980,8 @@
             "Sub-sector": "Aerospace & Defense",
             "Headquarters": "Falls Church, Virginia",
             "Date added": "1957-03-04",
-            "Founded": "1899"
+            "Founded": "1899",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GE",
@@ -1771,7 +1989,8 @@
             "Sub-sector": "Industrial Conglomerates",
             "Headquarters": "Boston, Massachusetts",
             "Date added": "1957-03-04",
-            "Founded": "1892"
+            "Founded": "1892",
+            "LogoPath": "./Resources/GE.png"
         },
         {
             "Ticker": "GIS",
@@ -1779,7 +1998,8 @@
             "Sub-sector": "Packaged Foods & Meats",
             "Headquarters": "Golden Valley, Minnesota",
             "Date added": "1957-03-04",
-            "Founded": "1856"
+            "Founded": "1856",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GM",
@@ -1787,7 +2007,8 @@
             "Sub-sector": "Automobile Manufacturers",
             "Headquarters": "Detroit, Michigan",
             "Date added": "2013-06-06",
-            "Founded": "1908"
+            "Founded": "1908",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GPC",
@@ -1795,7 +2016,8 @@
             "Sub-sector": "Specialty Stores",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1973-12-31",
-            "Founded": "1925"
+            "Founded": "1925",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GILD",
@@ -1803,7 +2025,8 @@
             "Sub-sector": "Biotechnology",
             "Headquarters": "Foster City, California",
             "Date added": "2004-07-01",
-            "Founded": "1987"
+            "Founded": "1987",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GL",
@@ -1811,7 +2034,8 @@
             "Sub-sector": "Life & Health Insurance",
             "Headquarters": "McKinney, Texas",
             "Date added": "1989-04-30",
-            "Founded": "1900"
+            "Founded": "1900",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GPN",
@@ -1819,7 +2043,8 @@
             "Sub-sector": "Transaction & Payment Processing Services",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "2016-04-25",
-            "Founded": "2000"
+            "Founded": "2000",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GS",
@@ -1827,7 +2052,8 @@
             "Sub-sector": "Investment Banking & Brokerage",
             "Headquarters": "New York City, New York",
             "Date added": "2002-07-22",
-            "Founded": "1869"
+            "Founded": "1869",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HAL",
@@ -1835,7 +2061,8 @@
             "Sub-sector": "Oil & Gas Equipment & Services",
             "Headquarters": "Houston, Texas",
             "Date added": "1957-03-04",
-            "Founded": "1919"
+            "Founded": "1919",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HIG",
@@ -1843,7 +2070,8 @@
             "Sub-sector": "Property & Casualty Insurance",
             "Headquarters": "Hartford, Connecticut",
             "Date added": "1957-03-04",
-            "Founded": "1810"
+            "Founded": "1810",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HAS",
@@ -1851,7 +2079,8 @@
             "Sub-sector": "Leisure Products",
             "Headquarters": "Pawtucket, Rhode Island",
             "Date added": "1984-09-30",
-            "Founded": "1923"
+            "Founded": "1923",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HCA",
@@ -1859,7 +2088,8 @@
             "Sub-sector": "Health Care Facilities",
             "Headquarters": "Nashville, Tennessee",
             "Date added": "2015-01-27",
-            "Founded": "1968"
+            "Founded": "1968",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PEAK",
@@ -1867,7 +2097,8 @@
             "Sub-sector": "Health Care REITs",
             "Headquarters": "Long Beach, California",
             "Date added": "2008-03-31",
-            "Founded": "1985"
+            "Founded": "1985",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HSIC",
@@ -1875,7 +2106,8 @@
             "Sub-sector": "Health Care Distributors",
             "Headquarters": "Melville, New York",
             "Date added": "2015-03-17",
-            "Founded": "1932"
+            "Founded": "1932",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HSY",
@@ -1883,7 +2115,8 @@
             "Sub-sector": "Packaged Foods & Meats",
             "Headquarters": "Hershey, Pennsylvania",
             "Date added": "1957-03-04",
-            "Founded": "1894"
+            "Founded": "1894",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HES",
@@ -1891,7 +2124,8 @@
             "Sub-sector": "Integrated Oil & Gas",
             "Headquarters": "New York City, New York",
             "Date added": "1984-05-31",
-            "Founded": "1919"
+            "Founded": "1919",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HPE",
@@ -1899,7 +2133,8 @@
             "Sub-sector": "Technology Hardware, Storage & Peripherals",
             "Headquarters": "Houston, Texas",
             "Date added": "2015-11-02",
-            "Founded": "2015"
+            "Founded": "2015",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HLT",
@@ -1907,7 +2142,8 @@
             "Sub-sector": "Hotels, Resorts & Cruise Lines",
             "Headquarters": "Tysons Corner, Virginia",
             "Date added": "2017-06-19",
-            "Founded": "1919"
+            "Founded": "1919",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HOLX",
@@ -1915,7 +2151,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Marlborough, Massachusetts",
             "Date added": "2016-03-30",
-            "Founded": "1985"
+            "Founded": "1985",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HD",
@@ -1923,7 +2160,8 @@
             "Sub-sector": "Home Improvement Retail",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1988-03-31",
-            "Founded": "1978"
+            "Founded": "1978",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HON",
@@ -1931,7 +2169,8 @@
             "Sub-sector": "Industrial Conglomerates",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "1957-03-04",
-            "Founded": "1906"
+            "Founded": "1906",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HRL",
@@ -1939,7 +2178,8 @@
             "Sub-sector": "Packaged Foods & Meats",
             "Headquarters": "Austin, Minnesota",
             "Date added": "2009-03-04",
-            "Founded": "1891"
+            "Founded": "1891",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HST",
@@ -1947,7 +2187,8 @@
             "Sub-sector": "Hotel & Resort REITs",
             "Headquarters": "Bethesda, Maryland",
             "Date added": "2007-03-20",
-            "Founded": "1993"
+            "Founded": "1993",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HWM",
@@ -1955,7 +2196,8 @@
             "Sub-sector": "Aerospace & Defense",
             "Headquarters": "Pittsburgh, Pennsylvania",
             "Date added": "1957-03-04",
-            "Founded": "2016"
+            "Founded": "2016",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HPQ",
@@ -1963,7 +2205,8 @@
             "Sub-sector": "Technology Hardware, Storage & Peripherals",
             "Headquarters": "Palo Alto, California",
             "Date added": "1974-12-31",
-            "Founded": "1939 (2015)"
+            "Founded": "1939 (2015)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HUM",
@@ -1971,7 +2214,8 @@
             "Sub-sector": "Managed Health Care",
             "Headquarters": "Louisville, Kentucky",
             "Date added": "1975-01-01",
-            "Founded": "1961"
+            "Founded": "1961",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HBAN",
@@ -1979,7 +2223,8 @@
             "Sub-sector": "Regional Banks",
             "Headquarters": "Columbus, Ohio; Detroit, Michigan",
             "Date added": "1997-08-28",
-            "Founded": "1866"
+            "Founded": "1866",
+            "LogoPath": NaN
         },
         {
             "Ticker": "HII",
@@ -1987,7 +2232,8 @@
             "Sub-sector": "Aerospace & Defense",
             "Headquarters": "Newport News, Virginia",
             "Date added": "2018-01-03",
-            "Founded": "2011"
+            "Founded": "2011",
+            "LogoPath": NaN
         },
         {
             "Ticker": "IBM",
@@ -1995,7 +2241,8 @@
             "Sub-sector": "IT Consulting & Other Services",
             "Headquarters": "Armonk, New York",
             "Date added": "1957-03-04",
-            "Founded": "1911"
+            "Founded": "1911",
+            "LogoPath": NaN
         },
         {
             "Ticker": "IEX",
@@ -2003,7 +2250,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Lake Forest, Illinois",
             "Date added": "2019-08-09",
-            "Founded": "1988"
+            "Founded": "1988",
+            "LogoPath": NaN
         },
         {
             "Ticker": "IDXX",
@@ -2011,7 +2259,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Westbrook, Maine",
             "Date added": "2017-01-05",
-            "Founded": "1983"
+            "Founded": "1983",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ITW",
@@ -2019,7 +2268,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Glenview, Illinois",
             "Date added": "1986-02-28",
-            "Founded": "1912"
+            "Founded": "1912",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ILMN",
@@ -2027,7 +2277,8 @@
             "Sub-sector": "Life Sciences Tools & Services",
             "Headquarters": "San Diego, California",
             "Date added": "2015-11-19",
-            "Founded": "1998"
+            "Founded": "1998",
+            "LogoPath": NaN
         },
         {
             "Ticker": "INCY",
@@ -2035,7 +2286,8 @@
             "Sub-sector": "Biotechnology",
             "Headquarters": "Wilmington, Delaware",
             "Date added": "2017-02-28",
-            "Founded": "1991"
+            "Founded": "1991",
+            "LogoPath": NaN
         },
         {
             "Ticker": "IR",
@@ -2043,7 +2295,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Davidson, North Carolina",
             "Date added": "2020-03-03",
-            "Founded": "1859"
+            "Founded": "1859",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PODD",
@@ -2051,7 +2304,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Acton, Massachusetts",
             "Date added": "2023-03-15",
-            "Founded": "2000"
+            "Founded": "2000",
+            "LogoPath": NaN
         },
         {
             "Ticker": "INTC",
@@ -2059,7 +2313,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "Santa Clara, California",
             "Date added": "1976-12-31",
-            "Founded": "1968"
+            "Founded": "1968",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ICE",
@@ -2067,7 +2322,8 @@
             "Sub-sector": "Financial Exchanges & Data",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "2007-09-26",
-            "Founded": "2000"
+            "Founded": "2000",
+            "LogoPath": NaN
         },
         {
             "Ticker": "IFF",
@@ -2075,7 +2331,8 @@
             "Sub-sector": "Specialty Chemicals",
             "Headquarters": "New York City, New York",
             "Date added": "1976-03-31",
-            "Founded": "1958 (1889)"
+            "Founded": "1958 (1889)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "IP",
@@ -2083,7 +2340,8 @@
             "Sub-sector": "Paper & Plastic Packaging Products & Materials",
             "Headquarters": "Memphis, Tennessee",
             "Date added": "1957-03-04",
-            "Founded": "1898"
+            "Founded": "1898",
+            "LogoPath": NaN
         },
         {
             "Ticker": "IPG",
@@ -2091,7 +2349,8 @@
             "Sub-sector": "Advertising",
             "Headquarters": "New York City, New York",
             "Date added": "1992-10-01",
-            "Founded": "1961 (1930)"
+            "Founded": "1961 (1930)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "INTU",
@@ -2099,7 +2358,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "Mountain View, California",
             "Date added": "2000-12-05",
-            "Founded": "1983"
+            "Founded": "1983",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ISRG",
@@ -2107,7 +2367,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Sunnyvale, California",
             "Date added": "2008-06-02",
-            "Founded": "1995"
+            "Founded": "1995",
+            "LogoPath": NaN
         },
         {
             "Ticker": "IVZ",
@@ -2115,7 +2376,8 @@
             "Sub-sector": "Asset Management & Custody Banks",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "2008-08-21",
-            "Founded": "1935"
+            "Founded": "1935",
+            "LogoPath": NaN
         },
         {
             "Ticker": "INVH",
@@ -2123,7 +2385,8 @@
             "Sub-sector": "Residential REITs",
             "Headquarters": "Dallas, Texas",
             "Date added": "2022-09-19",
-            "Founded": "2012"
+            "Founded": "2012",
+            "LogoPath": NaN
         },
         {
             "Ticker": "IQV",
@@ -2131,7 +2394,8 @@
             "Sub-sector": "Life Sciences Tools & Services",
             "Headquarters": "Durham, North Carolina",
             "Date added": "2017-08-29",
-            "Founded": "1982"
+            "Founded": "1982",
+            "LogoPath": NaN
         },
         {
             "Ticker": "IRM",
@@ -2139,7 +2403,8 @@
             "Sub-sector": "Other Specialized REITs",
             "Headquarters": "Boston, Massachusetts",
             "Date added": "2009-01-06",
-            "Founded": "1951"
+            "Founded": "1951",
+            "LogoPath": NaN
         },
         {
             "Ticker": "JBHT",
@@ -2147,7 +2412,8 @@
             "Sub-sector": "Cargo Ground Transportation",
             "Headquarters": "Lowell, Arkansas",
             "Date added": "2015-07-01",
-            "Founded": "1961"
+            "Founded": "1961",
+            "LogoPath": NaN
         },
         {
             "Ticker": "JKHY",
@@ -2155,7 +2421,8 @@
             "Sub-sector": "Transaction & Payment Processing Services",
             "Headquarters": "Monett, Missouri",
             "Date added": "2018-11-13",
-            "Founded": "1976"
+            "Founded": "1976",
+            "LogoPath": NaN
         },
         {
             "Ticker": "J",
@@ -2163,7 +2430,8 @@
             "Sub-sector": "Construction & Engineering",
             "Headquarters": "Dallas, Texas",
             "Date added": "2007-10-26",
-            "Founded": "1947"
+            "Founded": "1947",
+            "LogoPath": NaN
         },
         {
             "Ticker": "JNJ",
@@ -2171,7 +2439,8 @@
             "Sub-sector": "Pharmaceuticals",
             "Headquarters": "New Brunswick, New Jersey",
             "Date added": "1973-06-30",
-            "Founded": "1886"
+            "Founded": "1886",
+            "LogoPath": NaN
         },
         {
             "Ticker": "JCI",
@@ -2179,7 +2448,8 @@
             "Sub-sector": "Building Products",
             "Headquarters": "Cork, Ireland",
             "Date added": "2010-08-27",
-            "Founded": "1885"
+            "Founded": "1885",
+            "LogoPath": NaN
         },
         {
             "Ticker": "JPM",
@@ -2187,7 +2457,8 @@
             "Sub-sector": "Diversified Banks",
             "Headquarters": "New York City, New York",
             "Date added": "1975-06-30",
-            "Founded": "2000 (1799 / 1871)"
+            "Founded": "2000 (1799 / 1871)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "JNPR",
@@ -2195,7 +2466,8 @@
             "Sub-sector": "Communications Equipment",
             "Headquarters": "Sunnyvale, California",
             "Date added": "2006-06-02",
-            "Founded": "1996"
+            "Founded": "1996",
+            "LogoPath": "./Resources/JNPR.png"
         },
         {
             "Ticker": "K",
@@ -2203,7 +2475,8 @@
             "Sub-sector": "Packaged Foods & Meats",
             "Headquarters": "Battle Creek, Michigan",
             "Date added": "1989-09-11",
-            "Founded": "1906"
+            "Founded": "1906",
+            "LogoPath": NaN
         },
         {
             "Ticker": "KDP",
@@ -2211,7 +2484,8 @@
             "Sub-sector": "Soft Drinks & Non-alcoholic Beverages",
             "Headquarters": "Burlington, Massachusetts",
             "Date added": "2022-06-21",
-            "Founded": "1981"
+            "Founded": "1981",
+            "LogoPath": NaN
         },
         {
             "Ticker": "KEY",
@@ -2219,7 +2493,8 @@
             "Sub-sector": "Regional Banks",
             "Headquarters": "Cleveland, Ohio",
             "Date added": "1994-03-01",
-            "Founded": "1825"
+            "Founded": "1825",
+            "LogoPath": NaN
         },
         {
             "Ticker": "KEYS",
@@ -2227,7 +2502,8 @@
             "Sub-sector": "Electronic Equipment & Instruments",
             "Headquarters": "Santa Rosa, California",
             "Date added": "2018-11-06",
-            "Founded": "2014 (1939)"
+            "Founded": "2014 (1939)",
+            "LogoPath": "./Resources/KEYS.png"
         },
         {
             "Ticker": "KMB",
@@ -2235,7 +2511,8 @@
             "Sub-sector": "Household Products",
             "Headquarters": "Irving, Texas",
             "Date added": "1957-03-04",
-            "Founded": "1872"
+            "Founded": "1872",
+            "LogoPath": NaN
         },
         {
             "Ticker": "KIM",
@@ -2243,7 +2520,8 @@
             "Sub-sector": "Retail REITs",
             "Headquarters": "New Hyde Park, New York",
             "Date added": "2006-04-04",
-            "Founded": "1958"
+            "Founded": "1958",
+            "LogoPath": NaN
         },
         {
             "Ticker": "KMI",
@@ -2251,7 +2529,8 @@
             "Sub-sector": "Oil & Gas Storage & Transportation",
             "Headquarters": "Houston, Texas",
             "Date added": "2012-05-25",
-            "Founded": "1997"
+            "Founded": "1997",
+            "LogoPath": NaN
         },
         {
             "Ticker": "KLAC",
@@ -2259,7 +2538,8 @@
             "Sub-sector": "Semiconductor Materials & Equipment",
             "Headquarters": "Milpitas, California",
             "Date added": "1997-09-30",
-            "Founded": "1975/1977 (1997)"
+            "Founded": "1975/1977 (1997)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "KHC",
@@ -2267,7 +2547,8 @@
             "Sub-sector": "Packaged Foods & Meats",
             "Headquarters": "Chicago, Illinois; Pittsburgh, Pennsylvania",
             "Date added": "2015-07-06",
-            "Founded": "2015 (1869)"
+            "Founded": "2015 (1869)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "KR",
@@ -2275,7 +2556,8 @@
             "Sub-sector": "Food Retail",
             "Headquarters": "Cincinnati, Ohio",
             "Date added": "1957-03-04",
-            "Founded": "1883"
+            "Founded": "1883",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LHX",
@@ -2283,7 +2565,8 @@
             "Sub-sector": "Aerospace & Defense",
             "Headquarters": "Melbourne, Florida",
             "Date added": "2008-09-22",
-            "Founded": "2019 (1895)"
+            "Founded": "2019 (1895)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LH",
@@ -2291,7 +2574,8 @@
             "Sub-sector": "Health Care Services",
             "Headquarters": "Burlington, North Carolina",
             "Date added": "2004-11-01",
-            "Founded": "1978"
+            "Founded": "1978",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LRCX",
@@ -2299,7 +2583,8 @@
             "Sub-sector": "Semiconductor Materials & Equipment",
             "Headquarters": "Fremont, California",
             "Date added": "2012-06-29",
-            "Founded": "1980"
+            "Founded": "1980",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LW",
@@ -2307,7 +2592,8 @@
             "Sub-sector": "Packaged Foods & Meats",
             "Headquarters": "Eagle, Idaho",
             "Date added": "2018-12-03",
-            "Founded": "2016 (1950)"
+            "Founded": "2016 (1950)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LVS",
@@ -2315,7 +2601,8 @@
             "Sub-sector": "Casinos & Gaming",
             "Headquarters": "Las Vegas, Nevada",
             "Date added": "2019-10-03",
-            "Founded": "1988"
+            "Founded": "1988",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LDOS",
@@ -2323,7 +2610,8 @@
             "Sub-sector": "Diversified Support Services",
             "Headquarters": "Reston, Virginia",
             "Date added": "2019-08-09",
-            "Founded": "1969"
+            "Founded": "1969",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LEN",
@@ -2331,7 +2619,8 @@
             "Sub-sector": "Homebuilding",
             "Headquarters": "Miami, Florida",
             "Date added": "2005-10-04",
-            "Founded": "1954"
+            "Founded": "1954",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LNC",
@@ -2339,7 +2628,8 @@
             "Sub-sector": "Multi-line Insurance",
             "Headquarters": "Radnor, Pennsylvania",
             "Date added": "1976-06-30",
-            "Founded": "1905"
+            "Founded": "1905",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LIN",
@@ -2347,7 +2637,8 @@
             "Sub-sector": "Industrial Gases",
             "Headquarters": "Guildford, United Kingdom",
             "Date added": "1992-07-01",
-            "Founded": "1879"
+            "Founded": "1879",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LYV",
@@ -2355,7 +2646,8 @@
             "Sub-sector": "Movies & Entertainment",
             "Headquarters": "Beverly Hills, California",
             "Date added": "2019-12-23",
-            "Founded": "2010"
+            "Founded": "2010",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LKQ",
@@ -2363,7 +2655,8 @@
             "Sub-sector": "Distributors",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2016-05-23",
-            "Founded": "1998"
+            "Founded": "1998",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LMT",
@@ -2371,7 +2664,8 @@
             "Sub-sector": "Aerospace & Defense",
             "Headquarters": "Bethesda, Maryland",
             "Date added": "1957-03-04",
-            "Founded": "1995"
+            "Founded": "1995",
+            "LogoPath": NaN
         },
         {
             "Ticker": "L",
@@ -2379,7 +2673,8 @@
             "Sub-sector": "Multi-line Insurance",
             "Headquarters": "New York City, New York",
             "Date added": "1995-05-31",
-            "Founded": "1959"
+            "Founded": "1959",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LOW",
@@ -2387,7 +2682,8 @@
             "Sub-sector": "Home Improvement Retail",
             "Headquarters": "Mooresville, North Carolina",
             "Date added": "1984-02-29",
-            "Founded": "1904/1946/1959"
+            "Founded": "1904/1946/1959",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LYB",
@@ -2395,7 +2691,8 @@
             "Sub-sector": "Specialty Chemicals",
             "Headquarters": "Rotterdam, Netherlands",
             "Date added": "2012-09-05",
-            "Founded": "2007"
+            "Founded": "2007",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MTB",
@@ -2403,7 +2700,8 @@
             "Sub-sector": "Regional Banks",
             "Headquarters": "Buffalo, New York",
             "Date added": "2004-02-23",
-            "Founded": "1856"
+            "Founded": "1856",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MRO",
@@ -2411,7 +2709,8 @@
             "Sub-sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Houston, Texas",
             "Date added": "1957-03-04",
-            "Founded": "1887"
+            "Founded": "1887",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MPC",
@@ -2419,7 +2718,8 @@
             "Sub-sector": "Oil & Gas Refining & Marketing",
             "Headquarters": "Findlay, Ohio",
             "Date added": "2011-07-01",
-            "Founded": "2009 (1887)"
+            "Founded": "2009 (1887)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MKTX",
@@ -2427,7 +2727,8 @@
             "Sub-sector": "Financial Exchanges & Data",
             "Headquarters": "New York City, New York",
             "Date added": "2019-07-01",
-            "Founded": "2000"
+            "Founded": "2000",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MAR",
@@ -2435,7 +2736,8 @@
             "Sub-sector": "Hotels, Resorts & Cruise Lines",
             "Headquarters": "Bethesda, Maryland",
             "Date added": "1998-05-29",
-            "Founded": "1927"
+            "Founded": "1927",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MMC",
@@ -2443,7 +2745,8 @@
             "Sub-sector": "Insurance Brokers",
             "Headquarters": "New York City, New York",
             "Date added": "1987-08-31",
-            "Founded": "1905"
+            "Founded": "1905",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MLM",
@@ -2451,7 +2754,8 @@
             "Sub-sector": "Construction Materials",
             "Headquarters": "Raleigh, North Carolina",
             "Date added": "2014-07-02",
-            "Founded": "1993"
+            "Founded": "1993",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MAS",
@@ -2459,7 +2763,8 @@
             "Sub-sector": "Building Products",
             "Headquarters": "Livonia, Michigan",
             "Date added": "1981-06-30",
-            "Founded": "1929"
+            "Founded": "1929",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MA",
@@ -2467,7 +2772,8 @@
             "Sub-sector": "Transaction & Payment Processing Services",
             "Headquarters": "Harrison, New York",
             "Date added": "2008-07-18",
-            "Founded": "1966"
+            "Founded": "1966",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MTCH",
@@ -2475,7 +2781,8 @@
             "Sub-sector": "Interactive Media & Services",
             "Headquarters": "Dallas, Texas",
             "Date added": "2021-09-20",
-            "Founded": "1986"
+            "Founded": "1986",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MKC",
@@ -2483,7 +2790,8 @@
             "Sub-sector": "Packaged Foods & Meats",
             "Headquarters": "Hunt Valley, Maryland",
             "Date added": "2003-03-20",
-            "Founded": "1889"
+            "Founded": "1889",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MCD",
@@ -2491,7 +2799,8 @@
             "Sub-sector": "Restaurants",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1970-06-30",
-            "Founded": "1940"
+            "Founded": "1940",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MCK",
@@ -2499,7 +2808,8 @@
             "Sub-sector": "Health Care Distributors",
             "Headquarters": "Irving, Texas",
             "Date added": "1999-01-13",
-            "Founded": "1833"
+            "Founded": "1833",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MDT",
@@ -2507,7 +2817,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Dublin, Ireland",
             "Date added": "1986-10-31",
-            "Founded": "1949"
+            "Founded": "1949",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MRK",
@@ -2515,7 +2826,8 @@
             "Sub-sector": "Pharmaceuticals",
             "Headquarters": "Kenilworth, New Jersey",
             "Date added": "1957-03-04",
-            "Founded": "1891"
+            "Founded": "1891",
+            "LogoPath": NaN
         },
         {
             "Ticker": "META",
@@ -2523,7 +2835,8 @@
             "Sub-sector": "Interactive Media & Services",
             "Headquarters": "Menlo Park, California",
             "Date added": "2013-12-23",
-            "Founded": "2004"
+            "Founded": "2004",
+            "LogoPath": "./Resources/META.png"
         },
         {
             "Ticker": "MET",
@@ -2531,7 +2844,8 @@
             "Sub-sector": "Life & Health Insurance",
             "Headquarters": "New York City, New York",
             "Date added": "2000-12-11",
-            "Founded": "1868"
+            "Founded": "1868",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MTD",
@@ -2539,7 +2853,8 @@
             "Sub-sector": "Life Sciences Tools & Services",
             "Headquarters": "Columbus, Ohio",
             "Date added": "2016-09-06",
-            "Founded": "1945"
+            "Founded": "1945",
+            "LogoPath": "./Resources/MTD.png"
         },
         {
             "Ticker": "MGM",
@@ -2547,7 +2862,8 @@
             "Sub-sector": "Casinos & Gaming",
             "Headquarters": "Paradise, Nevada",
             "Date added": "2017-07-26",
-            "Founded": "1986"
+            "Founded": "1986",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MCHP",
@@ -2555,7 +2871,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "Chandler, Arizona",
             "Date added": "2007-09-07",
-            "Founded": "1989"
+            "Founded": "1989",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MU",
@@ -2563,7 +2880,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "Boise, Idaho",
             "Date added": "1994-09-27",
-            "Founded": "1978"
+            "Founded": "1978",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MSFT",
@@ -2571,7 +2889,8 @@
             "Sub-sector": "Systems Software",
             "Headquarters": "Redmond, Washington",
             "Date added": "1994-06-01",
-            "Founded": "1975"
+            "Founded": "1975",
+            "LogoPath": "./Resources/MSFT.png"
         },
         {
             "Ticker": "MAA",
@@ -2579,7 +2898,8 @@
             "Sub-sector": "Residential REITs",
             "Headquarters": "Memphis, Tennessee",
             "Date added": "2016-12-02",
-            "Founded": "1977"
+            "Founded": "1977",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MRNA",
@@ -2587,7 +2907,8 @@
             "Sub-sector": "Biotechnology",
             "Headquarters": "Cambridge, Massachusetts",
             "Date added": "2021-07-21",
-            "Founded": "2010"
+            "Founded": "2010",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MHK",
@@ -2595,7 +2916,8 @@
             "Sub-sector": "Home Furnishings",
             "Headquarters": "Calhoun, Georgia",
             "Date added": "2013-12-23",
-            "Founded": "1878"
+            "Founded": "1878",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MOH",
@@ -2603,7 +2925,8 @@
             "Sub-sector": "Managed Health Care",
             "Headquarters": "Long Beach, California",
             "Date added": "2022-03-02",
-            "Founded": "1980"
+            "Founded": "1980",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TAP",
@@ -2611,7 +2934,8 @@
             "Sub-sector": "Brewers",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1976-06-30",
-            "Founded": "2005 (Molson 1786, Coors 1873)"
+            "Founded": "2005 (Molson 1786, Coors 1873)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MDLZ",
@@ -2619,7 +2943,8 @@
             "Sub-sector": "Packaged Foods & Meats",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2012-10-02",
-            "Founded": "2012"
+            "Founded": "2012",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MPWR",
@@ -2627,7 +2952,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "Kirkland, Washington",
             "Date added": "2021-02-12",
-            "Founded": "1997"
+            "Founded": "1997",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MNST",
@@ -2635,7 +2961,8 @@
             "Sub-sector": "Soft Drinks & Non-alcoholic Beverages",
             "Headquarters": "Corona, California",
             "Date added": "2012-06-28",
-            "Founded": "2012 (1935)"
+            "Founded": "2012 (1935)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MCO",
@@ -2643,7 +2970,8 @@
             "Sub-sector": "Financial Exchanges & Data",
             "Headquarters": "New York City, New York",
             "Date added": "1998-07-01",
-            "Founded": "1909"
+            "Founded": "1909",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MS",
@@ -2651,7 +2979,8 @@
             "Sub-sector": "Investment Banking & Brokerage",
             "Headquarters": "New York City, New York",
             "Date added": "1993-07-29",
-            "Founded": "1935"
+            "Founded": "1935",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MOS",
@@ -2659,7 +2988,8 @@
             "Sub-sector": "Fertilizers & Agricultural Chemicals",
             "Headquarters": "Tampa, Florida",
             "Date added": "2011-09-26",
-            "Founded": "2004 (1865 / 1909)"
+            "Founded": "2004 (1865 / 1909)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MSI",
@@ -2667,7 +2997,8 @@
             "Sub-sector": "Communications Equipment",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1957-03-04",
-            "Founded": "1928 (2011)"
+            "Founded": "1928 (2011)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "MSCI",
@@ -2675,7 +3006,8 @@
             "Sub-sector": "Financial Exchanges & Data",
             "Headquarters": "New York City, New York",
             "Date added": "2018-04-04",
-            "Founded": "1969"
+            "Founded": "1969",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NDAQ",
@@ -2683,7 +3015,8 @@
             "Sub-sector": "Financial Exchanges & Data",
             "Headquarters": "New York City, New York",
             "Date added": "2008-10-22",
-            "Founded": "1971"
+            "Founded": "1971",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NTAP",
@@ -2691,7 +3024,8 @@
             "Sub-sector": "Technology Hardware, Storage & Peripherals",
             "Headquarters": "San Jose, California",
             "Date added": "1999-06-25",
-            "Founded": "1992"
+            "Founded": "1992",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NFLX",
@@ -2699,7 +3033,8 @@
             "Sub-sector": "Movies & Entertainment",
             "Headquarters": "Los Gatos, California",
             "Date added": "2010-12-20",
-            "Founded": "1997"
+            "Founded": "1997",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NWL",
@@ -2707,7 +3042,8 @@
             "Sub-sector": "Housewares & Specialties",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1989-04-30",
-            "Founded": "1903"
+            "Founded": "1903",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NEM",
@@ -2715,7 +3051,8 @@
             "Sub-sector": "Gold",
             "Headquarters": "Denver, Colorado",
             "Date added": "1969-06-30",
-            "Founded": "1921"
+            "Founded": "1921",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NWSA",
@@ -2723,7 +3060,8 @@
             "Sub-sector": "Publishing",
             "Headquarters": "New York City, New York",
             "Date added": "2013-08-01",
-            "Founded": "2013 (1980)"
+            "Founded": "2013 (1980)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NWS",
@@ -2731,7 +3069,8 @@
             "Sub-sector": "Publishing",
             "Headquarters": "New York City, New York",
             "Date added": "2015-09-18",
-            "Founded": "2013 (1980)"
+            "Founded": "2013 (1980)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NEE",
@@ -2739,7 +3078,8 @@
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "Juno Beach, Florida",
             "Date added": "1976-06-30",
-            "Founded": "1984 (1925)"
+            "Founded": "1984 (1925)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NKE",
@@ -2747,7 +3087,8 @@
             "Sub-sector": "Apparel, Accessories & Luxury Goods",
             "Headquarters": "Washington County, Oregon",
             "Date added": "1988-11-30",
-            "Founded": "1964"
+            "Founded": "1964",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NI",
@@ -2755,7 +3096,8 @@
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "Merrillville, Indiana",
             "Date added": "2000-11-02",
-            "Founded": "1912"
+            "Founded": "1912",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NDSN",
@@ -2763,7 +3105,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Westlake, Ohio",
             "Date added": "2022-02-15",
-            "Founded": "1935"
+            "Founded": "1935",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NSC",
@@ -2771,7 +3114,8 @@
             "Sub-sector": "Rail Transportation",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1957-03-04",
-            "Founded": "1881/1894 (1980)"
+            "Founded": "1881/1894 (1980)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NTRS",
@@ -2779,7 +3123,8 @@
             "Sub-sector": "Asset Management & Custody Banks",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1998-01-30",
-            "Founded": "1889"
+            "Founded": "1889",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NOC",
@@ -2787,7 +3132,8 @@
             "Sub-sector": "Aerospace & Defense",
             "Headquarters": "West Falls Church, Virginia",
             "Date added": "1957-03-04",
-            "Founded": "1994 (Northrop 1939, Grumman 1930)"
+            "Founded": "1994 (Northrop 1939, Grumman 1930)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NCLH",
@@ -2795,7 +3141,8 @@
             "Sub-sector": "Hotels, Resorts & Cruise Lines",
             "Headquarters": "Miami, Florida",
             "Date added": "2017-10-13",
-            "Founded": "2011 (1966)"
+            "Founded": "2011 (1966)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NRG",
@@ -2803,7 +3150,8 @@
             "Sub-sector": "Independent Power Producers & Energy Traders",
             "Headquarters": "Houston, Texas",
             "Date added": "2010-01-29",
-            "Founded": "1992"
+            "Founded": "1992",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NUE",
@@ -2811,7 +3159,8 @@
             "Sub-sector": "Steel",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "1985-04-30",
-            "Founded": "1940"
+            "Founded": "1940",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NVDA",
@@ -2819,7 +3168,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "Santa Clara, California",
             "Date added": "2001-11-30",
-            "Founded": "1993"
+            "Founded": "1993",
+            "LogoPath": "./Resources/NVDA.png"
         },
         {
             "Ticker": "NVR",
@@ -2827,7 +3177,8 @@
             "Sub-sector": "Homebuilding",
             "Headquarters": "Reston, Virginia",
             "Date added": "2019-09-26",
-            "Founded": "1980"
+            "Founded": "1980",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NXPI",
@@ -2835,7 +3186,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "Eindhoven, Netherlands",
             "Date added": "2021-03-22",
-            "Founded": "1953"
+            "Founded": "1953",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ORLY",
@@ -2843,7 +3195,8 @@
             "Sub-sector": "Specialty Stores",
             "Headquarters": "Springfield, Missouri",
             "Date added": "2009-03-27",
-            "Founded": "1957"
+            "Founded": "1957",
+            "LogoPath": NaN
         },
         {
             "Ticker": "OXY",
@@ -2851,7 +3204,8 @@
             "Sub-sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Houston, Texas",
             "Date added": "1957-03-04",
-            "Founded": "1920"
+            "Founded": "1920",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ODFL",
@@ -2859,7 +3213,8 @@
             "Sub-sector": "Cargo Ground Transportation",
             "Headquarters": "Thomasville, North Carolina",
             "Date added": "2019-12-09",
-            "Founded": "1934"
+            "Founded": "1934",
+            "LogoPath": NaN
         },
         {
             "Ticker": "OMC",
@@ -2867,7 +3222,8 @@
             "Sub-sector": "Advertising",
             "Headquarters": "New York City, New York",
             "Date added": "1997-12-31",
-            "Founded": "1986"
+            "Founded": "1986",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ON",
@@ -2875,7 +3231,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "Phoenix, Arizona",
             "Date added": "2022-06-21",
-            "Founded": "1999"
+            "Founded": "1999",
+            "LogoPath": NaN
         },
         {
             "Ticker": "OKE",
@@ -2883,7 +3240,8 @@
             "Sub-sector": "Oil & Gas Storage & Transportation",
             "Headquarters": "Tulsa, Oklahoma",
             "Date added": "2010-03-15",
-            "Founded": "1906"
+            "Founded": "1906",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ORCL",
@@ -2891,7 +3249,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "Austin, Texas",
             "Date added": "1989-08-31",
-            "Founded": "1977"
+            "Founded": "1977",
+            "LogoPath": NaN
         },
         {
             "Ticker": "OGN",
@@ -2899,7 +3258,8 @@
             "Sub-sector": "Pharmaceuticals",
             "Headquarters": "Jersey City, New Jersey",
             "Date added": "2021-06-03",
-            "Founded": "2021"
+            "Founded": "2021",
+            "LogoPath": NaN
         },
         {
             "Ticker": "OTIS",
@@ -2907,7 +3267,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Farmington, Connecticut",
             "Date added": "2020-04-03",
-            "Founded": "2020 (1853)"
+            "Founded": "2020 (1853)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PCAR",
@@ -2915,7 +3276,8 @@
             "Sub-sector": "Construction Machinery & Heavy Transportation Equipment",
             "Headquarters": "Bellevue, Washington",
             "Date added": "1980-12-31",
-            "Founded": "1905"
+            "Founded": "1905",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PKG",
@@ -2923,7 +3285,8 @@
             "Sub-sector": "Paper & Plastic Packaging Products & Materials",
             "Headquarters": "Lake Forest, Illinois",
             "Date added": "2017-07-26",
-            "Founded": "1959"
+            "Founded": "1959",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PANW",
@@ -2931,7 +3294,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "Santa Clara, California",
             "Date added": "2023-06-20",
-            "Founded": "2005"
+            "Founded": "2005",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PARA",
@@ -2939,7 +3303,8 @@
             "Sub-sector": "Movies & Entertainment",
             "Headquarters": "New York City, New York",
             "Date added": "1994-09-30",
-            "Founded": "2019 (1952)"
+            "Founded": "2019 (1952)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PH",
@@ -2947,7 +3312,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Cleveland, Ohio",
             "Date added": "1985-11-30",
-            "Founded": "1917"
+            "Founded": "1917",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PAYX",
@@ -2955,7 +3321,8 @@
             "Sub-sector": "Human Resource & Employment Services",
             "Headquarters": "Penfield, New York",
             "Date added": "1998-10-01",
-            "Founded": "1971"
+            "Founded": "1971",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PAYC",
@@ -2963,7 +3330,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "Oklahoma City, Oklahoma",
             "Date added": "2020-01-28",
-            "Founded": "1998"
+            "Founded": "1998",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PYPL",
@@ -2971,7 +3339,8 @@
             "Sub-sector": "Transaction & Payment Processing Services",
             "Headquarters": "San Jose, California",
             "Date added": "2015-07-20",
-            "Founded": "1998"
+            "Founded": "1998",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PNR",
@@ -2979,7 +3348,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Worsley, United Kingdom",
             "Date added": "2012-10-01",
-            "Founded": "1966"
+            "Founded": "1966",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PEP",
@@ -2987,7 +3357,8 @@
             "Sub-sector": "Soft Drinks & Non-alcoholic Beverages",
             "Headquarters": "Purchase, New York",
             "Date added": "1957-03-04",
-            "Founded": "1898"
+            "Founded": "1898",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PFE",
@@ -2995,7 +3366,8 @@
             "Sub-sector": "Pharmaceuticals",
             "Headquarters": "New York City, New York",
             "Date added": "1957-03-04",
-            "Founded": "1849"
+            "Founded": "1849",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PCG",
@@ -3003,7 +3375,8 @@
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "San Francisco, California",
             "Date added": "2022-10-03",
-            "Founded": "1905"
+            "Founded": "1905",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PM",
@@ -3011,7 +3384,8 @@
             "Sub-sector": "Tobacco",
             "Headquarters": "New York City, New York",
             "Date added": "2008-03-31",
-            "Founded": "2008 (1847)"
+            "Founded": "2008 (1847)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PSX",
@@ -3019,7 +3393,8 @@
             "Sub-sector": "Oil & Gas Refining & Marketing",
             "Headquarters": "Houston, Texas",
             "Date added": "2012-05-01",
-            "Founded": "2012 (1917)"
+            "Founded": "2012 (1917)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PNW",
@@ -3027,7 +3402,8 @@
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "Phoenix, Arizona",
             "Date added": "1999-10-04",
-            "Founded": "1985"
+            "Founded": "1985",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PXD",
@@ -3035,7 +3411,8 @@
             "Sub-sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Irving, Texas",
             "Date added": "2008-09-24",
-            "Founded": "1997"
+            "Founded": "1997",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PNC",
@@ -3043,7 +3420,8 @@
             "Sub-sector": "Regional Banks",
             "Headquarters": "Pittsburgh, Pennsylvania",
             "Date added": "1988-04-30",
-            "Founded": "1845"
+            "Founded": "1845",
+            "LogoPath": NaN
         },
         {
             "Ticker": "POOL",
@@ -3051,7 +3429,8 @@
             "Sub-sector": "Distributors",
             "Headquarters": "Covington, Louisiana",
             "Date added": "2020-10-07",
-            "Founded": "1993"
+            "Founded": "1993",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PPG",
@@ -3059,7 +3438,8 @@
             "Sub-sector": "Specialty Chemicals",
             "Headquarters": "Pittsburgh, Pennsylvania",
             "Date added": "1957-03-04",
-            "Founded": "1883"
+            "Founded": "1883",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PPL",
@@ -3067,7 +3447,8 @@
             "Sub-sector": "Electric Utilities",
             "Headquarters": "Allentown, Pennsylvania",
             "Date added": "2001-10-01",
-            "Founded": "1920"
+            "Founded": "1920",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PFG",
@@ -3075,7 +3456,8 @@
             "Sub-sector": "Life & Health Insurance",
             "Headquarters": "Des Moines, Iowa",
             "Date added": "2002-07-22",
-            "Founded": "1879"
+            "Founded": "1879",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PG",
@@ -3083,7 +3465,8 @@
             "Sub-sector": "Personal Care Products",
             "Headquarters": "Cincinnati, Ohio",
             "Date added": "1957-03-04",
-            "Founded": "1837"
+            "Founded": "1837",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PGR",
@@ -3091,7 +3474,8 @@
             "Sub-sector": "Property & Casualty Insurance",
             "Headquarters": "Mayfield Village, Ohio",
             "Date added": "1997-08-04",
-            "Founded": "1937"
+            "Founded": "1937",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PLD",
@@ -3099,7 +3483,8 @@
             "Sub-sector": "Industrial REITs",
             "Headquarters": "San Francisco, California",
             "Date added": "2003-07-17",
-            "Founded": "1983"
+            "Founded": "1983",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PRU",
@@ -3107,7 +3492,8 @@
             "Sub-sector": "Life & Health Insurance",
             "Headquarters": "Newark, New Jersey",
             "Date added": "2002-07-22",
-            "Founded": "1875"
+            "Founded": "1875",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PEG",
@@ -3115,7 +3501,8 @@
             "Sub-sector": "Electric Utilities",
             "Headquarters": "Newark, New Jersey",
             "Date added": "1957-03-04",
-            "Founded": "1903"
+            "Founded": "1903",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PTC",
@@ -3123,7 +3510,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "Boston, Massachusetts",
             "Date added": "2021-04-20",
-            "Founded": "1985"
+            "Founded": "1985",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PSA",
@@ -3131,7 +3519,8 @@
             "Sub-sector": "Self-Storage REITs",
             "Headquarters": "Glendale, California",
             "Date added": "2005-08-19",
-            "Founded": "1972"
+            "Founded": "1972",
+            "LogoPath": NaN
         },
         {
             "Ticker": "PHM",
@@ -3139,7 +3528,8 @@
             "Sub-sector": "Homebuilding",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1984-04-30",
-            "Founded": "1956"
+            "Founded": "1956",
+            "LogoPath": NaN
         },
         {
             "Ticker": "QRVO",
@@ -3147,7 +3537,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "Greensboro, North Carolina",
             "Date added": "2015-06-11",
-            "Founded": "2015"
+            "Founded": "2015",
+            "LogoPath": "./Resources/QRVO.png"
         },
         {
             "Ticker": "PWR",
@@ -3155,7 +3546,8 @@
             "Sub-sector": "Construction & Engineering",
             "Headquarters": "Houston, Texas",
             "Date added": "2009-07-01",
-            "Founded": "1997"
+            "Founded": "1997",
+            "LogoPath": NaN
         },
         {
             "Ticker": "QCOM",
@@ -3163,7 +3555,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "San Diego, California",
             "Date added": "1999-07-22",
-            "Founded": "1985"
+            "Founded": "1985",
+            "LogoPath": NaN
         },
         {
             "Ticker": "DGX",
@@ -3171,7 +3564,8 @@
             "Sub-sector": "Health Care Services",
             "Headquarters": "Secaucus, New Jersey",
             "Date added": "2002-12-12",
-            "Founded": "1967"
+            "Founded": "1967",
+            "LogoPath": NaN
         },
         {
             "Ticker": "RL",
@@ -3179,7 +3573,8 @@
             "Sub-sector": "Apparel, Accessories & Luxury Goods",
             "Headquarters": "New York City, New York",
             "Date added": "2007-02-02",
-            "Founded": "1967"
+            "Founded": "1967",
+            "LogoPath": NaN
         },
         {
             "Ticker": "RJF",
@@ -3187,7 +3582,8 @@
             "Sub-sector": "Investment Banking & Brokerage",
             "Headquarters": "St. Petersburg, Florida",
             "Date added": "2017-03-20",
-            "Founded": "1962"
+            "Founded": "1962",
+            "LogoPath": NaN
         },
         {
             "Ticker": "RTX",
@@ -3195,7 +3591,8 @@
             "Sub-sector": "Aerospace & Defense",
             "Headquarters": "Waltham, Massachusetts",
             "Date added": "1957-03-04",
-            "Founded": "1922"
+            "Founded": "1922",
+            "LogoPath": NaN
         },
         {
             "Ticker": "O",
@@ -3203,7 +3600,8 @@
             "Sub-sector": "Retail REITs",
             "Headquarters": "San Diego, California",
             "Date added": "2015-04-07",
-            "Founded": "1969"
+            "Founded": "1969",
+            "LogoPath": NaN
         },
         {
             "Ticker": "REG",
@@ -3211,7 +3609,8 @@
             "Sub-sector": "Retail REITs",
             "Headquarters": "Jacksonville, Florida",
             "Date added": "2017-03-02",
-            "Founded": "1963"
+            "Founded": "1963",
+            "LogoPath": NaN
         },
         {
             "Ticker": "REGN",
@@ -3219,7 +3618,8 @@
             "Sub-sector": "Biotechnology",
             "Headquarters": "Tarrytown, New York",
             "Date added": "2013-05-01",
-            "Founded": "1988"
+            "Founded": "1988",
+            "LogoPath": NaN
         },
         {
             "Ticker": "RF",
@@ -3227,7 +3627,8 @@
             "Sub-sector": "Regional Banks",
             "Headquarters": "Birmingham, Alabama",
             "Date added": "1998-08-28",
-            "Founded": "1971"
+            "Founded": "1971",
+            "LogoPath": NaN
         },
         {
             "Ticker": "RSG",
@@ -3235,7 +3636,8 @@
             "Sub-sector": "Environmental & Facilities Services",
             "Headquarters": "Phoenix, Arizona",
             "Date added": "2008-12-05",
-            "Founded": "1998 (1981)"
+            "Founded": "1998 (1981)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "RMD",
@@ -3243,7 +3645,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "San Diego, California",
             "Date added": "2017-07-26",
-            "Founded": "1989"
+            "Founded": "1989",
+            "LogoPath": NaN
         },
         {
             "Ticker": "RVTY",
@@ -3251,7 +3654,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Waltham, Massachusetts",
             "Date added": "1985-05-31",
-            "Founded": "1937"
+            "Founded": "1937",
+            "LogoPath": NaN
         },
         {
             "Ticker": "RHI",
@@ -3259,7 +3663,8 @@
             "Sub-sector": "Human Resource & Employment Services",
             "Headquarters": "Menlo Park, California",
             "Date added": "2000-12-05",
-            "Founded": "1948"
+            "Founded": "1948",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ROK",
@@ -3267,7 +3672,8 @@
             "Sub-sector": "Electrical Components & Equipment",
             "Headquarters": "Milwaukee, Wisconsin",
             "Date added": "2000-12-06",
-            "Founded": "1903"
+            "Founded": "1903",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ROL",
@@ -3275,7 +3681,8 @@
             "Sub-sector": "Environmental & Facilities Services",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "2018-10-01",
-            "Founded": "1948"
+            "Founded": "1948",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ROP",
@@ -3283,7 +3690,8 @@
             "Sub-sector": "Electronic Equipment & Instruments",
             "Headquarters": "Sarasota, Florida",
             "Date added": "2009-12-23",
-            "Founded": "1981"
+            "Founded": "1981",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ROST",
@@ -3291,7 +3699,8 @@
             "Sub-sector": "Apparel Retail",
             "Headquarters": "Dublin, California",
             "Date added": "2009-12-21",
-            "Founded": "1982"
+            "Founded": "1982",
+            "LogoPath": NaN
         },
         {
             "Ticker": "RCL",
@@ -3299,7 +3708,8 @@
             "Sub-sector": "Hotels, Resorts & Cruise Lines",
             "Headquarters": "Miami, Florida",
             "Date added": "2014-12-05",
-            "Founded": "1997"
+            "Founded": "1997",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SPGI",
@@ -3307,7 +3717,8 @@
             "Sub-sector": "Financial Exchanges & Data",
             "Headquarters": "New York City, New York",
             "Date added": "1957-03-04",
-            "Founded": "1917"
+            "Founded": "1917",
+            "LogoPath": NaN
         },
         {
             "Ticker": "CRM",
@@ -3315,7 +3726,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "San Francisco, California",
             "Date added": "2008-09-15",
-            "Founded": "1999"
+            "Founded": "1999",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SBAC",
@@ -3323,7 +3735,8 @@
             "Sub-sector": "Telecom Tower REITs",
             "Headquarters": "Boca Raton, Florida",
             "Date added": "2017-09-01",
-            "Founded": "1989"
+            "Founded": "1989",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SLB",
@@ -3331,7 +3744,8 @@
             "Sub-sector": "Oil & Gas Equipment & Services",
             "Headquarters": "Houston, Texas",
             "Date added": "1957-03-04",
-            "Founded": "1926"
+            "Founded": "1926",
+            "LogoPath": NaN
         },
         {
             "Ticker": "STX",
@@ -3339,7 +3753,8 @@
             "Sub-sector": "Technology Hardware, Storage & Peripherals",
             "Headquarters": "Dublin, Ireland",
             "Date added": "2012-07-02",
-            "Founded": "1979"
+            "Founded": "1979",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SEE",
@@ -3347,7 +3762,8 @@
             "Sub-sector": "Paper & Plastic Packaging Products & Materials",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "1957-03-04",
-            "Founded": "1960"
+            "Founded": "1960",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SRE",
@@ -3355,7 +3771,8 @@
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "San Diego, California",
             "Date added": "1957-03-05",
-            "Founded": "1998"
+            "Founded": "1998",
+            "LogoPath": NaN
         },
         {
             "Ticker": "NOW",
@@ -3363,7 +3780,8 @@
             "Sub-sector": "Systems Software",
             "Headquarters": "Santa Clara, California",
             "Date added": "2019-11-21",
-            "Founded": "2003"
+            "Founded": "2003",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SHW",
@@ -3371,7 +3789,8 @@
             "Sub-sector": "Specialty Chemicals",
             "Headquarters": "Cleveland, Ohio",
             "Date added": "1964-06-30",
-            "Founded": "1866"
+            "Founded": "1866",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SPG",
@@ -3379,7 +3798,8 @@
             "Sub-sector": "Retail REITs",
             "Headquarters": "Indianapolis, Indiana",
             "Date added": "2002-06-26",
-            "Founded": "2003"
+            "Founded": "2003",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SWKS",
@@ -3387,7 +3807,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "Irvine, California",
             "Date added": "2015-03-12",
-            "Founded": "2002"
+            "Founded": "2002",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SJM",
@@ -3395,7 +3816,8 @@
             "Sub-sector": "Packaged Foods & Meats",
             "Headquarters": "Orrville, Ohio",
             "Date added": "2008-11-06",
-            "Founded": "1897"
+            "Founded": "1897",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SNA",
@@ -3403,7 +3825,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Kenosha, Wisconsin",
             "Date added": "1982-09-30",
-            "Founded": "1920"
+            "Founded": "1920",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SEDG",
@@ -3411,7 +3834,8 @@
             "Sub-sector": "Semiconductor Materials & Equipment",
             "Headquarters": "Herzliya, Israel",
             "Date added": "2021-12-20",
-            "Founded": "2006"
+            "Founded": "2006",
+            "LogoPath": "./Resources/SEDG.png"
         },
         {
             "Ticker": "SO",
@@ -3419,7 +3843,8 @@
             "Sub-sector": "Electric Utilities",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1957-03-04",
-            "Founded": "1945"
+            "Founded": "1945",
+            "LogoPath": NaN
         },
         {
             "Ticker": "LUV",
@@ -3427,7 +3852,8 @@
             "Sub-sector": "Passenger Airlines",
             "Headquarters": "Dallas, Texas",
             "Date added": "1994-07-01",
-            "Founded": "1967"
+            "Founded": "1967",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SWK",
@@ -3435,7 +3861,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "New Britain, Connecticut",
             "Date added": "1982-09-30",
-            "Founded": "1843"
+            "Founded": "1843",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SBUX",
@@ -3443,7 +3870,8 @@
             "Sub-sector": "Restaurants",
             "Headquarters": "Seattle, Washington",
             "Date added": "2000-06-07",
-            "Founded": "1971"
+            "Founded": "1971",
+            "LogoPath": NaN
         },
         {
             "Ticker": "STT",
@@ -3451,7 +3879,8 @@
             "Sub-sector": "Asset Management & Custody Banks",
             "Headquarters": "Boston, Massachusetts",
             "Date added": "2003-03-14",
-            "Founded": "1792"
+            "Founded": "1792",
+            "LogoPath": NaN
         },
         {
             "Ticker": "STLD",
@@ -3459,7 +3888,8 @@
             "Sub-sector": "Steel",
             "Headquarters": "Fort Wayne, Indiana",
             "Date added": "2022-12-22",
-            "Founded": "1993"
+            "Founded": "1993",
+            "LogoPath": NaN
         },
         {
             "Ticker": "STE",
@@ -3467,7 +3897,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Dublin, Ireland",
             "Date added": "2019-12-23",
-            "Founded": "1985"
+            "Founded": "1985",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SYK",
@@ -3475,7 +3906,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Kalamazoo, Michigan",
             "Date added": "2000-12-12",
-            "Founded": "1941"
+            "Founded": "1941",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SYF",
@@ -3483,7 +3915,8 @@
             "Sub-sector": "Consumer Finance",
             "Headquarters": "Stamford, Connecticut",
             "Date added": "2015-11-18",
-            "Founded": "2003"
+            "Founded": "2003",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SNPS",
@@ -3491,7 +3924,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "Sunnyvale, California",
             "Date added": "2017-03-16",
-            "Founded": "1986"
+            "Founded": "1986",
+            "LogoPath": NaN
         },
         {
             "Ticker": "SYY",
@@ -3499,7 +3933,8 @@
             "Sub-sector": "Food Distributors",
             "Headquarters": "Houston, Texas",
             "Date added": "1986-12-31",
-            "Founded": "1969"
+            "Founded": "1969",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TMUS",
@@ -3507,7 +3942,8 @@
             "Sub-sector": "Wireless Telecommunication Services",
             "Headquarters": "Bellevue, Washington",
             "Date added": "2019-07-15",
-            "Founded": "1994"
+            "Founded": "1994",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TROW",
@@ -3515,7 +3951,8 @@
             "Sub-sector": "Asset Management & Custody Banks",
             "Headquarters": "Baltimore, Maryland",
             "Date added": "2019-07-16",
-            "Founded": "1937"
+            "Founded": "1937",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TTWO",
@@ -3523,7 +3960,8 @@
             "Sub-sector": "Interactive Home Entertainment",
             "Headquarters": "New York City, New York",
             "Date added": "2018-03-19",
-            "Founded": "1993"
+            "Founded": "1993",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TPR",
@@ -3531,7 +3969,8 @@
             "Sub-sector": "Apparel, Accessories & Luxury Goods",
             "Headquarters": "New York City, New York",
             "Date added": "2004-09-01",
-            "Founded": "2017"
+            "Founded": "2017",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TRGP",
@@ -3539,7 +3978,8 @@
             "Sub-sector": "Oil & Gas Storage & Transportation",
             "Headquarters": "Houston, Texas",
             "Date added": "2022-10-12",
-            "Founded": "2005"
+            "Founded": "2005",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TGT",
@@ -3547,7 +3987,8 @@
             "Sub-sector": "Consumer Staples Merchandise Retail",
             "Headquarters": "Minneapolis, Minnesota",
             "Date added": "1976-12-31",
-            "Founded": "1902"
+            "Founded": "1902",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TEL",
@@ -3555,7 +3996,8 @@
             "Sub-sector": "Electronic Manufacturing Services",
             "Headquarters": "Schaffhausen, Switzerland",
             "Date added": "2011-10-17",
-            "Founded": "2007"
+            "Founded": "2007",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TDY",
@@ -3563,7 +4005,8 @@
             "Sub-sector": "Electronic Equipment & Instruments",
             "Headquarters": "Thousand Oaks, California",
             "Date added": "2020-06-22",
-            "Founded": "1960"
+            "Founded": "1960",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TFX",
@@ -3571,7 +4014,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Wayne, Pennsylvania",
             "Date added": "2019-01-18",
-            "Founded": "1943"
+            "Founded": "1943",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TER",
@@ -3579,7 +4023,8 @@
             "Sub-sector": "Semiconductor Materials & Equipment",
             "Headquarters": "North Reading, Massachusetts",
             "Date added": "2020-09-21",
-            "Founded": "1960"
+            "Founded": "1960",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TSLA",
@@ -3587,7 +4032,8 @@
             "Sub-sector": "Automobile Manufacturers",
             "Headquarters": "Austin, Texas",
             "Date added": "2020-12-21",
-            "Founded": "2003"
+            "Founded": "2003",
+            "LogoPath": "./Resources/TSLA.png"
         },
         {
             "Ticker": "TXN",
@@ -3595,7 +4041,8 @@
             "Sub-sector": "Semiconductors",
             "Headquarters": "Dallas, Texas",
             "Date added": "2020-12-22",
-            "Founded": "1930"
+            "Founded": "1930",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TXT",
@@ -3603,7 +4050,8 @@
             "Sub-sector": "Aerospace & Defense",
             "Headquarters": "Providence, Rhode Island",
             "Date added": "1978-12-31",
-            "Founded": "1923"
+            "Founded": "1923",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TMO",
@@ -3611,7 +4059,8 @@
             "Sub-sector": "Life Sciences Tools & Services",
             "Headquarters": "Waltham, Massachusetts",
             "Date added": "2004-08-03",
-            "Founded": "2006 (1902)"
+            "Founded": "2006 (1902)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TJX",
@@ -3619,7 +4068,8 @@
             "Sub-sector": "Apparel Retail",
             "Headquarters": "Framingham, Massachusetts",
             "Date added": "1985-09-30",
-            "Founded": "1987"
+            "Founded": "1987",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TSCO",
@@ -3627,7 +4077,8 @@
             "Sub-sector": "Specialty Stores",
             "Headquarters": "Brentwood, Tennessee",
             "Date added": "2014-01-24",
-            "Founded": "1938"
+            "Founded": "1938",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TT",
@@ -3635,7 +4086,8 @@
             "Sub-sector": "Building Products",
             "Headquarters": "Dublin, Ireland",
             "Date added": "2010-11-17",
-            "Founded": "1871"
+            "Founded": "1871",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TDG",
@@ -3643,7 +4095,8 @@
             "Sub-sector": "Aerospace & Defense",
             "Headquarters": "Cleveland, Ohio",
             "Date added": "2016-06-03",
-            "Founded": "1993"
+            "Founded": "1993",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TRV",
@@ -3651,7 +4104,8 @@
             "Sub-sector": "Property & Casualty Insurance",
             "Headquarters": "New York City, New York",
             "Date added": "2002-08-21",
-            "Founded": "1853"
+            "Founded": "1853",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TRMB",
@@ -3659,7 +4113,8 @@
             "Sub-sector": "Electronic Equipment & Instruments",
             "Headquarters": "Westminster, Colorado",
             "Date added": "2021-01-21",
-            "Founded": "1978"
+            "Founded": "1978",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TFC",
@@ -3667,7 +4122,8 @@
             "Sub-sector": "Regional Banks",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "1997-12-04",
-            "Founded": "1872"
+            "Founded": "1872",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TYL",
@@ -3675,7 +4131,8 @@
             "Sub-sector": "Application Software",
             "Headquarters": "Plano, Texas",
             "Date added": "2020-06-22",
-            "Founded": "1966"
+            "Founded": "1966",
+            "LogoPath": NaN
         },
         {
             "Ticker": "TSN",
@@ -3683,7 +4140,8 @@
             "Sub-sector": "Packaged Foods & Meats",
             "Headquarters": "Springdale, Arkansas",
             "Date added": "2005-08-10",
-            "Founded": "1935"
+            "Founded": "1935",
+            "LogoPath": NaN
         },
         {
             "Ticker": "USB",
@@ -3691,7 +4149,8 @@
             "Sub-sector": "Diversified Banks",
             "Headquarters": "Minneapolis, Minnesota",
             "Date added": "2005-08-11",
-            "Founded": "1968"
+            "Founded": "1968",
+            "LogoPath": NaN
         },
         {
             "Ticker": "UDR",
@@ -3699,7 +4158,8 @@
             "Sub-sector": "Residential REITs",
             "Headquarters": "Highlands Ranch, Colorado",
             "Date added": "2016-03-07",
-            "Founded": "1972"
+            "Founded": "1972",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ULTA",
@@ -3707,7 +4167,8 @@
             "Sub-sector": "Specialty Stores",
             "Headquarters": "Bolingbrook, Illinois",
             "Date added": "2016-04-18",
-            "Founded": "1990"
+            "Founded": "1990",
+            "LogoPath": NaN
         },
         {
             "Ticker": "UNP",
@@ -3715,7 +4176,8 @@
             "Sub-sector": "Rail Transportation",
             "Headquarters": "Omaha, Nebraska",
             "Date added": "1957-03-04",
-            "Founded": "1862"
+            "Founded": "1862",
+            "LogoPath": NaN
         },
         {
             "Ticker": "UAL",
@@ -3723,7 +4185,8 @@
             "Sub-sector": "Passenger Airlines",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2015-09-03",
-            "Founded": "1967"
+            "Founded": "1967",
+            "LogoPath": NaN
         },
         {
             "Ticker": "UPS",
@@ -3731,7 +4194,8 @@
             "Sub-sector": "Air Freight & Logistics",
             "Headquarters": "Sandy Springs, Georgia",
             "Date added": "2002-07-22",
-            "Founded": "1907"
+            "Founded": "1907",
+            "LogoPath": NaN
         },
         {
             "Ticker": "URI",
@@ -3739,7 +4203,8 @@
             "Sub-sector": "Trading Companies & Distributors",
             "Headquarters": "Stamford, Connecticut",
             "Date added": "2014-09-20",
-            "Founded": "1997"
+            "Founded": "1997",
+            "LogoPath": NaN
         },
         {
             "Ticker": "UNH",
@@ -3747,7 +4212,8 @@
             "Sub-sector": "Managed Health Care",
             "Headquarters": "Minnetonka, Minnesota",
             "Date added": "1994-07-01",
-            "Founded": "1977"
+            "Founded": "1977",
+            "LogoPath": NaN
         },
         {
             "Ticker": "UHS",
@@ -3755,7 +4221,8 @@
             "Sub-sector": "Health Care Facilities",
             "Headquarters": "King of Prussia, Pennsylvania",
             "Date added": "2014-09-20",
-            "Founded": "1979"
+            "Founded": "1979",
+            "LogoPath": NaN
         },
         {
             "Ticker": "VLO",
@@ -3763,7 +4230,8 @@
             "Sub-sector": "Oil & Gas Refining & Marketing",
             "Headquarters": "San Antonio, Texas",
             "Date added": "2002-12-20",
-            "Founded": "1980"
+            "Founded": "1980",
+            "LogoPath": NaN
         },
         {
             "Ticker": "VTR",
@@ -3771,7 +4239,8 @@
             "Sub-sector": "Health Care REITs",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2009-03-04",
-            "Founded": "1998"
+            "Founded": "1998",
+            "LogoPath": NaN
         },
         {
             "Ticker": "VRSN",
@@ -3779,7 +4248,8 @@
             "Sub-sector": "Internet Services & Infrastructure",
             "Headquarters": "Dulles, Virginia",
             "Date added": "2006-02-01",
-            "Founded": "1995"
+            "Founded": "1995",
+            "LogoPath": NaN
         },
         {
             "Ticker": "VRSK",
@@ -3787,7 +4257,8 @@
             "Sub-sector": "Research & Consulting Services",
             "Headquarters": "Jersey City, New Jersey",
             "Date added": "2015-10-08",
-            "Founded": "1971"
+            "Founded": "1971",
+            "LogoPath": NaN
         },
         {
             "Ticker": "VZ",
@@ -3795,7 +4266,8 @@
             "Sub-sector": "Integrated Telecommunication Services",
             "Headquarters": "New York City, New York",
             "Date added": "1983-11-30",
-            "Founded": "1983 (1877)"
+            "Founded": "1983 (1877)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "VRTX",
@@ -3803,7 +4275,8 @@
             "Sub-sector": "Biotechnology",
             "Headquarters": "Cambridge, Massachusetts",
             "Date added": "2013-09-23",
-            "Founded": "1989"
+            "Founded": "1989",
+            "LogoPath": NaN
         },
         {
             "Ticker": "VFC",
@@ -3811,7 +4284,8 @@
             "Sub-sector": "Apparel, Accessories & Luxury Goods",
             "Headquarters": "Denver, Colorado",
             "Date added": "1979-06-30",
-            "Founded": "1899"
+            "Founded": "1899",
+            "LogoPath": NaN
         },
         {
             "Ticker": "VTRS",
@@ -3819,7 +4293,8 @@
             "Sub-sector": "Pharmaceuticals",
             "Headquarters": "Pittsburgh, Pennsylvania",
             "Date added": "2004-04-23",
-            "Founded": "1961"
+            "Founded": "1961",
+            "LogoPath": NaN
         },
         {
             "Ticker": "VICI",
@@ -3827,7 +4302,8 @@
             "Sub-sector": "Hotel & Resort REITs",
             "Headquarters": "New York City, New York",
             "Date added": "2022-06-08",
-            "Founded": "2017"
+            "Founded": "2017",
+            "LogoPath": NaN
         },
         {
             "Ticker": "V",
@@ -3835,7 +4311,8 @@
             "Sub-sector": "Transaction & Payment Processing Services",
             "Headquarters": "San Francisco, California",
             "Date added": "2009-12-21",
-            "Founded": "1958"
+            "Founded": "1958",
+            "LogoPath": NaN
         },
         {
             "Ticker": "VMC",
@@ -3843,7 +4320,8 @@
             "Sub-sector": "Construction Materials",
             "Headquarters": "Birmingham, Alabama",
             "Date added": "1999-06-30",
-            "Founded": "1909"
+            "Founded": "1909",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WAB",
@@ -3851,7 +4329,8 @@
             "Sub-sector": "Construction Machinery & Heavy Transportation Equipment",
             "Headquarters": "Pittsburgh, Pennsylvania",
             "Date added": "2019-02-27",
-            "Founded": "1999 (1869)"
+            "Founded": "1999 (1869)",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WBA",
@@ -3859,7 +4338,8 @@
             "Sub-sector": "Drug Retail",
             "Headquarters": "Deerfield, Illinois",
             "Date added": "1979-12-31",
-            "Founded": "2014"
+            "Founded": "2014",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WMT",
@@ -3867,7 +4347,8 @@
             "Sub-sector": "Consumer Staples Merchandise Retail",
             "Headquarters": "Bentonville, Arkansas",
             "Date added": "1982-08-31",
-            "Founded": "1962"
+            "Founded": "1962",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WBD",
@@ -3875,7 +4356,8 @@
             "Sub-sector": "Broadcasting",
             "Headquarters": "New York City, New York",
             "Date added": "2022-04-11",
-            "Founded": "2022"
+            "Founded": "2022",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WM",
@@ -3883,7 +4365,8 @@
             "Sub-sector": "Environmental & Facilities Services",
             "Headquarters": "Houston, Texas",
             "Date added": "2022-04-12",
-            "Founded": "1968"
+            "Founded": "1968",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WAT",
@@ -3891,7 +4374,8 @@
             "Sub-sector": "Health Care Distributors",
             "Headquarters": "Milford, Massachusetts",
             "Date added": "2002-01-02",
-            "Founded": "1958"
+            "Founded": "1958",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WEC",
@@ -3899,7 +4383,8 @@
             "Sub-sector": "Electric Utilities",
             "Headquarters": "Milwaukee, Wisconsin",
             "Date added": "2008-10-31",
-            "Founded": "1896"
+            "Founded": "1896",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WFC",
@@ -3907,7 +4392,8 @@
             "Sub-sector": "Diversified Banks",
             "Headquarters": "San Francisco, California",
             "Date added": "1976-06-30",
-            "Founded": "1852"
+            "Founded": "1852",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WELL",
@@ -3915,7 +4401,8 @@
             "Sub-sector": "Health Care REITs",
             "Headquarters": "Toledo, Ohio",
             "Date added": "2009-01-30",
-            "Founded": "1970"
+            "Founded": "1970",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WST",
@@ -3923,7 +4410,8 @@
             "Sub-sector": "Health Care Supplies",
             "Headquarters": "Exton, Pennsylvania",
             "Date added": "2020-05-22",
-            "Founded": "1923"
+            "Founded": "1923",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WDC",
@@ -3931,7 +4419,8 @@
             "Sub-sector": "Technology Hardware, Storage & Peripherals",
             "Headquarters": "San Jose, California",
             "Date added": "2009-07-01",
-            "Founded": "1970"
+            "Founded": "1970",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WRK",
@@ -3939,7 +4428,8 @@
             "Sub-sector": "Paper & Plastic Packaging Products & Materials",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1957-03-04",
-            "Founded": "2015"
+            "Founded": "2015",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WY",
@@ -3947,7 +4437,8 @@
             "Sub-sector": "Timber REITs",
             "Headquarters": "Seattle, Washington",
             "Date added": "1957-03-05",
-            "Founded": "1900"
+            "Founded": "1900",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WHR",
@@ -3955,7 +4446,8 @@
             "Sub-sector": "Household Appliances",
             "Headquarters": "Benton Harbor, Michigan",
             "Date added": "1975-03-30",
-            "Founded": "1911"
+            "Founded": "1911",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WMB",
@@ -3963,7 +4455,8 @@
             "Sub-sector": "Oil & Gas Storage & Transportation",
             "Headquarters": "Tulsa, Oklahoma",
             "Date added": "1975-03-31",
-            "Founded": "1908"
+            "Founded": "1908",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WTW",
@@ -3971,7 +4464,8 @@
             "Sub-sector": "Insurance Brokers",
             "Headquarters": "London, United Kingdom",
             "Date added": "2016-01-05",
-            "Founded": "2016"
+            "Founded": "2016",
+            "LogoPath": NaN
         },
         {
             "Ticker": "GWW",
@@ -3979,7 +4473,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Lake Forest, Illinois",
             "Date added": "1981-06-30",
-            "Founded": "1927"
+            "Founded": "1927",
+            "LogoPath": NaN
         },
         {
             "Ticker": "WYNN",
@@ -3987,7 +4482,8 @@
             "Sub-sector": "Casinos & Gaming",
             "Headquarters": "Paradise, Nevada",
             "Date added": "2008-11-14",
-            "Founded": "2002"
+            "Founded": "2002",
+            "LogoPath": NaN
         },
         {
             "Ticker": "XEL",
@@ -3995,7 +4491,8 @@
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "Minneapolis, Minnesota",
             "Date added": "1957-03-04",
-            "Founded": "1909"
+            "Founded": "1909",
+            "LogoPath": NaN
         },
         {
             "Ticker": "XYL",
@@ -4003,7 +4500,8 @@
             "Sub-sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "White Plains, New York",
             "Date added": "2011-11-01",
-            "Founded": "2011"
+            "Founded": "2011",
+            "LogoPath": NaN
         },
         {
             "Ticker": "YUM",
@@ -4011,7 +4509,8 @@
             "Sub-sector": "Restaurants",
             "Headquarters": "Louisville, Kentucky",
             "Date added": "1997-10-06",
-            "Founded": "1997"
+            "Founded": "1997",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ZBRA",
@@ -4019,7 +4518,8 @@
             "Sub-sector": "Electronic Equipment & Instruments",
             "Headquarters": "Lincolnshire, Illinois",
             "Date added": "2019-12-23",
-            "Founded": "1969"
+            "Founded": "1969",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ZBH",
@@ -4027,7 +4527,8 @@
             "Sub-sector": "Health Care Equipment",
             "Headquarters": "Warsaw, Indiana",
             "Date added": "2001-08-07",
-            "Founded": "1927"
+            "Founded": "1927",
+            "LogoPath": "./Resources/ZBH.png"
         },
         {
             "Ticker": "ZION",
@@ -4035,7 +4536,8 @@
             "Sub-sector": "Regional Banks",
             "Headquarters": "Salt Lake City, Utah",
             "Date added": "2001-06-22",
-            "Founded": "1873"
+            "Founded": "1873",
+            "LogoPath": NaN
         },
         {
             "Ticker": "ZTS",
@@ -4043,7 +4545,8 @@
             "Sub-sector": "Pharmaceuticals",
             "Headquarters": "Parsippany, New Jersey",
             "Date added": "2013-06-21",
-            "Founded": "1952"
+            "Founded": "1952",
+            "LogoPath": NaN
         }
     ],
     "stock_history": [

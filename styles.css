@@ -13,6 +13,11 @@ body {
     box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1);
     padding: 20px;
 }
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* this will auto adjust the number of columns based on container width */
+    gap: 10px; /* space between logos */
+}
 
 /*h1 {
     text-align: center;
@@ -65,7 +70,6 @@ h1 video {
     bottom: 0;
     vertical-align: bottom;  /* Align to the bottom of its line */
 }
-
 
 #applyButton.btn-light-blue {
     background-color: rgb(8, 164, 216);
