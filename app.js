@@ -96,14 +96,23 @@ function option1Changed(selectedTicker) {
             // Update the "Company Info panel"
             let panel = d3.select("#company-metadata");
             panel.html(""); // Clear any existing metadata
+            // Display company logo first
+            if (companyMetaObject.LogoPath) {
+                panel.append("img")
+                    .attr("src", companyMetaObject.LogoPath)
+                    .attr("alt", "Company Logo")
+                    .attr("width", "50px") // set appropriate width
+                    .attr("height", "50px"); // set appropriate height
+            }
             // Loop through each data entry in the object and append to panel
             Object.entries(companyMetaObject).forEach(([key, value]) => {
-                panel.append("h6").text(`${key.toUpperCase()}: ${value}`);
+                if(key !== "LogoPath"){
+                    panel.append("h6").text(`${key.toUpperCase()}: ${value}`);
+                }
             });
             console.log("companyMetaObject: ", companyMetaObject);
         }
-    }
-    
+    }    
     // console.log("sampleObject: ", sampleObject);    
 }
 
@@ -117,24 +126,34 @@ function menu2dateList(){
 
 // Populate all company info
 function displayAllLogos() {
+    // Obtaining the selected companies
+    for(let i = 1; i < jsonData.tickers.length; i++){
+        for(let j = 0; j < jsonData.company_info.length; j++){
+            if((jsonData.tickers)[i] === (jsonData.company_info[j]).Ticker){
+                companyMetaObject.ticker = (jsonData.company_info[j]).Ticker;
+                companyMetaObject.company = (jsonData.company_info[j]).Company;
+                companyMetaObject.subsector = (jsonData.company_info[j]).Sub-sector;
+            }
+        }
+    }
     // List of ticker logo paths
-    const tickerLogoPaths = ['./Resources/AAPL.png',
-                             './Resources/AMZN.png',
-                             './Resources/ANSS.png',
-                             './Resources/DXC.png',
-                             './Resources/FFIV.png',
-                             './Resources/GE.png',
-                             './Resources/GOOGL.png',
-                             './Resources/JNPR.png',
-                             './Resources/KEYS.png',
-                             './Resources/META.png',
-                             './Resources/MSFT.png',
-                             './Resources/MTD.png',
-                             './Resources/NVDA.png',
-                             './Resources/QRVO.png',
-                             './Resources/SEDG.png',
-                             './Resources/TSLA.png',
-                             './Resources/ZBH.png'];
+    // const tickerLogoPaths = ['./Resources/AAPL.png',
+    //                          './Resources/AMZN.png',
+    //                          './Resources/ANSS.png',
+    //                          './Resources/DXC.png',
+    //                          './Resources/FFIV.png',
+    //                          './Resources/GE.png',
+    //                          './Resources/GOOGL.png',
+    //                          './Resources/JNPR.png',
+    //                          './Resources/KEYS.png',
+    //                          './Resources/META.png',
+    //                          './Resources/MSFT.png',
+    //                          './Resources/MTD.png',
+    //                          './Resources/NVDA.png',
+    //                          './Resources/QRVO.png',
+    //                          './Resources/SEDG.png',
+    //                          './Resources/TSLA.png',
+    //                          './Resources/ZBH.png'];
 
     // Update the "Company Info panel"
     let panel = d3.select("#company-metadata");
@@ -143,7 +162,7 @@ function displayAllLogos() {
 
     companyMetaObject = (jsonData.company_info)[i];
 
-    
+
 }
 
 // Create a bubble chart that displays each sample.

@@ -24,7 +24,7 @@
         {
             "Ticker": "MMM",
             "Company": "3M",
-            "Sub-sector": "Industrial Conglomerates",
+            "Sub_sector": "Industrial Conglomerates",
             "Headquarters": "Saint Paul, Minnesota",
             "Date added": "1957-03-04",
             "Founded": "1902",
@@ -33,7 +33,7 @@
         {
             "Ticker": "AOS",
             "Company": "A. O. Smith",
-            "Sub-sector": "Building Products",
+            "Sub_sector": "Building Products",
             "Headquarters": "Milwaukee, Wisconsin",
             "Date added": "2017-07-26",
             "Founded": "1916",
@@ -42,7 +42,7 @@
         {
             "Ticker": "ABT",
             "Company": "Abbott",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "North Chicago, Illinois",
             "Date added": "1957-03-04",
             "Founded": "1888",
@@ -51,7 +51,7 @@
         {
             "Ticker": "ABBV",
             "Company": "AbbVie",
-            "Sub-sector": "Pharmaceuticals",
+            "Sub_sector": "Pharmaceuticals",
             "Headquarters": "North Chicago, Illinois",
             "Date added": "2012-12-31",
             "Founded": "2013 (1888)",
@@ -60,7 +60,7 @@
         {
             "Ticker": "ACN",
             "Company": "Accenture",
-            "Sub-sector": "IT Consulting & Other Services",
+            "Sub_sector": "IT Consulting & Other Services",
             "Headquarters": "Dublin, Ireland",
             "Date added": "2011-07-06",
             "Founded": "1989",
@@ -69,7 +69,7 @@
         {
             "Ticker": "ATVI",
             "Company": "Activision Blizzard",
-            "Sub-sector": "Interactive Home Entertainment",
+            "Sub_sector": "Interactive Home Entertainment",
             "Headquarters": "Santa Monica, California",
             "Date added": "2015-08-31",
             "Founded": "2008",
@@ -78,7 +78,7 @@
         {
             "Ticker": "ADM",
             "Company": "ADM",
-            "Sub-sector": "Agricultural Products & Services",
+            "Sub_sector": "Agricultural Products & Services",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1957-03-04",
             "Founded": "1902",
@@ -87,7 +87,7 @@
         {
             "Ticker": "ADBE",
             "Company": "Adobe Inc.",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "San Jose, California",
             "Date added": "1997-05-05",
             "Founded": "1982",
@@ -96,7 +96,7 @@
         {
             "Ticker": "ADP",
             "Company": "ADP",
-            "Sub-sector": "Human Resource & Employment Services",
+            "Sub_sector": "Human Resource & Employment Services",
             "Headquarters": "Roseland, New Jersey",
             "Date added": "1981-03-31",
             "Founded": "1949",
@@ -105,7 +105,7 @@
         {
             "Ticker": "AAP",
             "Company": "Advance Auto Parts",
-            "Sub-sector": "Automotive Retail",
+            "Sub_sector": "Automotive Retail",
             "Headquarters": "Raleigh, North Carolina",
             "Date added": "2015-07-09",
             "Founded": "1932",
@@ -114,7 +114,7 @@
         {
             "Ticker": "AES",
             "Company": "AES Corporation",
-            "Sub-sector": "Independent Power Producers & Energy Traders",
+            "Sub_sector": "Independent Power Producers & Energy Traders",
             "Headquarters": "Arlington, Virginia",
             "Date added": "1998-10-02",
             "Founded": "1981",
@@ -123,7 +123,7 @@
         {
             "Ticker": "AFL",
             "Company": "Aflac",
-            "Sub-sector": "Life & Health Insurance",
+            "Sub_sector": "Life & Health Insurance",
             "Headquarters": "Columbus, Georgia",
             "Date added": "1999-05-28",
             "Founded": "1955",
@@ -132,7 +132,7 @@
         {
             "Ticker": "A",
             "Company": "Agilent Technologies",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Santa Clara, California",
             "Date added": "2000-06-05",
             "Founded": "1999",
@@ -141,7 +141,7 @@
         {
             "Ticker": "APD",
             "Company": "Air Products and Chemicals",
-            "Sub-sector": "Industrial Gases",
+            "Sub_sector": "Industrial Gases",
             "Headquarters": "Allentown, Pennsylvania",
             "Date added": "1985-04-30",
             "Founded": "1940",
@@ -150,7 +150,7 @@
         {
             "Ticker": "AKAM",
             "Company": "Akamai",
-            "Sub-sector": "Internet Services & Infrastructure",
+            "Sub_sector": "Internet Services & Infrastructure",
             "Headquarters": "Cambridge, Massachusetts",
             "Date added": "2007-07-12",
             "Founded": "1998",
@@ -159,7 +159,7 @@
         {
             "Ticker": "ALK",
             "Company": "Alaska Air Group",
-            "Sub-sector": "Passenger Airlines",
+            "Sub_sector": "Passenger Airlines",
             "Headquarters": "SeaTac, Washington",
             "Date added": "2016-05-13",
             "Founded": "1985",
@@ -168,7 +168,7 @@
         {
             "Ticker": "ALB",
             "Company": "Albemarle Corporation",
-            "Sub-sector": "Specialty Chemicals",
+            "Sub_sector": "Specialty Chemicals",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "2016-07-01",
             "Founded": "1994",
@@ -177,7 +177,7 @@
         {
             "Ticker": "ARE",
             "Company": "Alexandria Real Estate Equities",
-            "Sub-sector": "Office REITs",
+            "Sub_sector": "Office REITs",
             "Headquarters": "Pasadena, California",
             "Date added": "2017-03-20",
             "Founded": "1994",
@@ -186,7 +186,7 @@
         {
             "Ticker": "ALGN",
             "Company": "Align Technology",
-            "Sub-sector": "Health Care Supplies",
+            "Sub_sector": "Health Care Supplies",
             "Headquarters": "Tempe, Arizona",
             "Date added": "2017-06-19",
             "Founded": "1997",
@@ -195,7 +195,7 @@
         {
             "Ticker": "ALLE",
             "Company": "Allegion",
-            "Sub-sector": "Building Products",
+            "Sub_sector": "Building Products",
             "Headquarters": "New York City, New York",
             "Date added": "2013-12-02",
             "Founded": "1908",
@@ -204,7 +204,7 @@
         {
             "Ticker": "LNT",
             "Company": "Alliant Energy",
-            "Sub-sector": "Electric Utilities",
+            "Sub_sector": "Electric Utilities",
             "Headquarters": "Madison, Wisconsin",
             "Date added": "2016-07-01",
             "Founded": "1917",
@@ -213,7 +213,7 @@
         {
             "Ticker": "ALL",
             "Company": "Allstate",
-            "Sub-sector": "Property & Casualty Insurance",
+            "Sub_sector": "Property & Casualty Insurance",
             "Headquarters": "Glenview, Illinois",
             "Date added": "1995-07-13",
             "Founded": "1931",
@@ -222,7 +222,7 @@
         {
             "Ticker": "GOOGL",
             "Company": "Alphabet Inc. (Class A)",
-            "Sub-sector": "Interactive Media & Services",
+            "Sub_sector": "Interactive Media & Services",
             "Headquarters": "Mountain View, California",
             "Date added": "2014-04-03",
             "Founded": "1998",
@@ -231,7 +231,7 @@
         {
             "Ticker": "GOOG",
             "Company": "Alphabet Inc. (Class C)",
-            "Sub-sector": "Interactive Media & Services",
+            "Sub_sector": "Interactive Media & Services",
             "Headquarters": "Mountain View, California",
             "Date added": "2006-04-03",
             "Founded": "1998",
@@ -240,7 +240,7 @@
         {
             "Ticker": "MO",
             "Company": "Altria",
-            "Sub-sector": "Tobacco",
+            "Sub_sector": "Tobacco",
             "Headquarters": "Richmond, Virginia",
             "Date added": "1957-03-04",
             "Founded": "1985",
@@ -249,7 +249,7 @@
         {
             "Ticker": "AMZN",
             "Company": "Amazon",
-            "Sub-sector": "Broadline Retail",
+            "Sub_sector": "Broadline Retail",
             "Headquarters": "Seattle, Washington",
             "Date added": "2005-11-18",
             "Founded": "1994",
@@ -258,7 +258,7 @@
         {
             "Ticker": "AMCR",
             "Company": "Amcor",
-            "Sub-sector": "Paper & Plastic Packaging Products & Materials",
+            "Sub_sector": "Paper & Plastic Packaging Products & Materials",
             "Headquarters": "Warmley, Bristol, United Kingdom",
             "Date added": "2019-06-07",
             "Founded": "2019 (1860)",
@@ -267,7 +267,7 @@
         {
             "Ticker": "AMD",
             "Company": "AMD",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "Santa Clara, California",
             "Date added": "2017-03-20",
             "Founded": "1969",
@@ -276,7 +276,7 @@
         {
             "Ticker": "AEE",
             "Company": "Ameren",
-            "Sub-sector": "Multi-Utilities",
+            "Sub_sector": "Multi-Utilities",
             "Headquarters": "St. Louis, Missouri",
             "Date added": "1991-09-19",
             "Founded": "1902",
@@ -285,7 +285,7 @@
         {
             "Ticker": "AAL",
             "Company": "American Airlines Group",
-            "Sub-sector": "Passenger Airlines",
+            "Sub_sector": "Passenger Airlines",
             "Headquarters": "Fort Worth, Texas",
             "Date added": "2015-03-23",
             "Founded": "1934",
@@ -294,7 +294,7 @@
         {
             "Ticker": "AEP",
             "Company": "American Electric Power",
-            "Sub-sector": "Electric Utilities",
+            "Sub_sector": "Electric Utilities",
             "Headquarters": "Columbus, Ohio",
             "Date added": "1957-03-04",
             "Founded": "1906",
@@ -303,7 +303,7 @@
         {
             "Ticker": "AXP",
             "Company": "American Express",
-            "Sub-sector": "Consumer Finance",
+            "Sub_sector": "Consumer Finance",
             "Headquarters": "New York City, New York",
             "Date added": "1976-06-30",
             "Founded": "1850",
@@ -312,7 +312,7 @@
         {
             "Ticker": "AIG",
             "Company": "American International Group",
-            "Sub-sector": "Property & Casualty Insurance",
+            "Sub_sector": "Property & Casualty Insurance",
             "Headquarters": "New York City, New York",
             "Date added": "1980-03-31",
             "Founded": "1919",
@@ -321,7 +321,7 @@
         {
             "Ticker": "AMT",
             "Company": "American Tower",
-            "Sub-sector": "Telecom Tower REITs",
+            "Sub_sector": "Telecom Tower REITs",
             "Headquarters": "Boston, Massachusetts",
             "Date added": "2007-11-19",
             "Founded": "1995",
@@ -330,7 +330,7 @@
         {
             "Ticker": "AWK",
             "Company": "American Water Works",
-            "Sub-sector": "Water Utilities",
+            "Sub_sector": "Water Utilities",
             "Headquarters": "Camden, New Jersey",
             "Date added": "2016-03-04",
             "Founded": "1886",
@@ -339,7 +339,7 @@
         {
             "Ticker": "AMP",
             "Company": "Ameriprise Financial",
-            "Sub-sector": "Asset Management & Custody Banks",
+            "Sub_sector": "Asset Management & Custody Banks",
             "Headquarters": "Minneapolis, Minnesota",
             "Date added": "2005-10-03",
             "Founded": "1894",
@@ -348,7 +348,7 @@
         {
             "Ticker": "ABC",
             "Company": "AmerisourceBergen",
-            "Sub-sector": "Health Care Distributors",
+            "Sub_sector": "Health Care Distributors",
             "Headquarters": "Conshohocken, Pennsylvania",
             "Date added": "2001-08-30",
             "Founded": "1985",
@@ -357,7 +357,7 @@
         {
             "Ticker": "AME",
             "Company": "Ametek",
-            "Sub-sector": "Electrical Components & Equipment",
+            "Sub_sector": "Electrical Components & Equipment",
             "Headquarters": "Berwyn, Pennsylvania",
             "Date added": "2013-09-23",
             "Founded": "1930",
@@ -366,7 +366,7 @@
         {
             "Ticker": "AMGN",
             "Company": "Amgen",
-            "Sub-sector": "Biotechnology",
+            "Sub_sector": "Biotechnology",
             "Headquarters": "Thousand Oaks, California",
             "Date added": "1992-01-02",
             "Founded": "1980",
@@ -375,7 +375,7 @@
         {
             "Ticker": "APH",
             "Company": "Amphenol",
-            "Sub-sector": "Electronic Components",
+            "Sub_sector": "Electronic Components",
             "Headquarters": "Wallingford, Connecticut",
             "Date added": "2008-09-30",
             "Founded": "1932",
@@ -384,7 +384,7 @@
         {
             "Ticker": "ADI",
             "Company": "Analog Devices",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "Wilmington, Massachusetts",
             "Date added": "1999-10-12",
             "Founded": "1965",
@@ -393,7 +393,7 @@
         {
             "Ticker": "ANSS",
             "Company": "Ansys",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "Canonsburg, Pennsylvania",
             "Date added": "2017-06-19",
             "Founded": "1969",
@@ -402,7 +402,7 @@
         {
             "Ticker": "AON",
             "Company": "Aon",
-            "Sub-sector": "Insurance Brokers",
+            "Sub_sector": "Insurance Brokers",
             "Headquarters": "London, UK",
             "Date added": "1996-04-23",
             "Founded": "1982 (1919)",
@@ -411,7 +411,7 @@
         {
             "Ticker": "APA",
             "Company": "APA Corporation",
-            "Sub-sector": "Oil & Gas Exploration & Production",
+            "Sub_sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Houston, Texas",
             "Date added": "1997-07-28",
             "Founded": "1954",
@@ -420,7 +420,7 @@
         {
             "Ticker": "AAPL",
             "Company": "Apple Inc.",
-            "Sub-sector": "Technology Hardware, Storage & Peripherals",
+            "Sub_sector": "Technology Hardware, Storage & Peripherals",
             "Headquarters": "Cupertino, California",
             "Date added": "1982-11-30",
             "Founded": "1977",
@@ -429,7 +429,7 @@
         {
             "Ticker": "AMAT",
             "Company": "Applied Materials",
-            "Sub-sector": "Semiconductor Materials & Equipment",
+            "Sub_sector": "Semiconductor Materials & Equipment",
             "Headquarters": "Santa Clara, California",
             "Date added": "1995-03-16",
             "Founded": "1967",
@@ -438,7 +438,7 @@
         {
             "Ticker": "APTV",
             "Company": "Aptiv",
-            "Sub-sector": "Automotive Parts & Equipment",
+            "Sub_sector": "Automotive Parts & Equipment",
             "Headquarters": "Dublin, Ireland",
             "Date added": "2012-12-24",
             "Founded": "1994",
@@ -447,7 +447,7 @@
         {
             "Ticker": "ACGL",
             "Company": "Arch Capital Group",
-            "Sub-sector": "Reinsurance",
+            "Sub_sector": "Reinsurance",
             "Headquarters": "Hamilton, Bermuda",
             "Date added": "2022-11-01",
             "Founded": "1995",
@@ -456,7 +456,7 @@
         {
             "Ticker": "ANET",
             "Company": "Arista Networks",
-            "Sub-sector": "Communications Equipment",
+            "Sub_sector": "Communications Equipment",
             "Headquarters": "Santa Clara, California",
             "Date added": "2018-08-28",
             "Founded": "2004",
@@ -465,7 +465,7 @@
         {
             "Ticker": "AJG",
             "Company": "Arthur J. Gallagher & Co.",
-            "Sub-sector": "Insurance Brokers",
+            "Sub_sector": "Insurance Brokers",
             "Headquarters": "Rolling Meadows, Illinois",
             "Date added": "2016-05-31",
             "Founded": "1927",
@@ -474,7 +474,7 @@
         {
             "Ticker": "AIZ",
             "Company": "Assurant",
-            "Sub-sector": "Multi-line Insurance",
+            "Sub_sector": "Multi-line Insurance",
             "Headquarters": "New York City, New York",
             "Date added": "2007-04-10",
             "Founded": "1892",
@@ -483,7 +483,7 @@
         {
             "Ticker": "T",
             "Company": "AT&T",
-            "Sub-sector": "Integrated Telecommunication Services",
+            "Sub_sector": "Integrated Telecommunication Services",
             "Headquarters": "Dallas, Texas",
             "Date added": "1983-11-30",
             "Founded": "1983 (1885)",
@@ -492,7 +492,7 @@
         {
             "Ticker": "ATO",
             "Company": "Atmos Energy",
-            "Sub-sector": "Gas Utilities",
+            "Sub_sector": "Gas Utilities",
             "Headquarters": "Dallas, Texas",
             "Date added": "2019-02-15",
             "Founded": "1906",
@@ -501,7 +501,7 @@
         {
             "Ticker": "ADSK",
             "Company": "Autodesk",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "San Francisco, California",
             "Date added": "1989-12-01",
             "Founded": "1982",
@@ -510,7 +510,7 @@
         {
             "Ticker": "AZO",
             "Company": "AutoZone",
-            "Sub-sector": "Specialty Stores",
+            "Sub_sector": "Specialty Stores",
             "Headquarters": "Memphis, Tennessee",
             "Date added": "1997-01-02",
             "Founded": "1979",
@@ -519,7 +519,7 @@
         {
             "Ticker": "AVB",
             "Company": "AvalonBay Communities",
-            "Sub-sector": "Residential REITs",
+            "Sub_sector": "Residential REITs",
             "Headquarters": "Arlington, Virginia",
             "Date added": "2007-01-10",
             "Founded": "1978",
@@ -528,7 +528,7 @@
         {
             "Ticker": "AVY",
             "Company": "Avery Dennison",
-            "Sub-sector": "Paper & Plastic Packaging Products & Materials",
+            "Sub_sector": "Paper & Plastic Packaging Products & Materials",
             "Headquarters": "Glendale, California",
             "Date added": "1987-12-31",
             "Founded": "1990",
@@ -537,7 +537,7 @@
         {
             "Ticker": "AXON",
             "Company": "Axon Enterprise",
-            "Sub-sector": "Aerospace & Defense",
+            "Sub_sector": "Aerospace & Defense",
             "Headquarters": "Scottsdale, Arizona",
             "Date added": "2023-05-04",
             "Founded": "1993",
@@ -546,7 +546,7 @@
         {
             "Ticker": "BKR",
             "Company": "Baker Hughes",
-            "Sub-sector": "Oil & Gas Equipment & Services",
+            "Sub_sector": "Oil & Gas Equipment & Services",
             "Headquarters": "Houston, Texas",
             "Date added": "2017-07-07",
             "Founded": "2017",
@@ -555,7 +555,7 @@
         {
             "Ticker": "BALL",
             "Company": "Ball Corporation",
-            "Sub-sector": "Metal, Glass & Plastic Containers",
+            "Sub_sector": "Metal, Glass & Plastic Containers",
             "Headquarters": "Broomfield, Colorado",
             "Date added": "1984-10-31",
             "Founded": "1880",
@@ -564,7 +564,7 @@
         {
             "Ticker": "BAC",
             "Company": "Bank of America",
-            "Sub-sector": "Diversified Banks",
+            "Sub_sector": "Diversified Banks",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "1976-06-30",
             "Founded": "1998 (1923 / 1874)",
@@ -573,7 +573,7 @@
         {
             "Ticker": "BBWI",
             "Company": "Bath & Body Works, Inc.",
-            "Sub-sector": "Specialty Stores",
+            "Sub_sector": "Specialty Stores",
             "Headquarters": "Columbus, Ohio",
             "Date added": "1983-09-30",
             "Founded": "1963",
@@ -582,7 +582,7 @@
         {
             "Ticker": "BAX",
             "Company": "Baxter International",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Deerfield, Illinois",
             "Date added": "1972-09-30",
             "Founded": "1931",
@@ -591,7 +591,7 @@
         {
             "Ticker": "BDX",
             "Company": "Becton Dickinson",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Franklin Lakes, New Jersey",
             "Date added": "1972-09-30",
             "Founded": "1897",
@@ -600,7 +600,7 @@
         {
             "Ticker": "WRB",
             "Company": "Berkley",
-            "Sub-sector": "Property & Casualty Insurance",
+            "Sub_sector": "Property & Casualty Insurance",
             "Headquarters": "Greenwich, Connecticut",
             "Date added": "2019-12-05",
             "Founded": "1967",
@@ -609,7 +609,7 @@
         {
             "Ticker": "BRK.B",
             "Company": "Berkshire Hathaway",
-            "Sub-sector": "Multi-Sector Holdings",
+            "Sub_sector": "Multi-Sector Holdings",
             "Headquarters": "Omaha, Nebraska",
             "Date added": "2010-02-16",
             "Founded": "1839",
@@ -618,7 +618,7 @@
         {
             "Ticker": "BBY",
             "Company": "Best Buy",
-            "Sub-sector": "Computer & Electronics Retail",
+            "Sub_sector": "Computer & Electronics Retail",
             "Headquarters": "Richfield, Minnesota",
             "Date added": "1999-06-29",
             "Founded": "1966",
@@ -627,7 +627,7 @@
         {
             "Ticker": "BIO",
             "Company": "Bio-Rad",
-            "Sub-sector": "Life Sciences Tools & Services",
+            "Sub_sector": "Life Sciences Tools & Services",
             "Headquarters": "Hercules, California",
             "Date added": "2020-06-22",
             "Founded": "1952",
@@ -636,7 +636,7 @@
         {
             "Ticker": "TECH",
             "Company": "Bio-Techne",
-            "Sub-sector": "Life Sciences Tools & Services",
+            "Sub_sector": "Life Sciences Tools & Services",
             "Headquarters": "Minneapolis, Minnesota",
             "Date added": "2021-08-30",
             "Founded": "1976",
@@ -645,7 +645,7 @@
         {
             "Ticker": "BIIB",
             "Company": "Biogen",
-            "Sub-sector": "Biotechnology",
+            "Sub_sector": "Biotechnology",
             "Headquarters": "Cambridge, Massachusetts",
             "Date added": "2003-11-13",
             "Founded": "1978",
@@ -654,7 +654,7 @@
         {
             "Ticker": "BLK",
             "Company": "BlackRock",
-            "Sub-sector": "Asset Management & Custody Banks",
+            "Sub_sector": "Asset Management & Custody Banks",
             "Headquarters": "New York City, New York",
             "Date added": "2011-04-04",
             "Founded": "1988",
@@ -663,7 +663,7 @@
         {
             "Ticker": "BK",
             "Company": "BNY Mellon",
-            "Sub-sector": "Asset Management & Custody Banks",
+            "Sub_sector": "Asset Management & Custody Banks",
             "Headquarters": "New York City, New York",
             "Date added": "1995-03-31",
             "Founded": "1784",
@@ -672,7 +672,7 @@
         {
             "Ticker": "BA",
             "Company": "Boeing",
-            "Sub-sector": "Aerospace & Defense",
+            "Sub_sector": "Aerospace & Defense",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1957-03-04",
             "Founded": "1916",
@@ -681,7 +681,7 @@
         {
             "Ticker": "BKNG",
             "Company": "Booking Holdings",
-            "Sub-sector": "Hotels, Restaurants & Leisure",
+            "Sub_sector": "Hotels, Restaurants & Leisure",
             "Headquarters": "Norwalk, Connecticut",
             "Date added": "2009-11-06",
             "Founded": "1996",
@@ -690,7 +690,7 @@
         {
             "Ticker": "BWA",
             "Company": "BorgWarner",
-            "Sub-sector": "Automotive Parts & Equipment",
+            "Sub_sector": "Automotive Parts & Equipment",
             "Headquarters": "Auburn Hills, Michigan",
             "Date added": "2011-12-19",
             "Founded": "1880",
@@ -699,7 +699,7 @@
         {
             "Ticker": "BXP",
             "Company": "Boston Properties",
-            "Sub-sector": "Office REITs",
+            "Sub_sector": "Office REITs",
             "Headquarters": "Boston, Massachusetts",
             "Date added": "2006-04-03",
             "Founded": "1970",
@@ -708,7 +708,7 @@
         {
             "Ticker": "BSX",
             "Company": "Boston Scientific",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Marlborough, Massachusetts",
             "Date added": "1995-02-24",
             "Founded": "1979",
@@ -717,7 +717,7 @@
         {
             "Ticker": "BMY",
             "Company": "Bristol Myers Squibb",
-            "Sub-sector": "Pharmaceuticals",
+            "Sub_sector": "Pharmaceuticals",
             "Headquarters": "New York City, New York",
             "Date added": "1957-03-04",
             "Founded": "1989 (1887)",
@@ -726,7 +726,7 @@
         {
             "Ticker": "AVGO",
             "Company": "Broadcom Inc.",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "San Jose, California",
             "Date added": "2014-05-08",
             "Founded": "1961",
@@ -735,7 +735,7 @@
         {
             "Ticker": "BR",
             "Company": "Broadridge Financial Solutions",
-            "Sub-sector": "Data Processing & Outsourced Services",
+            "Sub_sector": "Data Processing & Outsourced Services",
             "Headquarters": "Lake Success, New York",
             "Date added": "2018-06-18",
             "Founded": "1962",
@@ -744,7 +744,7 @@
         {
             "Ticker": "BRO",
             "Company": "Brown & Brown",
-            "Sub-sector": "Insurance Brokers",
+            "Sub_sector": "Insurance Brokers",
             "Headquarters": "Daytona Beach, Florida",
             "Date added": "2021-09-20",
             "Founded": "1939",
@@ -753,7 +753,7 @@
         {
             "Ticker": "BF.B",
             "Company": "Brown\u2013Forman",
-            "Sub-sector": "Distillers & Vintners",
+            "Sub_sector": "Distillers & Vintners",
             "Headquarters": "Louisville, Kentucky",
             "Date added": "1982-10-31",
             "Founded": "1870",
@@ -762,7 +762,7 @@
         {
             "Ticker": "BG",
             "Company": "Bunge Limited",
-            "Sub-sector": "Agricultural Products & Services",
+            "Sub_sector": "Agricultural Products & Services",
             "Headquarters": "Chesterfield, Missouri",
             "Date added": "2023-03-15",
             "Founded": "1818",
@@ -771,7 +771,7 @@
         {
             "Ticker": "CHRW",
             "Company": "C.H. Robinson",
-            "Sub-sector": "Air Freight & Logistics",
+            "Sub_sector": "Air Freight & Logistics",
             "Headquarters": "Eden Prairie, Minnesota",
             "Date added": "2007-03-02",
             "Founded": "1905",
@@ -780,7 +780,7 @@
         {
             "Ticker": "CDNS",
             "Company": "Cadence Design Systems",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "San Jose, California",
             "Date added": "2017-09-18",
             "Founded": "1988",
@@ -789,7 +789,7 @@
         {
             "Ticker": "CZR",
             "Company": "Caesars Entertainment",
-            "Sub-sector": "Casinos & Gaming",
+            "Sub_sector": "Casinos & Gaming",
             "Headquarters": "Reno, Nevada",
             "Date added": "2021-03-22",
             "Founded": "1973",
@@ -798,7 +798,7 @@
         {
             "Ticker": "CPT",
             "Company": "Camden Property Trust",
-            "Sub-sector": "Residential REITs",
+            "Sub_sector": "Residential REITs",
             "Headquarters": "Houston, Texas",
             "Date added": "2022-04-04",
             "Founded": "1981",
@@ -807,7 +807,7 @@
         {
             "Ticker": "CPB",
             "Company": "Campbell Soup Company",
-            "Sub-sector": "Packaged Foods & Meats",
+            "Sub_sector": "Packaged Foods & Meats",
             "Headquarters": "Camden, New Jersey",
             "Date added": "1957-03-04",
             "Founded": "1869",
@@ -816,7 +816,7 @@
         {
             "Ticker": "COF",
             "Company": "Capital One",
-            "Sub-sector": "Consumer Finance",
+            "Sub_sector": "Consumer Finance",
             "Headquarters": "Tysons Corner, Virginia",
             "Date added": "1998-07-01",
             "Founded": "1994",
@@ -825,7 +825,7 @@
         {
             "Ticker": "CAH",
             "Company": "Cardinal Health",
-            "Sub-sector": "Health Care Distributors",
+            "Sub_sector": "Health Care Distributors",
             "Headquarters": "Dublin, Ohio",
             "Date added": "1997-05-27",
             "Founded": "1971",
@@ -834,7 +834,7 @@
         {
             "Ticker": "KMX",
             "Company": "CarMax",
-            "Sub-sector": "Automotive Retail",
+            "Sub_sector": "Automotive Retail",
             "Headquarters": "Richmond, Virginia",
             "Date added": "2010-06-28",
             "Founded": "1993",
@@ -843,7 +843,7 @@
         {
             "Ticker": "CCL",
             "Company": "Carnival",
-            "Sub-sector": "Hotels, Resorts & Cruise Lines",
+            "Sub_sector": "Hotels, Resorts & Cruise Lines",
             "Headquarters": "Miami, Florida",
             "Date added": "1998-12-22",
             "Founded": "1972",
@@ -852,7 +852,7 @@
         {
             "Ticker": "CARR",
             "Company": "Carrier Global",
-            "Sub-sector": "Building Products",
+            "Sub_sector": "Building Products",
             "Headquarters": "Palm Beach Gardens, Florida",
             "Date added": "2020-04-03",
             "Founded": "2020 (1915)",
@@ -861,7 +861,7 @@
         {
             "Ticker": "CTLT",
             "Company": "Catalent",
-            "Sub-sector": "Pharmaceuticals",
+            "Sub_sector": "Pharmaceuticals",
             "Headquarters": "Somerset, New Jersey",
             "Date added": "2020-09-21",
             "Founded": "2007",
@@ -870,7 +870,7 @@
         {
             "Ticker": "CAT",
             "Company": "Caterpillar Inc.",
-            "Sub-sector": "Construction Machinery & Heavy Transportation Equipment",
+            "Sub_sector": "Construction Machinery & Heavy Transportation Equipment",
             "Headquarters": "Irving, Texas",
             "Date added": "1957-03-04",
             "Founded": "1925",
@@ -879,7 +879,7 @@
         {
             "Ticker": "CBOE",
             "Company": "Cboe Global Markets",
-            "Sub-sector": "Financial Exchanges & Data",
+            "Sub_sector": "Financial Exchanges & Data",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2017-03-01",
             "Founded": "1973",
@@ -888,7 +888,7 @@
         {
             "Ticker": "CBRE",
             "Company": "CBRE Group",
-            "Sub-sector": "Real Estate Services",
+            "Sub_sector": "Real Estate Services",
             "Headquarters": "Dallas, Texas",
             "Date added": "2006-11-10",
             "Founded": "1906",
@@ -897,7 +897,7 @@
         {
             "Ticker": "CDW",
             "Company": "CDW",
-            "Sub-sector": "Technology Distributors",
+            "Sub_sector": "Technology Distributors",
             "Headquarters": "Lincolnshire, Illinois",
             "Date added": "2019-09-23",
             "Founded": "1984",
@@ -906,7 +906,7 @@
         {
             "Ticker": "CE",
             "Company": "Celanese",
-            "Sub-sector": "Specialty Chemicals",
+            "Sub_sector": "Specialty Chemicals",
             "Headquarters": "Irving, Texas",
             "Date added": "2018-12-24",
             "Founded": "1918",
@@ -915,7 +915,7 @@
         {
             "Ticker": "CNC",
             "Company": "Centene Corporation",
-            "Sub-sector": "Managed Health Care",
+            "Sub_sector": "Managed Health Care",
             "Headquarters": "St. Louis, Missouri",
             "Date added": "2016-03-30",
             "Founded": "1984",
@@ -924,7 +924,7 @@
         {
             "Ticker": "CNP",
             "Company": "CenterPoint Energy",
-            "Sub-sector": "Multi-Utilities",
+            "Sub_sector": "Multi-Utilities",
             "Headquarters": "Houston, Texas",
             "Date added": "1985-07-31",
             "Founded": "1882",
@@ -933,7 +933,7 @@
         {
             "Ticker": "CDAY",
             "Company": "Ceridian",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "Minneapolis, Minnesota",
             "Date added": "2021-09-20",
             "Founded": "1992",
@@ -942,7 +942,7 @@
         {
             "Ticker": "CF",
             "Company": "CF Industries",
-            "Sub-sector": "Fertilizers & Agricultural Chemicals",
+            "Sub_sector": "Fertilizers & Agricultural Chemicals",
             "Headquarters": "Deerfield, Illinois",
             "Date added": "2008-08-27",
             "Founded": "1946",
@@ -951,7 +951,7 @@
         {
             "Ticker": "CRL",
             "Company": "Charles River Laboratories",
-            "Sub-sector": "Life Sciences Tools & Services",
+            "Sub_sector": "Life Sciences Tools & Services",
             "Headquarters": "Wilmington, Massachusetts",
             "Date added": "2021-05-14",
             "Founded": "1947",
@@ -960,7 +960,7 @@
         {
             "Ticker": "SCHW",
             "Company": "Charles Schwab Corporation",
-            "Sub-sector": "Investment Banking & Brokerage",
+            "Sub_sector": "Investment Banking & Brokerage",
             "Headquarters": "Westlake, Texas",
             "Date added": "1997-06-02",
             "Founded": "1971",
@@ -969,7 +969,7 @@
         {
             "Ticker": "CHTR",
             "Company": "Charter Communications",
-            "Sub-sector": "Cable & Satellite",
+            "Sub_sector": "Cable & Satellite",
             "Headquarters": "Stamford, Connecticut",
             "Date added": "2016-09-08",
             "Founded": "1993",
@@ -978,7 +978,7 @@
         {
             "Ticker": "CVX",
             "Company": "Chevron Corporation",
-            "Sub-sector": "Integrated Oil & Gas",
+            "Sub_sector": "Integrated Oil & Gas",
             "Headquarters": "San Ramon, California",
             "Date added": "1957-03-04",
             "Founded": "1879",
@@ -987,7 +987,7 @@
         {
             "Ticker": "CMG",
             "Company": "Chipotle Mexican Grill",
-            "Sub-sector": "Restaurants",
+            "Sub_sector": "Restaurants",
             "Headquarters": "Newport Beach, California",
             "Date added": "2011-04-28",
             "Founded": "1993",
@@ -996,7 +996,7 @@
         {
             "Ticker": "CB",
             "Company": "Chubb Limited",
-            "Sub-sector": "Property & Casualty Insurance",
+            "Sub_sector": "Property & Casualty Insurance",
             "Headquarters": "Zurich, Switzerland",
             "Date added": "2010-07-15",
             "Founded": "1985",
@@ -1005,7 +1005,7 @@
         {
             "Ticker": "CHD",
             "Company": "Church & Dwight",
-            "Sub-sector": "Household Products",
+            "Sub_sector": "Household Products",
             "Headquarters": "Ewing, New Jersey",
             "Date added": "2015-12-29",
             "Founded": "1847",
@@ -1014,7 +1014,7 @@
         {
             "Ticker": "CI",
             "Company": "Cigna",
-            "Sub-sector": "Managed Health Care",
+            "Sub_sector": "Managed Health Care",
             "Headquarters": "Bloomfield, Connecticut",
             "Date added": "1976-06-30",
             "Founded": "1982",
@@ -1023,7 +1023,7 @@
         {
             "Ticker": "CINF",
             "Company": "Cincinnati Financial",
-            "Sub-sector": "Property & Casualty Insurance",
+            "Sub_sector": "Property & Casualty Insurance",
             "Headquarters": "Fairfield, Ohio",
             "Date added": "1997-12-18",
             "Founded": "1950",
@@ -1032,7 +1032,7 @@
         {
             "Ticker": "CTAS",
             "Company": "Cintas",
-            "Sub-sector": "Diversified Support Services",
+            "Sub_sector": "Diversified Support Services",
             "Headquarters": "Mason, Ohio",
             "Date added": "2001-03-01",
             "Founded": "1929",
@@ -1041,7 +1041,7 @@
         {
             "Ticker": "CSCO",
             "Company": "Cisco",
-            "Sub-sector": "Communications Equipment",
+            "Sub_sector": "Communications Equipment",
             "Headquarters": "San Jose, California",
             "Date added": "1993-12-01",
             "Founded": "1984",
@@ -1050,7 +1050,7 @@
         {
             "Ticker": "C",
             "Company": "Citigroup",
-            "Sub-sector": "Diversified Banks",
+            "Sub_sector": "Diversified Banks",
             "Headquarters": "New York City, New York",
             "Date added": "1988-05-31",
             "Founded": "1998",
@@ -1059,7 +1059,7 @@
         {
             "Ticker": "CFG",
             "Company": "Citizens Financial Group",
-            "Sub-sector": "Regional Banks",
+            "Sub_sector": "Regional Banks",
             "Headquarters": "Providence, Rhode Island",
             "Date added": "2016-01-29",
             "Founded": "1828",
@@ -1068,7 +1068,7 @@
         {
             "Ticker": "CLX",
             "Company": "Clorox",
-            "Sub-sector": "Household Products",
+            "Sub_sector": "Household Products",
             "Headquarters": "Oakland, California",
             "Date added": "1969-03-31",
             "Founded": "1913",
@@ -1077,7 +1077,7 @@
         {
             "Ticker": "CME",
             "Company": "CME Group",
-            "Sub-sector": "Financial Exchanges & Data",
+            "Sub_sector": "Financial Exchanges & Data",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2006-08-11",
             "Founded": "1848",
@@ -1086,7 +1086,7 @@
         {
             "Ticker": "CMS",
             "Company": "CMS Energy",
-            "Sub-sector": "Multi-Utilities",
+            "Sub_sector": "Multi-Utilities",
             "Headquarters": "Jackson, Michigan",
             "Date added": "1957-03-04",
             "Founded": "1886",
@@ -1095,7 +1095,7 @@
         {
             "Ticker": "KO",
             "Company": "Coca-Cola Company (The)",
-            "Sub-sector": "Soft Drinks & Non-alcoholic Beverages",
+            "Sub_sector": "Soft Drinks & Non-alcoholic Beverages",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1957-03-04",
             "Founded": "1886",
@@ -1104,7 +1104,7 @@
         {
             "Ticker": "CTSH",
             "Company": "Cognizant",
-            "Sub-sector": "IT Consulting & Other Services",
+            "Sub_sector": "IT Consulting & Other Services",
             "Headquarters": "Teaneck, New Jersey",
             "Date added": "2006-11-17",
             "Founded": "1994",
@@ -1113,7 +1113,7 @@
         {
             "Ticker": "CL",
             "Company": "Colgate-Palmolive",
-            "Sub-sector": "Household Products",
+            "Sub_sector": "Household Products",
             "Headquarters": "New York City, New York",
             "Date added": "1957-03-04",
             "Founded": "1806",
@@ -1122,7 +1122,7 @@
         {
             "Ticker": "CMCSA",
             "Company": "Comcast",
-            "Sub-sector": "Cable & Satellite",
+            "Sub_sector": "Cable & Satellite",
             "Headquarters": "Philadelphia, Pennsylvania",
             "Date added": "2002-11-19",
             "Founded": "1963",
@@ -1131,7 +1131,7 @@
         {
             "Ticker": "CMA",
             "Company": "Comerica",
-            "Sub-sector": "Diversified Banks",
+            "Sub_sector": "Diversified Banks",
             "Headquarters": "Dallas, Texas",
             "Date added": "1995-12-01",
             "Founded": "1849",
@@ -1140,7 +1140,7 @@
         {
             "Ticker": "CAG",
             "Company": "Conagra Brands",
-            "Sub-sector": "Packaged Foods & Meats",
+            "Sub_sector": "Packaged Foods & Meats",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1983-08-31",
             "Founded": "1919",
@@ -1149,7 +1149,7 @@
         {
             "Ticker": "COP",
             "Company": "ConocoPhillips",
-            "Sub-sector": "Oil & Gas Exploration & Production",
+            "Sub_sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Houston, Texas",
             "Date added": "1957-03-04",
             "Founded": "2002",
@@ -1158,7 +1158,7 @@
         {
             "Ticker": "ED",
             "Company": "Consolidated Edison",
-            "Sub-sector": "Electric Utilities",
+            "Sub_sector": "Electric Utilities",
             "Headquarters": "New York City, New York",
             "Date added": "1957-03-04",
             "Founded": "1823",
@@ -1167,7 +1167,7 @@
         {
             "Ticker": "STZ",
             "Company": "Constellation Brands",
-            "Sub-sector": "Distillers & Vintners",
+            "Sub_sector": "Distillers & Vintners",
             "Headquarters": "Victor, New York",
             "Date added": "2005-07-01",
             "Founded": "1945",
@@ -1176,7 +1176,7 @@
         {
             "Ticker": "CEG",
             "Company": "Constellation Energy",
-            "Sub-sector": "Multi-Utilities",
+            "Sub_sector": "Multi-Utilities",
             "Headquarters": "Baltimore, Maryland",
             "Date added": "2022-02-02",
             "Founded": "1999",
@@ -1185,7 +1185,7 @@
         {
             "Ticker": "COO",
             "Company": "CooperCompanies",
-            "Sub-sector": "Health Care Supplies",
+            "Sub_sector": "Health Care Supplies",
             "Headquarters": "San Ramon, California",
             "Date added": "2016-09-23",
             "Founded": "1958",
@@ -1194,7 +1194,7 @@
         {
             "Ticker": "CPRT",
             "Company": "Copart",
-            "Sub-sector": "Diversified Support Services",
+            "Sub_sector": "Diversified Support Services",
             "Headquarters": "Dallas, Texas",
             "Date added": "2018-07-02",
             "Founded": "1982",
@@ -1203,7 +1203,7 @@
         {
             "Ticker": "GLW",
             "Company": "Corning Inc.",
-            "Sub-sector": "Electronic Components",
+            "Sub_sector": "Electronic Components",
             "Headquarters": "Corning, New York",
             "Date added": "1995-02-27",
             "Founded": "1851",
@@ -1212,7 +1212,7 @@
         {
             "Ticker": "CTVA",
             "Company": "Corteva",
-            "Sub-sector": "Fertilizers & Agricultural Chemicals",
+            "Sub_sector": "Fertilizers & Agricultural Chemicals",
             "Headquarters": "Indianapolis, Indiana",
             "Date added": "2019-06-03",
             "Founded": "2019",
@@ -1221,7 +1221,7 @@
         {
             "Ticker": "CSGP",
             "Company": "CoStar Group",
-            "Sub-sector": "Research & Consulting Services",
+            "Sub_sector": "Research & Consulting Services",
             "Headquarters": "Washington, D.C.",
             "Date added": "2022-09-19",
             "Founded": "1987",
@@ -1230,7 +1230,7 @@
         {
             "Ticker": "COST",
             "Company": "Costco",
-            "Sub-sector": "Consumer Staples Merchandise Retail",
+            "Sub_sector": "Consumer Staples Merchandise Retail",
             "Headquarters": "Issaquah, Washington",
             "Date added": "1993-10-01",
             "Founded": "1976",
@@ -1239,7 +1239,7 @@
         {
             "Ticker": "CTRA",
             "Company": "Coterra",
-            "Sub-sector": "Oil & Gas Exploration & Production",
+            "Sub_sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Houston, Texas",
             "Date added": "2008-06-23",
             "Founded": "2021 (1989)",
@@ -1248,7 +1248,7 @@
         {
             "Ticker": "CCI",
             "Company": "Crown Castle",
-            "Sub-sector": "Telecom Tower REITs",
+            "Sub_sector": "Telecom Tower REITs",
             "Headquarters": "Houston, Texas",
             "Date added": "2012-03-14",
             "Founded": "1994",
@@ -1257,7 +1257,7 @@
         {
             "Ticker": "CSX",
             "Company": "CSX",
-            "Sub-sector": "Rail Transportation",
+            "Sub_sector": "Rail Transportation",
             "Headquarters": "Jacksonville, Florida",
             "Date added": "1957-03-04",
             "Founded": "1980",
@@ -1266,7 +1266,7 @@
         {
             "Ticker": "CMI",
             "Company": "Cummins",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Columbus, Indiana",
             "Date added": "1965-03-31",
             "Founded": "1919",
@@ -1275,7 +1275,7 @@
         {
             "Ticker": "CVS",
             "Company": "CVS Health",
-            "Sub-sector": "Health Care Services",
+            "Sub_sector": "Health Care Services",
             "Headquarters": "Woonsocket, Rhode Island",
             "Date added": "1957-03-04",
             "Founded": "1996",
@@ -1284,7 +1284,7 @@
         {
             "Ticker": "DHI",
             "Company": "D.R. Horton",
-            "Sub-sector": "Homebuilding",
+            "Sub_sector": "Homebuilding",
             "Headquarters": "Arlington, Texas",
             "Date added": "2005-06-22",
             "Founded": "1978",
@@ -1293,7 +1293,7 @@
         {
             "Ticker": "DHR",
             "Company": "Danaher Corporation",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Washington, D.C.",
             "Date added": "1998-11-18",
             "Founded": "1969",
@@ -1302,7 +1302,7 @@
         {
             "Ticker": "DRI",
             "Company": "Darden Restaurants",
-            "Sub-sector": "Restaurants",
+            "Sub_sector": "Restaurants",
             "Headquarters": "Orlando, Florida",
             "Date added": "1995-05-31",
             "Founded": "1938",
@@ -1311,7 +1311,7 @@
         {
             "Ticker": "DVA",
             "Company": "DaVita Inc.",
-            "Sub-sector": "Health Care Facilities",
+            "Sub_sector": "Health Care Facilities",
             "Headquarters": "Denver, Colorado",
             "Date added": "2008-07-31",
             "Founded": "1979",
@@ -1320,7 +1320,7 @@
         {
             "Ticker": "DE",
             "Company": "John Deere",
-            "Sub-sector": "Agricultural & Farm Machinery",
+            "Sub_sector": "Agricultural & Farm Machinery",
             "Headquarters": "Moline, Illinois",
             "Date added": "1957-03-04",
             "Founded": "1837",
@@ -1329,7 +1329,7 @@
         {
             "Ticker": "DAL",
             "Company": "Delta Air Lines",
-            "Sub-sector": "Passenger Airlines",
+            "Sub_sector": "Passenger Airlines",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "2013-09-11",
             "Founded": "1929",
@@ -1338,7 +1338,7 @@
         {
             "Ticker": "XRAY",
             "Company": "Dentsply Sirona",
-            "Sub-sector": "Health Care Supplies",
+            "Sub_sector": "Health Care Supplies",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "2008-11-14",
             "Founded": "2016 (1969)",
@@ -1347,7 +1347,7 @@
         {
             "Ticker": "DVN",
             "Company": "Devon Energy",
-            "Sub-sector": "Oil & Gas Exploration & Production",
+            "Sub_sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Oklahoma City, Oklahoma",
             "Date added": "2000-08-30",
             "Founded": "1971",
@@ -1356,7 +1356,7 @@
         {
             "Ticker": "DXCM",
             "Company": "Dexcom",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "San Diego, California",
             "Date added": "2020-05-12",
             "Founded": "1999",
@@ -1365,7 +1365,7 @@
         {
             "Ticker": "FANG",
             "Company": "Diamondback Energy",
-            "Sub-sector": "Oil & Gas Exploration & Production",
+            "Sub_sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Midland, Texas",
             "Date added": "2018-12-03",
             "Founded": "2007",
@@ -1374,7 +1374,7 @@
         {
             "Ticker": "DLR",
             "Company": "Digital Realty",
-            "Sub-sector": "Data Center REITs",
+            "Sub_sector": "Data Center REITs",
             "Headquarters": "Austin, Texas",
             "Date added": "2016-05-18",
             "Founded": "2004",
@@ -1383,7 +1383,7 @@
         {
             "Ticker": "DFS",
             "Company": "Discover Financial",
-            "Sub-sector": "Consumer Finance",
+            "Sub_sector": "Consumer Finance",
             "Headquarters": "Riverwoods, Illinois",
             "Date added": "2007-07-02",
             "Founded": "1985",
@@ -1392,7 +1392,7 @@
         {
             "Ticker": "DIS",
             "Company": "Disney",
-            "Sub-sector": "Movies & Entertainment",
+            "Sub_sector": "Movies & Entertainment",
             "Headquarters": "Burbank, California",
             "Date added": "1976-06-30",
             "Founded": "1923",
@@ -1401,7 +1401,7 @@
         {
             "Ticker": "DG",
             "Company": "Dollar General",
-            "Sub-sector": "Consumer Staples Merchandise Retail",
+            "Sub_sector": "Consumer Staples Merchandise Retail",
             "Headquarters": "Goodlettsville, Tennessee",
             "Date added": "2012-12-03",
             "Founded": "1939",
@@ -1410,7 +1410,7 @@
         {
             "Ticker": "DLTR",
             "Company": "Dollar Tree",
-            "Sub-sector": "Consumer Staples Merchandise Retail",
+            "Sub_sector": "Consumer Staples Merchandise Retail",
             "Headquarters": "Chesapeake, Virginia",
             "Date added": "2011-12-19",
             "Founded": "1986",
@@ -1419,7 +1419,7 @@
         {
             "Ticker": "D",
             "Company": "Dominion Energy",
-            "Sub-sector": "Electric Utilities",
+            "Sub_sector": "Electric Utilities",
             "Headquarters": "Richmond, Virginia",
             "Date added": "2011-12-20",
             "Founded": "1983",
@@ -1428,7 +1428,7 @@
         {
             "Ticker": "DPZ",
             "Company": "Domino's",
-            "Sub-sector": "Restaurants",
+            "Sub_sector": "Restaurants",
             "Headquarters": "Ann Arbor, Michigan",
             "Date added": "2020-05-12",
             "Founded": "1960",
@@ -1437,7 +1437,7 @@
         {
             "Ticker": "DOV",
             "Company": "Dover Corporation",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Downers Grove, Illinois",
             "Date added": "1985-10-31",
             "Founded": "1955",
@@ -1446,7 +1446,7 @@
         {
             "Ticker": "DOW",
             "Company": "Dow Inc.",
-            "Sub-sector": "Commodity Chemicals",
+            "Sub_sector": "Commodity Chemicals",
             "Headquarters": "Midland, Michigan",
             "Date added": "2019-04-01",
             "Founded": "2019",
@@ -1455,7 +1455,7 @@
         {
             "Ticker": "DTE",
             "Company": "DTE Energy",
-            "Sub-sector": "Multi-Utilities",
+            "Sub_sector": "Multi-Utilities",
             "Headquarters": "Detroit, Michigan",
             "Date added": "1957-03-04",
             "Founded": "1995",
@@ -1464,7 +1464,7 @@
         {
             "Ticker": "DUK",
             "Company": "Duke Energy",
-            "Sub-sector": "Electric Utilities",
+            "Sub_sector": "Electric Utilities",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "1976-06-30",
             "Founded": "1904",
@@ -1473,7 +1473,7 @@
         {
             "Ticker": "DD",
             "Company": "DuPont",
-            "Sub-sector": "Specialty Chemicals",
+            "Sub_sector": "Specialty Chemicals",
             "Headquarters": "Wilmington, Delaware",
             "Date added": "2019-04-02",
             "Founded": "2017",
@@ -1482,7 +1482,7 @@
         {
             "Ticker": "DXC",
             "Company": "DXC Technology",
-            "Sub-sector": "IT Consulting & Other Services",
+            "Sub_sector": "IT Consulting & Other Services",
             "Headquarters": "Tysons Corner, Virginia",
             "Date added": "2017-04-04",
             "Founded": "2017",
@@ -1491,7 +1491,7 @@
         {
             "Ticker": "EMN",
             "Company": "Eastman Chemical Company",
-            "Sub-sector": "Diversified Chemicals",
+            "Sub_sector": "Diversified Chemicals",
             "Headquarters": "Kingsport, Tennessee",
             "Date added": "1994-01-01",
             "Founded": "1920",
@@ -1500,7 +1500,7 @@
         {
             "Ticker": "ETN",
             "Company": "Eaton Corporation",
-            "Sub-sector": "Electrical Components & Equipment",
+            "Sub_sector": "Electrical Components & Equipment",
             "Headquarters": "Dublin, Ireland",
             "Date added": "1957-03-04",
             "Founded": "1911",
@@ -1509,7 +1509,7 @@
         {
             "Ticker": "EBAY",
             "Company": "eBay",
-            "Sub-sector": "Broadline Retail",
+            "Sub_sector": "Broadline Retail",
             "Headquarters": "San Jose, California",
             "Date added": "2002-07-22",
             "Founded": "1995",
@@ -1518,7 +1518,7 @@
         {
             "Ticker": "ECL",
             "Company": "Ecolab",
-            "Sub-sector": "Specialty Chemicals",
+            "Sub_sector": "Specialty Chemicals",
             "Headquarters": "Saint Paul, Minnesota",
             "Date added": "1989-01-31",
             "Founded": "1923",
@@ -1527,7 +1527,7 @@
         {
             "Ticker": "EIX",
             "Company": "Edison International",
-            "Sub-sector": "Electric Utilities",
+            "Sub_sector": "Electric Utilities",
             "Headquarters": "Rosemead, California",
             "Date added": "1957-03-04",
             "Founded": "1886",
@@ -1536,7 +1536,7 @@
         {
             "Ticker": "EW",
             "Company": "Edwards Lifesciences",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Irvine, California",
             "Date added": "2011-04-01",
             "Founded": "1958",
@@ -1545,7 +1545,7 @@
         {
             "Ticker": "EA",
             "Company": "Electronic Arts",
-            "Sub-sector": "Interactive Home Entertainment",
+            "Sub_sector": "Interactive Home Entertainment",
             "Headquarters": "Redwood City, California",
             "Date added": "2002-07-22",
             "Founded": "1982",
@@ -1554,7 +1554,7 @@
         {
             "Ticker": "ELV",
             "Company": "Elevance Health",
-            "Sub-sector": "Managed Health Care",
+            "Sub_sector": "Managed Health Care",
             "Headquarters": "Indianapolis, Indiana",
             "Date added": "2002-07-25",
             "Founded": "2014 (1946)",
@@ -1563,7 +1563,7 @@
         {
             "Ticker": "LLY",
             "Company": "Eli Lilly and Company",
-            "Sub-sector": "Pharmaceuticals",
+            "Sub_sector": "Pharmaceuticals",
             "Headquarters": "Indianapolis, Indiana",
             "Date added": "1970-12-31",
             "Founded": "1876",
@@ -1572,7 +1572,7 @@
         {
             "Ticker": "EMR",
             "Company": "Emerson Electric",
-            "Sub-sector": "Electrical Components & Equipment",
+            "Sub_sector": "Electrical Components & Equipment",
             "Headquarters": "Ferguson, Missouri",
             "Date added": "1965-03-31",
             "Founded": "1890",
@@ -1581,7 +1581,7 @@
         {
             "Ticker": "ENPH",
             "Company": "Enphase",
-            "Sub-sector": "Electronic Components",
+            "Sub_sector": "Electronic Components",
             "Headquarters": "Fremont, California",
             "Date added": "2021-01-07",
             "Founded": "2006",
@@ -1590,7 +1590,7 @@
         {
             "Ticker": "ETR",
             "Company": "Entergy",
-            "Sub-sector": "Electric Utilities",
+            "Sub_sector": "Electric Utilities",
             "Headquarters": "New Orleans, Louisiana",
             "Date added": "1957-03-04",
             "Founded": "1913",
@@ -1599,7 +1599,7 @@
         {
             "Ticker": "EOG",
             "Company": "EOG Resources",
-            "Sub-sector": "Oil & Gas Exploration & Production",
+            "Sub_sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Houston, Texas",
             "Date added": "2000-11-02",
             "Founded": "1999",
@@ -1608,7 +1608,7 @@
         {
             "Ticker": "EPAM",
             "Company": "EPAM Systems",
-            "Sub-sector": "IT Consulting & Other Services",
+            "Sub_sector": "IT Consulting & Other Services",
             "Headquarters": "Newtown, Pennsylvania",
             "Date added": "2021-12-14",
             "Founded": "1993",
@@ -1617,7 +1617,7 @@
         {
             "Ticker": "EQT",
             "Company": "EQT",
-            "Sub-sector": "Oil & Gas Exploration & Production",
+            "Sub_sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Pittsburgh, Pennsylvania",
             "Date added": "2022-10-03",
             "Founded": "1888",
@@ -1626,7 +1626,7 @@
         {
             "Ticker": "EFX",
             "Company": "Equifax",
-            "Sub-sector": "Research & Consulting Services",
+            "Sub_sector": "Research & Consulting Services",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1997-06-19",
             "Founded": "1899",
@@ -1635,7 +1635,7 @@
         {
             "Ticker": "EQIX",
             "Company": "Equinix",
-            "Sub-sector": "Data Center REITs",
+            "Sub_sector": "Data Center REITs",
             "Headquarters": "Redwood City, California",
             "Date added": "2015-03-20",
             "Founded": "1998",
@@ -1644,7 +1644,7 @@
         {
             "Ticker": "EQR",
             "Company": "Equity Residential",
-            "Sub-sector": "Residential REITs",
+            "Sub_sector": "Residential REITs",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2001-12-03",
             "Founded": "1969",
@@ -1653,7 +1653,7 @@
         {
             "Ticker": "ESS",
             "Company": "Essex Property Trust",
-            "Sub-sector": "Residential REITs",
+            "Sub_sector": "Residential REITs",
             "Headquarters": "San Mateo, California",
             "Date added": "2014-04-02",
             "Founded": "1971",
@@ -1662,7 +1662,7 @@
         {
             "Ticker": "EL",
             "Company": "Est\u00e9e Lauder Companies (The)",
-            "Sub-sector": "Personal Care Products",
+            "Sub_sector": "Personal Care Products",
             "Headquarters": "New York City, New York",
             "Date added": "2006-01-05",
             "Founded": "1946",
@@ -1671,7 +1671,7 @@
         {
             "Ticker": "ETSY",
             "Company": "Etsy",
-            "Sub-sector": "Broadline Retail",
+            "Sub_sector": "Broadline Retail",
             "Headquarters": "New York City, New York",
             "Date added": "2020-09-21",
             "Founded": "2005",
@@ -1680,7 +1680,7 @@
         {
             "Ticker": "EG",
             "Company": "Everest Re",
-            "Sub-sector": "Reinsurance",
+            "Sub_sector": "Reinsurance",
             "Headquarters": "Hamilton, Bermuda",
             "Date added": "2017-06-19",
             "Founded": "1973",
@@ -1689,7 +1689,7 @@
         {
             "Ticker": "EVRG",
             "Company": "Evergy",
-            "Sub-sector": "Electric Utilities",
+            "Sub_sector": "Electric Utilities",
             "Headquarters": "Kansas City, Missouri",
             "Date added": "2018-06-05",
             "Founded": "1909",
@@ -1698,7 +1698,7 @@
         {
             "Ticker": "ES",
             "Company": "Eversource",
-            "Sub-sector": "Multi-Utilities",
+            "Sub_sector": "Multi-Utilities",
             "Headquarters": "Hartford, Connecticut",
             "Date added": "2009-01-01",
             "Founded": "1966",
@@ -1707,7 +1707,7 @@
         {
             "Ticker": "EXC",
             "Company": "Exelon",
-            "Sub-sector": "Multi-Utilities",
+            "Sub_sector": "Multi-Utilities",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1957-03-04",
             "Founded": "2000",
@@ -1716,7 +1716,7 @@
         {
             "Ticker": "EXPE",
             "Company": "Expedia Group",
-            "Sub-sector": "Hotels, Restaurants & Leisure",
+            "Sub_sector": "Hotels, Restaurants & Leisure",
             "Headquarters": "Seattle, Washington",
             "Date added": "2007-10-02",
             "Founded": "1996",
@@ -1725,7 +1725,7 @@
         {
             "Ticker": "EXPD",
             "Company": "Expeditors International",
-            "Sub-sector": "Air Freight & Logistics",
+            "Sub_sector": "Air Freight & Logistics",
             "Headquarters": "Seattle, Washington",
             "Date added": "2007-10-10",
             "Founded": "1979",
@@ -1734,7 +1734,7 @@
         {
             "Ticker": "EXR",
             "Company": "Extra Space Storage",
-            "Sub-sector": "Self-Storage REITs",
+            "Sub_sector": "Self-Storage REITs",
             "Headquarters": "Salt Lake City, Utah",
             "Date added": "2016-01-19",
             "Founded": "1977",
@@ -1743,7 +1743,7 @@
         {
             "Ticker": "XOM",
             "Company": "ExxonMobil",
-            "Sub-sector": "Integrated Oil & Gas",
+            "Sub_sector": "Integrated Oil & Gas",
             "Headquarters": "Irving, Texas",
             "Date added": "1957-03-04",
             "Founded": "1999",
@@ -1752,7 +1752,7 @@
         {
             "Ticker": "FFIV",
             "Company": "F5, Inc.",
-            "Sub-sector": "Communications Equipment",
+            "Sub_sector": "Communications Equipment",
             "Headquarters": "Seattle, Washington",
             "Date added": "2010-12-20",
             "Founded": "1996",
@@ -1761,7 +1761,7 @@
         {
             "Ticker": "FDS",
             "Company": "FactSet",
-            "Sub-sector": "Financial Exchanges & Data",
+            "Sub_sector": "Financial Exchanges & Data",
             "Headquarters": "Norwalk, Connecticut",
             "Date added": "2021-12-20",
             "Founded": "1978",
@@ -1770,7 +1770,7 @@
         {
             "Ticker": "FICO",
             "Company": "Fair Isaac",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "Bozeman, Montana",
             "Date added": "2023-03-20",
             "Founded": "1956",
@@ -1779,7 +1779,7 @@
         {
             "Ticker": "FAST",
             "Company": "Fastenal",
-            "Sub-sector": "Building Products",
+            "Sub_sector": "Building Products",
             "Headquarters": "Winona, Minnesota",
             "Date added": "2008-09-15",
             "Founded": "1967",
@@ -1788,7 +1788,7 @@
         {
             "Ticker": "FRT",
             "Company": "Federal Realty",
-            "Sub-sector": "Retail REITs",
+            "Sub_sector": "Retail REITs",
             "Headquarters": "Rockville, Maryland",
             "Date added": "2016-02-01",
             "Founded": "1962",
@@ -1797,7 +1797,7 @@
         {
             "Ticker": "FDX",
             "Company": "FedEx",
-            "Sub-sector": "Air Freight & Logistics",
+            "Sub_sector": "Air Freight & Logistics",
             "Headquarters": "Memphis, Tennessee",
             "Date added": "1980-12-31",
             "Founded": "1971",
@@ -1806,7 +1806,7 @@
         {
             "Ticker": "FITB",
             "Company": "Fifth Third Bank",
-            "Sub-sector": "Regional Banks",
+            "Sub_sector": "Regional Banks",
             "Headquarters": "Cincinnati, Ohio",
             "Date added": "1996-03-29",
             "Founded": "1858",
@@ -1815,7 +1815,7 @@
         {
             "Ticker": "FSLR",
             "Company": "First Solar",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "Tempe, Arizona",
             "Date added": "2022-12-19",
             "Founded": "1999",
@@ -1824,7 +1824,7 @@
         {
             "Ticker": "FE",
             "Company": "FirstEnergy",
-            "Sub-sector": "Electric Utilities",
+            "Sub_sector": "Electric Utilities",
             "Headquarters": "Akron, Ohio",
             "Date added": "1997-11-28",
             "Founded": "1997",
@@ -1833,7 +1833,7 @@
         {
             "Ticker": "FIS",
             "Company": "FIS",
-            "Sub-sector": "Transaction & Payment Processing Services",
+            "Sub_sector": "Transaction & Payment Processing Services",
             "Headquarters": "Jacksonville, Florida",
             "Date added": "2006-11-10",
             "Founded": "1968",
@@ -1842,7 +1842,7 @@
         {
             "Ticker": "FI",
             "Company": "Fiserv",
-            "Sub-sector": "Transaction & Payment Processing Services",
+            "Sub_sector": "Transaction & Payment Processing Services",
             "Headquarters": "Brookfield, Wisconsin",
             "Date added": "2001-04-02",
             "Founded": "1984",
@@ -1851,7 +1851,7 @@
         {
             "Ticker": "FLT",
             "Company": "Fleetcor",
-            "Sub-sector": "Transaction & Payment Processing Services",
+            "Sub_sector": "Transaction & Payment Processing Services",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "2018-06-20",
             "Founded": "2000",
@@ -1860,7 +1860,7 @@
         {
             "Ticker": "FMC",
             "Company": "FMC Corporation",
-            "Sub-sector": "Fertilizers & Agricultural Chemicals",
+            "Sub_sector": "Fertilizers & Agricultural Chemicals",
             "Headquarters": "Philadelphia, Pennsylvania",
             "Date added": "2009-08-19",
             "Founded": "1883",
@@ -1869,7 +1869,7 @@
         {
             "Ticker": "F",
             "Company": "Ford Motor Company",
-            "Sub-sector": "Automobile Manufacturers",
+            "Sub_sector": "Automobile Manufacturers",
             "Headquarters": "Dearborn, Michigan",
             "Date added": "1957-03-04",
             "Founded": "1903",
@@ -1878,7 +1878,7 @@
         {
             "Ticker": "FTNT",
             "Company": "Fortinet",
-            "Sub-sector": "Systems Software",
+            "Sub_sector": "Systems Software",
             "Headquarters": "Sunnyvale, California",
             "Date added": "2018-10-11",
             "Founded": "2000",
@@ -1887,7 +1887,7 @@
         {
             "Ticker": "FTV",
             "Company": "Fortive",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Everett, Washington",
             "Date added": "2016-07-01",
             "Founded": "2016",
@@ -1896,7 +1896,7 @@
         {
             "Ticker": "FOXA",
             "Company": "Fox Corporation (Class A)",
-            "Sub-sector": "Movies & Entertainment",
+            "Sub_sector": "Movies & Entertainment",
             "Headquarters": "New York City, New York",
             "Date added": "2013-07-01",
             "Founded": "2019",
@@ -1905,7 +1905,7 @@
         {
             "Ticker": "FOX",
             "Company": "Fox Corporation (Class B)",
-            "Sub-sector": "Movies & Entertainment",
+            "Sub_sector": "Movies & Entertainment",
             "Headquarters": "New York City, New York",
             "Date added": "2015-09-18",
             "Founded": "2019",
@@ -1914,7 +1914,7 @@
         {
             "Ticker": "BEN",
             "Company": "Franklin Templeton",
-            "Sub-sector": "Asset Management & Custody Banks",
+            "Sub_sector": "Asset Management & Custody Banks",
             "Headquarters": "San Mateo, California",
             "Date added": "1998-04-30",
             "Founded": "1947",
@@ -1923,7 +1923,7 @@
         {
             "Ticker": "FCX",
             "Company": "Freeport-McMoRan",
-            "Sub-sector": "Copper",
+            "Sub_sector": "Copper",
             "Headquarters": "Phoenix, Arizona",
             "Date added": "1998-05-01",
             "Founded": "1912",
@@ -1932,7 +1932,7 @@
         {
             "Ticker": "GRMN",
             "Company": "Garmin",
-            "Sub-sector": "Consumer Electronics",
+            "Sub_sector": "Consumer Electronics",
             "Headquarters": "Schaffhausen, Switzerland",
             "Date added": "2012-12-12",
             "Founded": "1989",
@@ -1941,7 +1941,7 @@
         {
             "Ticker": "IT",
             "Company": "Gartner",
-            "Sub-sector": "IT Consulting & Other Services",
+            "Sub_sector": "IT Consulting & Other Services",
             "Headquarters": "Stamford, Connecticut",
             "Date added": "2017-04-05",
             "Founded": "1979",
@@ -1950,7 +1950,7 @@
         {
             "Ticker": "GEHC",
             "Company": "GE HealthCare",
-            "Sub-sector": "Health Care Technology",
+            "Sub_sector": "Health Care Technology",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2023-01-04",
             "Founded": "1994",
@@ -1959,7 +1959,7 @@
         {
             "Ticker": "GEN",
             "Company": "Gen Digital",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "Tempe, Arizona",
             "Date added": "2003-03-25",
             "Founded": "1982",
@@ -1968,7 +1968,7 @@
         {
             "Ticker": "GNRC",
             "Company": "Generac",
-            "Sub-sector": "Electrical Components & Equipment",
+            "Sub_sector": "Electrical Components & Equipment",
             "Headquarters": "Waukesha, Wisconsin",
             "Date added": "2021-03-22",
             "Founded": "1959",
@@ -1977,7 +1977,7 @@
         {
             "Ticker": "GD",
             "Company": "General Dynamics",
-            "Sub-sector": "Aerospace & Defense",
+            "Sub_sector": "Aerospace & Defense",
             "Headquarters": "Falls Church, Virginia",
             "Date added": "1957-03-04",
             "Founded": "1899",
@@ -1986,7 +1986,7 @@
         {
             "Ticker": "GE",
             "Company": "General Electric",
-            "Sub-sector": "Industrial Conglomerates",
+            "Sub_sector": "Industrial Conglomerates",
             "Headquarters": "Boston, Massachusetts",
             "Date added": "1957-03-04",
             "Founded": "1892",
@@ -1995,7 +1995,7 @@
         {
             "Ticker": "GIS",
             "Company": "General Mills",
-            "Sub-sector": "Packaged Foods & Meats",
+            "Sub_sector": "Packaged Foods & Meats",
             "Headquarters": "Golden Valley, Minnesota",
             "Date added": "1957-03-04",
             "Founded": "1856",
@@ -2004,7 +2004,7 @@
         {
             "Ticker": "GM",
             "Company": "General Motors",
-            "Sub-sector": "Automobile Manufacturers",
+            "Sub_sector": "Automobile Manufacturers",
             "Headquarters": "Detroit, Michigan",
             "Date added": "2013-06-06",
             "Founded": "1908",
@@ -2013,7 +2013,7 @@
         {
             "Ticker": "GPC",
             "Company": "Genuine Parts Company",
-            "Sub-sector": "Specialty Stores",
+            "Sub_sector": "Specialty Stores",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1973-12-31",
             "Founded": "1925",
@@ -2022,7 +2022,7 @@
         {
             "Ticker": "GILD",
             "Company": "Gilead Sciences",
-            "Sub-sector": "Biotechnology",
+            "Sub_sector": "Biotechnology",
             "Headquarters": "Foster City, California",
             "Date added": "2004-07-01",
             "Founded": "1987",
@@ -2031,7 +2031,7 @@
         {
             "Ticker": "GL",
             "Company": "Globe Life",
-            "Sub-sector": "Life & Health Insurance",
+            "Sub_sector": "Life & Health Insurance",
             "Headquarters": "McKinney, Texas",
             "Date added": "1989-04-30",
             "Founded": "1900",
@@ -2040,7 +2040,7 @@
         {
             "Ticker": "GPN",
             "Company": "Global Payments",
-            "Sub-sector": "Transaction & Payment Processing Services",
+            "Sub_sector": "Transaction & Payment Processing Services",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "2016-04-25",
             "Founded": "2000",
@@ -2049,7 +2049,7 @@
         {
             "Ticker": "GS",
             "Company": "Goldman Sachs",
-            "Sub-sector": "Investment Banking & Brokerage",
+            "Sub_sector": "Investment Banking & Brokerage",
             "Headquarters": "New York City, New York",
             "Date added": "2002-07-22",
             "Founded": "1869",
@@ -2058,7 +2058,7 @@
         {
             "Ticker": "HAL",
             "Company": "Halliburton",
-            "Sub-sector": "Oil & Gas Equipment & Services",
+            "Sub_sector": "Oil & Gas Equipment & Services",
             "Headquarters": "Houston, Texas",
             "Date added": "1957-03-04",
             "Founded": "1919",
@@ -2067,7 +2067,7 @@
         {
             "Ticker": "HIG",
             "Company": "Hartford (The)",
-            "Sub-sector": "Property & Casualty Insurance",
+            "Sub_sector": "Property & Casualty Insurance",
             "Headquarters": "Hartford, Connecticut",
             "Date added": "1957-03-04",
             "Founded": "1810",
@@ -2076,7 +2076,7 @@
         {
             "Ticker": "HAS",
             "Company": "Hasbro",
-            "Sub-sector": "Leisure Products",
+            "Sub_sector": "Leisure Products",
             "Headquarters": "Pawtucket, Rhode Island",
             "Date added": "1984-09-30",
             "Founded": "1923",
@@ -2085,7 +2085,7 @@
         {
             "Ticker": "HCA",
             "Company": "HCA Healthcare",
-            "Sub-sector": "Health Care Facilities",
+            "Sub_sector": "Health Care Facilities",
             "Headquarters": "Nashville, Tennessee",
             "Date added": "2015-01-27",
             "Founded": "1968",
@@ -2094,7 +2094,7 @@
         {
             "Ticker": "PEAK",
             "Company": "Healthpeak",
-            "Sub-sector": "Health Care REITs",
+            "Sub_sector": "Health Care REITs",
             "Headquarters": "Long Beach, California",
             "Date added": "2008-03-31",
             "Founded": "1985",
@@ -2103,7 +2103,7 @@
         {
             "Ticker": "HSIC",
             "Company": "Henry Schein",
-            "Sub-sector": "Health Care Distributors",
+            "Sub_sector": "Health Care Distributors",
             "Headquarters": "Melville, New York",
             "Date added": "2015-03-17",
             "Founded": "1932",
@@ -2112,7 +2112,7 @@
         {
             "Ticker": "HSY",
             "Company": "Hershey's",
-            "Sub-sector": "Packaged Foods & Meats",
+            "Sub_sector": "Packaged Foods & Meats",
             "Headquarters": "Hershey, Pennsylvania",
             "Date added": "1957-03-04",
             "Founded": "1894",
@@ -2121,7 +2121,7 @@
         {
             "Ticker": "HES",
             "Company": "Hess Corporation",
-            "Sub-sector": "Integrated Oil & Gas",
+            "Sub_sector": "Integrated Oil & Gas",
             "Headquarters": "New York City, New York",
             "Date added": "1984-05-31",
             "Founded": "1919",
@@ -2130,7 +2130,7 @@
         {
             "Ticker": "HPE",
             "Company": "Hewlett Packard Enterprise",
-            "Sub-sector": "Technology Hardware, Storage & Peripherals",
+            "Sub_sector": "Technology Hardware, Storage & Peripherals",
             "Headquarters": "Houston, Texas",
             "Date added": "2015-11-02",
             "Founded": "2015",
@@ -2139,7 +2139,7 @@
         {
             "Ticker": "HLT",
             "Company": "Hilton Worldwide",
-            "Sub-sector": "Hotels, Resorts & Cruise Lines",
+            "Sub_sector": "Hotels, Resorts & Cruise Lines",
             "Headquarters": "Tysons Corner, Virginia",
             "Date added": "2017-06-19",
             "Founded": "1919",
@@ -2148,7 +2148,7 @@
         {
             "Ticker": "HOLX",
             "Company": "Hologic",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Marlborough, Massachusetts",
             "Date added": "2016-03-30",
             "Founded": "1985",
@@ -2157,7 +2157,7 @@
         {
             "Ticker": "HD",
             "Company": "Home Depot (The)",
-            "Sub-sector": "Home Improvement Retail",
+            "Sub_sector": "Home Improvement Retail",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1988-03-31",
             "Founded": "1978",
@@ -2166,7 +2166,7 @@
         {
             "Ticker": "HON",
             "Company": "Honeywell",
-            "Sub-sector": "Industrial Conglomerates",
+            "Sub_sector": "Industrial Conglomerates",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "1957-03-04",
             "Founded": "1906",
@@ -2175,7 +2175,7 @@
         {
             "Ticker": "HRL",
             "Company": "Hormel Foods",
-            "Sub-sector": "Packaged Foods & Meats",
+            "Sub_sector": "Packaged Foods & Meats",
             "Headquarters": "Austin, Minnesota",
             "Date added": "2009-03-04",
             "Founded": "1891",
@@ -2184,7 +2184,7 @@
         {
             "Ticker": "HST",
             "Company": "Host Hotels & Resorts",
-            "Sub-sector": "Hotel & Resort REITs",
+            "Sub_sector": "Hotel & Resort REITs",
             "Headquarters": "Bethesda, Maryland",
             "Date added": "2007-03-20",
             "Founded": "1993",
@@ -2193,7 +2193,7 @@
         {
             "Ticker": "HWM",
             "Company": "Howmet Aerospace",
-            "Sub-sector": "Aerospace & Defense",
+            "Sub_sector": "Aerospace & Defense",
             "Headquarters": "Pittsburgh, Pennsylvania",
             "Date added": "1957-03-04",
             "Founded": "2016",
@@ -2202,7 +2202,7 @@
         {
             "Ticker": "HPQ",
             "Company": "HP Inc.",
-            "Sub-sector": "Technology Hardware, Storage & Peripherals",
+            "Sub_sector": "Technology Hardware, Storage & Peripherals",
             "Headquarters": "Palo Alto, California",
             "Date added": "1974-12-31",
             "Founded": "1939 (2015)",
@@ -2211,7 +2211,7 @@
         {
             "Ticker": "HUM",
             "Company": "Humana",
-            "Sub-sector": "Managed Health Care",
+            "Sub_sector": "Managed Health Care",
             "Headquarters": "Louisville, Kentucky",
             "Date added": "1975-01-01",
             "Founded": "1961",
@@ -2220,7 +2220,7 @@
         {
             "Ticker": "HBAN",
             "Company": "Huntington Bancshares",
-            "Sub-sector": "Regional Banks",
+            "Sub_sector": "Regional Banks",
             "Headquarters": "Columbus, Ohio; Detroit, Michigan",
             "Date added": "1997-08-28",
             "Founded": "1866",
@@ -2229,7 +2229,7 @@
         {
             "Ticker": "HII",
             "Company": "Huntington Ingalls Industries",
-            "Sub-sector": "Aerospace & Defense",
+            "Sub_sector": "Aerospace & Defense",
             "Headquarters": "Newport News, Virginia",
             "Date added": "2018-01-03",
             "Founded": "2011",
@@ -2238,7 +2238,7 @@
         {
             "Ticker": "IBM",
             "Company": "IBM",
-            "Sub-sector": "IT Consulting & Other Services",
+            "Sub_sector": "IT Consulting & Other Services",
             "Headquarters": "Armonk, New York",
             "Date added": "1957-03-04",
             "Founded": "1911",
@@ -2247,7 +2247,7 @@
         {
             "Ticker": "IEX",
             "Company": "IDEX Corporation",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Lake Forest, Illinois",
             "Date added": "2019-08-09",
             "Founded": "1988",
@@ -2256,7 +2256,7 @@
         {
             "Ticker": "IDXX",
             "Company": "Idexx Laboratories",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Westbrook, Maine",
             "Date added": "2017-01-05",
             "Founded": "1983",
@@ -2265,7 +2265,7 @@
         {
             "Ticker": "ITW",
             "Company": "Illinois Tool Works",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Glenview, Illinois",
             "Date added": "1986-02-28",
             "Founded": "1912",
@@ -2274,7 +2274,7 @@
         {
             "Ticker": "ILMN",
             "Company": "Illumina",
-            "Sub-sector": "Life Sciences Tools & Services",
+            "Sub_sector": "Life Sciences Tools & Services",
             "Headquarters": "San Diego, California",
             "Date added": "2015-11-19",
             "Founded": "1998",
@@ -2283,7 +2283,7 @@
         {
             "Ticker": "INCY",
             "Company": "Incyte",
-            "Sub-sector": "Biotechnology",
+            "Sub_sector": "Biotechnology",
             "Headquarters": "Wilmington, Delaware",
             "Date added": "2017-02-28",
             "Founded": "1991",
@@ -2292,7 +2292,7 @@
         {
             "Ticker": "IR",
             "Company": "Ingersoll Rand",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Davidson, North Carolina",
             "Date added": "2020-03-03",
             "Founded": "1859",
@@ -2301,7 +2301,7 @@
         {
             "Ticker": "PODD",
             "Company": "Insulet",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Acton, Massachusetts",
             "Date added": "2023-03-15",
             "Founded": "2000",
@@ -2310,7 +2310,7 @@
         {
             "Ticker": "INTC",
             "Company": "Intel",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "Santa Clara, California",
             "Date added": "1976-12-31",
             "Founded": "1968",
@@ -2319,7 +2319,7 @@
         {
             "Ticker": "ICE",
             "Company": "Intercontinental Exchange",
-            "Sub-sector": "Financial Exchanges & Data",
+            "Sub_sector": "Financial Exchanges & Data",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "2007-09-26",
             "Founded": "2000",
@@ -2328,7 +2328,7 @@
         {
             "Ticker": "IFF",
             "Company": "International Flavors & Fragrances",
-            "Sub-sector": "Specialty Chemicals",
+            "Sub_sector": "Specialty Chemicals",
             "Headquarters": "New York City, New York",
             "Date added": "1976-03-31",
             "Founded": "1958 (1889)",
@@ -2337,7 +2337,7 @@
         {
             "Ticker": "IP",
             "Company": "International Paper",
-            "Sub-sector": "Paper & Plastic Packaging Products & Materials",
+            "Sub_sector": "Paper & Plastic Packaging Products & Materials",
             "Headquarters": "Memphis, Tennessee",
             "Date added": "1957-03-04",
             "Founded": "1898",
@@ -2346,7 +2346,7 @@
         {
             "Ticker": "IPG",
             "Company": "Interpublic Group of Companies (The)",
-            "Sub-sector": "Advertising",
+            "Sub_sector": "Advertising",
             "Headquarters": "New York City, New York",
             "Date added": "1992-10-01",
             "Founded": "1961 (1930)",
@@ -2355,7 +2355,7 @@
         {
             "Ticker": "INTU",
             "Company": "Intuit",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "Mountain View, California",
             "Date added": "2000-12-05",
             "Founded": "1983",
@@ -2364,7 +2364,7 @@
         {
             "Ticker": "ISRG",
             "Company": "Intuitive Surgical",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Sunnyvale, California",
             "Date added": "2008-06-02",
             "Founded": "1995",
@@ -2373,7 +2373,7 @@
         {
             "Ticker": "IVZ",
             "Company": "Invesco",
-            "Sub-sector": "Asset Management & Custody Banks",
+            "Sub_sector": "Asset Management & Custody Banks",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "2008-08-21",
             "Founded": "1935",
@@ -2382,7 +2382,7 @@
         {
             "Ticker": "INVH",
             "Company": "Invitation Homes",
-            "Sub-sector": "Residential REITs",
+            "Sub_sector": "Residential REITs",
             "Headquarters": "Dallas, Texas",
             "Date added": "2022-09-19",
             "Founded": "2012",
@@ -2391,7 +2391,7 @@
         {
             "Ticker": "IQV",
             "Company": "IQVIA",
-            "Sub-sector": "Life Sciences Tools & Services",
+            "Sub_sector": "Life Sciences Tools & Services",
             "Headquarters": "Durham, North Carolina",
             "Date added": "2017-08-29",
             "Founded": "1982",
@@ -2400,7 +2400,7 @@
         {
             "Ticker": "IRM",
             "Company": "Iron Mountain",
-            "Sub-sector": "Other Specialized REITs",
+            "Sub_sector": "Other Specialized REITs",
             "Headquarters": "Boston, Massachusetts",
             "Date added": "2009-01-06",
             "Founded": "1951",
@@ -2409,7 +2409,7 @@
         {
             "Ticker": "JBHT",
             "Company": "J.B. Hunt",
-            "Sub-sector": "Cargo Ground Transportation",
+            "Sub_sector": "Cargo Ground Transportation",
             "Headquarters": "Lowell, Arkansas",
             "Date added": "2015-07-01",
             "Founded": "1961",
@@ -2418,7 +2418,7 @@
         {
             "Ticker": "JKHY",
             "Company": "Jack Henry & Associates",
-            "Sub-sector": "Transaction & Payment Processing Services",
+            "Sub_sector": "Transaction & Payment Processing Services",
             "Headquarters": "Monett, Missouri",
             "Date added": "2018-11-13",
             "Founded": "1976",
@@ -2427,7 +2427,7 @@
         {
             "Ticker": "J",
             "Company": "Jacobs Solutions",
-            "Sub-sector": "Construction & Engineering",
+            "Sub_sector": "Construction & Engineering",
             "Headquarters": "Dallas, Texas",
             "Date added": "2007-10-26",
             "Founded": "1947",
@@ -2436,7 +2436,7 @@
         {
             "Ticker": "JNJ",
             "Company": "Johnson & Johnson",
-            "Sub-sector": "Pharmaceuticals",
+            "Sub_sector": "Pharmaceuticals",
             "Headquarters": "New Brunswick, New Jersey",
             "Date added": "1973-06-30",
             "Founded": "1886",
@@ -2445,7 +2445,7 @@
         {
             "Ticker": "JCI",
             "Company": "Johnson Controls",
-            "Sub-sector": "Building Products",
+            "Sub_sector": "Building Products",
             "Headquarters": "Cork, Ireland",
             "Date added": "2010-08-27",
             "Founded": "1885",
@@ -2454,7 +2454,7 @@
         {
             "Ticker": "JPM",
             "Company": "JPMorgan Chase",
-            "Sub-sector": "Diversified Banks",
+            "Sub_sector": "Diversified Banks",
             "Headquarters": "New York City, New York",
             "Date added": "1975-06-30",
             "Founded": "2000 (1799 / 1871)",
@@ -2463,7 +2463,7 @@
         {
             "Ticker": "JNPR",
             "Company": "Juniper Networks",
-            "Sub-sector": "Communications Equipment",
+            "Sub_sector": "Communications Equipment",
             "Headquarters": "Sunnyvale, California",
             "Date added": "2006-06-02",
             "Founded": "1996",
@@ -2472,7 +2472,7 @@
         {
             "Ticker": "K",
             "Company": "Kellogg's",
-            "Sub-sector": "Packaged Foods & Meats",
+            "Sub_sector": "Packaged Foods & Meats",
             "Headquarters": "Battle Creek, Michigan",
             "Date added": "1989-09-11",
             "Founded": "1906",
@@ -2481,7 +2481,7 @@
         {
             "Ticker": "KDP",
             "Company": "Keurig Dr Pepper",
-            "Sub-sector": "Soft Drinks & Non-alcoholic Beverages",
+            "Sub_sector": "Soft Drinks & Non-alcoholic Beverages",
             "Headquarters": "Burlington, Massachusetts",
             "Date added": "2022-06-21",
             "Founded": "1981",
@@ -2490,7 +2490,7 @@
         {
             "Ticker": "KEY",
             "Company": "KeyCorp",
-            "Sub-sector": "Regional Banks",
+            "Sub_sector": "Regional Banks",
             "Headquarters": "Cleveland, Ohio",
             "Date added": "1994-03-01",
             "Founded": "1825",
@@ -2499,7 +2499,7 @@
         {
             "Ticker": "KEYS",
             "Company": "Keysight",
-            "Sub-sector": "Electronic Equipment & Instruments",
+            "Sub_sector": "Electronic Equipment & Instruments",
             "Headquarters": "Santa Rosa, California",
             "Date added": "2018-11-06",
             "Founded": "2014 (1939)",
@@ -2508,7 +2508,7 @@
         {
             "Ticker": "KMB",
             "Company": "Kimberly-Clark",
-            "Sub-sector": "Household Products",
+            "Sub_sector": "Household Products",
             "Headquarters": "Irving, Texas",
             "Date added": "1957-03-04",
             "Founded": "1872",
@@ -2517,7 +2517,7 @@
         {
             "Ticker": "KIM",
             "Company": "Kimco Realty",
-            "Sub-sector": "Retail REITs",
+            "Sub_sector": "Retail REITs",
             "Headquarters": "New Hyde Park, New York",
             "Date added": "2006-04-04",
             "Founded": "1958",
@@ -2526,7 +2526,7 @@
         {
             "Ticker": "KMI",
             "Company": "Kinder Morgan",
-            "Sub-sector": "Oil & Gas Storage & Transportation",
+            "Sub_sector": "Oil & Gas Storage & Transportation",
             "Headquarters": "Houston, Texas",
             "Date added": "2012-05-25",
             "Founded": "1997",
@@ -2535,7 +2535,7 @@
         {
             "Ticker": "KLAC",
             "Company": "KLA Corporation",
-            "Sub-sector": "Semiconductor Materials & Equipment",
+            "Sub_sector": "Semiconductor Materials & Equipment",
             "Headquarters": "Milpitas, California",
             "Date added": "1997-09-30",
             "Founded": "1975/1977 (1997)",
@@ -2544,7 +2544,7 @@
         {
             "Ticker": "KHC",
             "Company": "Kraft Heinz",
-            "Sub-sector": "Packaged Foods & Meats",
+            "Sub_sector": "Packaged Foods & Meats",
             "Headquarters": "Chicago, Illinois; Pittsburgh, Pennsylvania",
             "Date added": "2015-07-06",
             "Founded": "2015 (1869)",
@@ -2553,7 +2553,7 @@
         {
             "Ticker": "KR",
             "Company": "Kroger",
-            "Sub-sector": "Food Retail",
+            "Sub_sector": "Food Retail",
             "Headquarters": "Cincinnati, Ohio",
             "Date added": "1957-03-04",
             "Founded": "1883",
@@ -2562,7 +2562,7 @@
         {
             "Ticker": "LHX",
             "Company": "L3Harris",
-            "Sub-sector": "Aerospace & Defense",
+            "Sub_sector": "Aerospace & Defense",
             "Headquarters": "Melbourne, Florida",
             "Date added": "2008-09-22",
             "Founded": "2019 (1895)",
@@ -2571,7 +2571,7 @@
         {
             "Ticker": "LH",
             "Company": "LabCorp",
-            "Sub-sector": "Health Care Services",
+            "Sub_sector": "Health Care Services",
             "Headquarters": "Burlington, North Carolina",
             "Date added": "2004-11-01",
             "Founded": "1978",
@@ -2580,7 +2580,7 @@
         {
             "Ticker": "LRCX",
             "Company": "Lam Research",
-            "Sub-sector": "Semiconductor Materials & Equipment",
+            "Sub_sector": "Semiconductor Materials & Equipment",
             "Headquarters": "Fremont, California",
             "Date added": "2012-06-29",
             "Founded": "1980",
@@ -2589,7 +2589,7 @@
         {
             "Ticker": "LW",
             "Company": "Lamb Weston",
-            "Sub-sector": "Packaged Foods & Meats",
+            "Sub_sector": "Packaged Foods & Meats",
             "Headquarters": "Eagle, Idaho",
             "Date added": "2018-12-03",
             "Founded": "2016 (1950)",
@@ -2598,7 +2598,7 @@
         {
             "Ticker": "LVS",
             "Company": "Las Vegas Sands",
-            "Sub-sector": "Casinos & Gaming",
+            "Sub_sector": "Casinos & Gaming",
             "Headquarters": "Las Vegas, Nevada",
             "Date added": "2019-10-03",
             "Founded": "1988",
@@ -2607,7 +2607,7 @@
         {
             "Ticker": "LDOS",
             "Company": "Leidos",
-            "Sub-sector": "Diversified Support Services",
+            "Sub_sector": "Diversified Support Services",
             "Headquarters": "Reston, Virginia",
             "Date added": "2019-08-09",
             "Founded": "1969",
@@ -2616,7 +2616,7 @@
         {
             "Ticker": "LEN",
             "Company": "Lennar",
-            "Sub-sector": "Homebuilding",
+            "Sub_sector": "Homebuilding",
             "Headquarters": "Miami, Florida",
             "Date added": "2005-10-04",
             "Founded": "1954",
@@ -2625,7 +2625,7 @@
         {
             "Ticker": "LNC",
             "Company": "Lincoln Financial",
-            "Sub-sector": "Multi-line Insurance",
+            "Sub_sector": "Multi-line Insurance",
             "Headquarters": "Radnor, Pennsylvania",
             "Date added": "1976-06-30",
             "Founded": "1905",
@@ -2634,7 +2634,7 @@
         {
             "Ticker": "LIN",
             "Company": "Linde plc",
-            "Sub-sector": "Industrial Gases",
+            "Sub_sector": "Industrial Gases",
             "Headquarters": "Guildford, United Kingdom",
             "Date added": "1992-07-01",
             "Founded": "1879",
@@ -2643,7 +2643,7 @@
         {
             "Ticker": "LYV",
             "Company": "Live Nation Entertainment",
-            "Sub-sector": "Movies & Entertainment",
+            "Sub_sector": "Movies & Entertainment",
             "Headquarters": "Beverly Hills, California",
             "Date added": "2019-12-23",
             "Founded": "2010",
@@ -2652,7 +2652,7 @@
         {
             "Ticker": "LKQ",
             "Company": "LKQ Corporation",
-            "Sub-sector": "Distributors",
+            "Sub_sector": "Distributors",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2016-05-23",
             "Founded": "1998",
@@ -2661,7 +2661,7 @@
         {
             "Ticker": "LMT",
             "Company": "Lockheed Martin",
-            "Sub-sector": "Aerospace & Defense",
+            "Sub_sector": "Aerospace & Defense",
             "Headquarters": "Bethesda, Maryland",
             "Date added": "1957-03-04",
             "Founded": "1995",
@@ -2670,7 +2670,7 @@
         {
             "Ticker": "L",
             "Company": "Loews Corporation",
-            "Sub-sector": "Multi-line Insurance",
+            "Sub_sector": "Multi-line Insurance",
             "Headquarters": "New York City, New York",
             "Date added": "1995-05-31",
             "Founded": "1959",
@@ -2679,7 +2679,7 @@
         {
             "Ticker": "LOW",
             "Company": "Lowe's",
-            "Sub-sector": "Home Improvement Retail",
+            "Sub_sector": "Home Improvement Retail",
             "Headquarters": "Mooresville, North Carolina",
             "Date added": "1984-02-29",
             "Founded": "1904/1946/1959",
@@ -2688,7 +2688,7 @@
         {
             "Ticker": "LYB",
             "Company": "LyondellBasell",
-            "Sub-sector": "Specialty Chemicals",
+            "Sub_sector": "Specialty Chemicals",
             "Headquarters": "Rotterdam, Netherlands",
             "Date added": "2012-09-05",
             "Founded": "2007",
@@ -2697,7 +2697,7 @@
         {
             "Ticker": "MTB",
             "Company": "M&T Bank",
-            "Sub-sector": "Regional Banks",
+            "Sub_sector": "Regional Banks",
             "Headquarters": "Buffalo, New York",
             "Date added": "2004-02-23",
             "Founded": "1856",
@@ -2706,7 +2706,7 @@
         {
             "Ticker": "MRO",
             "Company": "Marathon Oil",
-            "Sub-sector": "Oil & Gas Exploration & Production",
+            "Sub_sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Houston, Texas",
             "Date added": "1957-03-04",
             "Founded": "1887",
@@ -2715,7 +2715,7 @@
         {
             "Ticker": "MPC",
             "Company": "Marathon Petroleum",
-            "Sub-sector": "Oil & Gas Refining & Marketing",
+            "Sub_sector": "Oil & Gas Refining & Marketing",
             "Headquarters": "Findlay, Ohio",
             "Date added": "2011-07-01",
             "Founded": "2009 (1887)",
@@ -2724,7 +2724,7 @@
         {
             "Ticker": "MKTX",
             "Company": "MarketAxess",
-            "Sub-sector": "Financial Exchanges & Data",
+            "Sub_sector": "Financial Exchanges & Data",
             "Headquarters": "New York City, New York",
             "Date added": "2019-07-01",
             "Founded": "2000",
@@ -2733,7 +2733,7 @@
         {
             "Ticker": "MAR",
             "Company": "Marriott International",
-            "Sub-sector": "Hotels, Resorts & Cruise Lines",
+            "Sub_sector": "Hotels, Resorts & Cruise Lines",
             "Headquarters": "Bethesda, Maryland",
             "Date added": "1998-05-29",
             "Founded": "1927",
@@ -2742,7 +2742,7 @@
         {
             "Ticker": "MMC",
             "Company": "Marsh McLennan",
-            "Sub-sector": "Insurance Brokers",
+            "Sub_sector": "Insurance Brokers",
             "Headquarters": "New York City, New York",
             "Date added": "1987-08-31",
             "Founded": "1905",
@@ -2751,7 +2751,7 @@
         {
             "Ticker": "MLM",
             "Company": "Martin Marietta Materials",
-            "Sub-sector": "Construction Materials",
+            "Sub_sector": "Construction Materials",
             "Headquarters": "Raleigh, North Carolina",
             "Date added": "2014-07-02",
             "Founded": "1993",
@@ -2760,7 +2760,7 @@
         {
             "Ticker": "MAS",
             "Company": "Masco",
-            "Sub-sector": "Building Products",
+            "Sub_sector": "Building Products",
             "Headquarters": "Livonia, Michigan",
             "Date added": "1981-06-30",
             "Founded": "1929",
@@ -2769,7 +2769,7 @@
         {
             "Ticker": "MA",
             "Company": "Mastercard",
-            "Sub-sector": "Transaction & Payment Processing Services",
+            "Sub_sector": "Transaction & Payment Processing Services",
             "Headquarters": "Harrison, New York",
             "Date added": "2008-07-18",
             "Founded": "1966",
@@ -2778,7 +2778,7 @@
         {
             "Ticker": "MTCH",
             "Company": "Match Group",
-            "Sub-sector": "Interactive Media & Services",
+            "Sub_sector": "Interactive Media & Services",
             "Headquarters": "Dallas, Texas",
             "Date added": "2021-09-20",
             "Founded": "1986",
@@ -2787,7 +2787,7 @@
         {
             "Ticker": "MKC",
             "Company": "McCormick & Company",
-            "Sub-sector": "Packaged Foods & Meats",
+            "Sub_sector": "Packaged Foods & Meats",
             "Headquarters": "Hunt Valley, Maryland",
             "Date added": "2003-03-20",
             "Founded": "1889",
@@ -2796,7 +2796,7 @@
         {
             "Ticker": "MCD",
             "Company": "McDonald's",
-            "Sub-sector": "Restaurants",
+            "Sub_sector": "Restaurants",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1970-06-30",
             "Founded": "1940",
@@ -2805,7 +2805,7 @@
         {
             "Ticker": "MCK",
             "Company": "McKesson",
-            "Sub-sector": "Health Care Distributors",
+            "Sub_sector": "Health Care Distributors",
             "Headquarters": "Irving, Texas",
             "Date added": "1999-01-13",
             "Founded": "1833",
@@ -2814,7 +2814,7 @@
         {
             "Ticker": "MDT",
             "Company": "Medtronic",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Dublin, Ireland",
             "Date added": "1986-10-31",
             "Founded": "1949",
@@ -2823,7 +2823,7 @@
         {
             "Ticker": "MRK",
             "Company": "Merck & Co.",
-            "Sub-sector": "Pharmaceuticals",
+            "Sub_sector": "Pharmaceuticals",
             "Headquarters": "Kenilworth, New Jersey",
             "Date added": "1957-03-04",
             "Founded": "1891",
@@ -2832,7 +2832,7 @@
         {
             "Ticker": "META",
             "Company": "Meta Platforms",
-            "Sub-sector": "Interactive Media & Services",
+            "Sub_sector": "Interactive Media & Services",
             "Headquarters": "Menlo Park, California",
             "Date added": "2013-12-23",
             "Founded": "2004",
@@ -2841,7 +2841,7 @@
         {
             "Ticker": "MET",
             "Company": "MetLife",
-            "Sub-sector": "Life & Health Insurance",
+            "Sub_sector": "Life & Health Insurance",
             "Headquarters": "New York City, New York",
             "Date added": "2000-12-11",
             "Founded": "1868",
@@ -2850,7 +2850,7 @@
         {
             "Ticker": "MTD",
             "Company": "Mettler Toledo",
-            "Sub-sector": "Life Sciences Tools & Services",
+            "Sub_sector": "Life Sciences Tools & Services",
             "Headquarters": "Columbus, Ohio",
             "Date added": "2016-09-06",
             "Founded": "1945",
@@ -2859,7 +2859,7 @@
         {
             "Ticker": "MGM",
             "Company": "MGM Resorts",
-            "Sub-sector": "Casinos & Gaming",
+            "Sub_sector": "Casinos & Gaming",
             "Headquarters": "Paradise, Nevada",
             "Date added": "2017-07-26",
             "Founded": "1986",
@@ -2868,7 +2868,7 @@
         {
             "Ticker": "MCHP",
             "Company": "Microchip Technology",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "Chandler, Arizona",
             "Date added": "2007-09-07",
             "Founded": "1989",
@@ -2877,7 +2877,7 @@
         {
             "Ticker": "MU",
             "Company": "Micron Technology",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "Boise, Idaho",
             "Date added": "1994-09-27",
             "Founded": "1978",
@@ -2886,7 +2886,7 @@
         {
             "Ticker": "MSFT",
             "Company": "Microsoft",
-            "Sub-sector": "Systems Software",
+            "Sub_sector": "Systems Software",
             "Headquarters": "Redmond, Washington",
             "Date added": "1994-06-01",
             "Founded": "1975",
@@ -2895,7 +2895,7 @@
         {
             "Ticker": "MAA",
             "Company": "Mid-America Apartment Communities",
-            "Sub-sector": "Residential REITs",
+            "Sub_sector": "Residential REITs",
             "Headquarters": "Memphis, Tennessee",
             "Date added": "2016-12-02",
             "Founded": "1977",
@@ -2904,7 +2904,7 @@
         {
             "Ticker": "MRNA",
             "Company": "Moderna",
-            "Sub-sector": "Biotechnology",
+            "Sub_sector": "Biotechnology",
             "Headquarters": "Cambridge, Massachusetts",
             "Date added": "2021-07-21",
             "Founded": "2010",
@@ -2913,7 +2913,7 @@
         {
             "Ticker": "MHK",
             "Company": "Mohawk Industries",
-            "Sub-sector": "Home Furnishings",
+            "Sub_sector": "Home Furnishings",
             "Headquarters": "Calhoun, Georgia",
             "Date added": "2013-12-23",
             "Founded": "1878",
@@ -2922,7 +2922,7 @@
         {
             "Ticker": "MOH",
             "Company": "Molina Healthcare",
-            "Sub-sector": "Managed Health Care",
+            "Sub_sector": "Managed Health Care",
             "Headquarters": "Long Beach, California",
             "Date added": "2022-03-02",
             "Founded": "1980",
@@ -2931,7 +2931,7 @@
         {
             "Ticker": "TAP",
             "Company": "Molson Coors Beverage Company",
-            "Sub-sector": "Brewers",
+            "Sub_sector": "Brewers",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1976-06-30",
             "Founded": "2005 (Molson 1786, Coors 1873)",
@@ -2940,7 +2940,7 @@
         {
             "Ticker": "MDLZ",
             "Company": "Mondelez International",
-            "Sub-sector": "Packaged Foods & Meats",
+            "Sub_sector": "Packaged Foods & Meats",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2012-10-02",
             "Founded": "2012",
@@ -2949,7 +2949,7 @@
         {
             "Ticker": "MPWR",
             "Company": "Monolithic Power Systems",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "Kirkland, Washington",
             "Date added": "2021-02-12",
             "Founded": "1997",
@@ -2958,7 +2958,7 @@
         {
             "Ticker": "MNST",
             "Company": "Monster Beverage",
-            "Sub-sector": "Soft Drinks & Non-alcoholic Beverages",
+            "Sub_sector": "Soft Drinks & Non-alcoholic Beverages",
             "Headquarters": "Corona, California",
             "Date added": "2012-06-28",
             "Founded": "2012 (1935)",
@@ -2967,7 +2967,7 @@
         {
             "Ticker": "MCO",
             "Company": "Moody's Corporation",
-            "Sub-sector": "Financial Exchanges & Data",
+            "Sub_sector": "Financial Exchanges & Data",
             "Headquarters": "New York City, New York",
             "Date added": "1998-07-01",
             "Founded": "1909",
@@ -2976,7 +2976,7 @@
         {
             "Ticker": "MS",
             "Company": "Morgan Stanley",
-            "Sub-sector": "Investment Banking & Brokerage",
+            "Sub_sector": "Investment Banking & Brokerage",
             "Headquarters": "New York City, New York",
             "Date added": "1993-07-29",
             "Founded": "1935",
@@ -2985,7 +2985,7 @@
         {
             "Ticker": "MOS",
             "Company": "Mosaic Company (The)",
-            "Sub-sector": "Fertilizers & Agricultural Chemicals",
+            "Sub_sector": "Fertilizers & Agricultural Chemicals",
             "Headquarters": "Tampa, Florida",
             "Date added": "2011-09-26",
             "Founded": "2004 (1865 / 1909)",
@@ -2994,7 +2994,7 @@
         {
             "Ticker": "MSI",
             "Company": "Motorola Solutions",
-            "Sub-sector": "Communications Equipment",
+            "Sub_sector": "Communications Equipment",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1957-03-04",
             "Founded": "1928 (2011)",
@@ -3003,7 +3003,7 @@
         {
             "Ticker": "MSCI",
             "Company": "MSCI",
-            "Sub-sector": "Financial Exchanges & Data",
+            "Sub_sector": "Financial Exchanges & Data",
             "Headquarters": "New York City, New York",
             "Date added": "2018-04-04",
             "Founded": "1969",
@@ -3012,7 +3012,7 @@
         {
             "Ticker": "NDAQ",
             "Company": "Nasdaq, Inc.",
-            "Sub-sector": "Financial Exchanges & Data",
+            "Sub_sector": "Financial Exchanges & Data",
             "Headquarters": "New York City, New York",
             "Date added": "2008-10-22",
             "Founded": "1971",
@@ -3021,7 +3021,7 @@
         {
             "Ticker": "NTAP",
             "Company": "NetApp",
-            "Sub-sector": "Technology Hardware, Storage & Peripherals",
+            "Sub_sector": "Technology Hardware, Storage & Peripherals",
             "Headquarters": "San Jose, California",
             "Date added": "1999-06-25",
             "Founded": "1992",
@@ -3030,7 +3030,7 @@
         {
             "Ticker": "NFLX",
             "Company": "Netflix",
-            "Sub-sector": "Movies & Entertainment",
+            "Sub_sector": "Movies & Entertainment",
             "Headquarters": "Los Gatos, California",
             "Date added": "2010-12-20",
             "Founded": "1997",
@@ -3039,7 +3039,7 @@
         {
             "Ticker": "NWL",
             "Company": "Newell Brands",
-            "Sub-sector": "Housewares & Specialties",
+            "Sub_sector": "Housewares & Specialties",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1989-04-30",
             "Founded": "1903",
@@ -3048,7 +3048,7 @@
         {
             "Ticker": "NEM",
             "Company": "Newmont",
-            "Sub-sector": "Gold",
+            "Sub_sector": "Gold",
             "Headquarters": "Denver, Colorado",
             "Date added": "1969-06-30",
             "Founded": "1921",
@@ -3057,7 +3057,7 @@
         {
             "Ticker": "NWSA",
             "Company": "News Corp (Class A)",
-            "Sub-sector": "Publishing",
+            "Sub_sector": "Publishing",
             "Headquarters": "New York City, New York",
             "Date added": "2013-08-01",
             "Founded": "2013 (1980)",
@@ -3066,7 +3066,7 @@
         {
             "Ticker": "NWS",
             "Company": "News Corp (Class B)",
-            "Sub-sector": "Publishing",
+            "Sub_sector": "Publishing",
             "Headquarters": "New York City, New York",
             "Date added": "2015-09-18",
             "Founded": "2013 (1980)",
@@ -3075,7 +3075,7 @@
         {
             "Ticker": "NEE",
             "Company": "NextEra Energy",
-            "Sub-sector": "Multi-Utilities",
+            "Sub_sector": "Multi-Utilities",
             "Headquarters": "Juno Beach, Florida",
             "Date added": "1976-06-30",
             "Founded": "1984 (1925)",
@@ -3084,7 +3084,7 @@
         {
             "Ticker": "NKE",
             "Company": "Nike, Inc.",
-            "Sub-sector": "Apparel, Accessories & Luxury Goods",
+            "Sub_sector": "Apparel, Accessories & Luxury Goods",
             "Headquarters": "Washington County, Oregon",
             "Date added": "1988-11-30",
             "Founded": "1964",
@@ -3093,7 +3093,7 @@
         {
             "Ticker": "NI",
             "Company": "NiSource",
-            "Sub-sector": "Multi-Utilities",
+            "Sub_sector": "Multi-Utilities",
             "Headquarters": "Merrillville, Indiana",
             "Date added": "2000-11-02",
             "Founded": "1912",
@@ -3102,7 +3102,7 @@
         {
             "Ticker": "NDSN",
             "Company": "Nordson Corporation",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Westlake, Ohio",
             "Date added": "2022-02-15",
             "Founded": "1935",
@@ -3111,7 +3111,7 @@
         {
             "Ticker": "NSC",
             "Company": "Norfolk Southern Railway",
-            "Sub-sector": "Rail Transportation",
+            "Sub_sector": "Rail Transportation",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1957-03-04",
             "Founded": "1881/1894 (1980)",
@@ -3120,7 +3120,7 @@
         {
             "Ticker": "NTRS",
             "Company": "Northern Trust",
-            "Sub-sector": "Asset Management & Custody Banks",
+            "Sub_sector": "Asset Management & Custody Banks",
             "Headquarters": "Chicago, Illinois",
             "Date added": "1998-01-30",
             "Founded": "1889",
@@ -3129,7 +3129,7 @@
         {
             "Ticker": "NOC",
             "Company": "Northrop Grumman",
-            "Sub-sector": "Aerospace & Defense",
+            "Sub_sector": "Aerospace & Defense",
             "Headquarters": "West Falls Church, Virginia",
             "Date added": "1957-03-04",
             "Founded": "1994 (Northrop 1939, Grumman 1930)",
@@ -3138,7 +3138,7 @@
         {
             "Ticker": "NCLH",
             "Company": "Norwegian Cruise Line Holdings",
-            "Sub-sector": "Hotels, Resorts & Cruise Lines",
+            "Sub_sector": "Hotels, Resorts & Cruise Lines",
             "Headquarters": "Miami, Florida",
             "Date added": "2017-10-13",
             "Founded": "2011 (1966)",
@@ -3147,7 +3147,7 @@
         {
             "Ticker": "NRG",
             "Company": "NRG Energy",
-            "Sub-sector": "Independent Power Producers & Energy Traders",
+            "Sub_sector": "Independent Power Producers & Energy Traders",
             "Headquarters": "Houston, Texas",
             "Date added": "2010-01-29",
             "Founded": "1992",
@@ -3156,7 +3156,7 @@
         {
             "Ticker": "NUE",
             "Company": "Nucor",
-            "Sub-sector": "Steel",
+            "Sub_sector": "Steel",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "1985-04-30",
             "Founded": "1940",
@@ -3165,7 +3165,7 @@
         {
             "Ticker": "NVDA",
             "Company": "Nvidia",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "Santa Clara, California",
             "Date added": "2001-11-30",
             "Founded": "1993",
@@ -3174,7 +3174,7 @@
         {
             "Ticker": "NVR",
             "Company": "NVR, Inc.",
-            "Sub-sector": "Homebuilding",
+            "Sub_sector": "Homebuilding",
             "Headquarters": "Reston, Virginia",
             "Date added": "2019-09-26",
             "Founded": "1980",
@@ -3183,7 +3183,7 @@
         {
             "Ticker": "NXPI",
             "Company": "NXP Semiconductors",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "Eindhoven, Netherlands",
             "Date added": "2021-03-22",
             "Founded": "1953",
@@ -3192,7 +3192,7 @@
         {
             "Ticker": "ORLY",
             "Company": "O'Reilly Auto Parts",
-            "Sub-sector": "Specialty Stores",
+            "Sub_sector": "Specialty Stores",
             "Headquarters": "Springfield, Missouri",
             "Date added": "2009-03-27",
             "Founded": "1957",
@@ -3201,7 +3201,7 @@
         {
             "Ticker": "OXY",
             "Company": "Occidental Petroleum",
-            "Sub-sector": "Oil & Gas Exploration & Production",
+            "Sub_sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Houston, Texas",
             "Date added": "1957-03-04",
             "Founded": "1920",
@@ -3210,7 +3210,7 @@
         {
             "Ticker": "ODFL",
             "Company": "Old Dominion",
-            "Sub-sector": "Cargo Ground Transportation",
+            "Sub_sector": "Cargo Ground Transportation",
             "Headquarters": "Thomasville, North Carolina",
             "Date added": "2019-12-09",
             "Founded": "1934",
@@ -3219,7 +3219,7 @@
         {
             "Ticker": "OMC",
             "Company": "Omnicom Group",
-            "Sub-sector": "Advertising",
+            "Sub_sector": "Advertising",
             "Headquarters": "New York City, New York",
             "Date added": "1997-12-31",
             "Founded": "1986",
@@ -3228,7 +3228,7 @@
         {
             "Ticker": "ON",
             "Company": "ON Semiconductor",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "Phoenix, Arizona",
             "Date added": "2022-06-21",
             "Founded": "1999",
@@ -3237,7 +3237,7 @@
         {
             "Ticker": "OKE",
             "Company": "ONEOK",
-            "Sub-sector": "Oil & Gas Storage & Transportation",
+            "Sub_sector": "Oil & Gas Storage & Transportation",
             "Headquarters": "Tulsa, Oklahoma",
             "Date added": "2010-03-15",
             "Founded": "1906",
@@ -3246,7 +3246,7 @@
         {
             "Ticker": "ORCL",
             "Company": "Oracle Corporation",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "Austin, Texas",
             "Date added": "1989-08-31",
             "Founded": "1977",
@@ -3255,7 +3255,7 @@
         {
             "Ticker": "OGN",
             "Company": "Organon & Co.",
-            "Sub-sector": "Pharmaceuticals",
+            "Sub_sector": "Pharmaceuticals",
             "Headquarters": "Jersey City, New Jersey",
             "Date added": "2021-06-03",
             "Founded": "2021",
@@ -3264,7 +3264,7 @@
         {
             "Ticker": "OTIS",
             "Company": "Otis Worldwide",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Farmington, Connecticut",
             "Date added": "2020-04-03",
             "Founded": "2020 (1853)",
@@ -3273,7 +3273,7 @@
         {
             "Ticker": "PCAR",
             "Company": "Paccar",
-            "Sub-sector": "Construction Machinery & Heavy Transportation Equipment",
+            "Sub_sector": "Construction Machinery & Heavy Transportation Equipment",
             "Headquarters": "Bellevue, Washington",
             "Date added": "1980-12-31",
             "Founded": "1905",
@@ -3282,7 +3282,7 @@
         {
             "Ticker": "PKG",
             "Company": "Packaging Corporation of America",
-            "Sub-sector": "Paper & Plastic Packaging Products & Materials",
+            "Sub_sector": "Paper & Plastic Packaging Products & Materials",
             "Headquarters": "Lake Forest, Illinois",
             "Date added": "2017-07-26",
             "Founded": "1959",
@@ -3291,7 +3291,7 @@
         {
             "Ticker": "PANW",
             "Company": "Palo Alto Networks",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "Santa Clara, California",
             "Date added": "2023-06-20",
             "Founded": "2005",
@@ -3300,7 +3300,7 @@
         {
             "Ticker": "PARA",
             "Company": "Paramount Global",
-            "Sub-sector": "Movies & Entertainment",
+            "Sub_sector": "Movies & Entertainment",
             "Headquarters": "New York City, New York",
             "Date added": "1994-09-30",
             "Founded": "2019 (1952)",
@@ -3309,7 +3309,7 @@
         {
             "Ticker": "PH",
             "Company": "Parker Hannifin",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Cleveland, Ohio",
             "Date added": "1985-11-30",
             "Founded": "1917",
@@ -3318,7 +3318,7 @@
         {
             "Ticker": "PAYX",
             "Company": "Paychex",
-            "Sub-sector": "Human Resource & Employment Services",
+            "Sub_sector": "Human Resource & Employment Services",
             "Headquarters": "Penfield, New York",
             "Date added": "1998-10-01",
             "Founded": "1971",
@@ -3327,7 +3327,7 @@
         {
             "Ticker": "PAYC",
             "Company": "Paycom",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "Oklahoma City, Oklahoma",
             "Date added": "2020-01-28",
             "Founded": "1998",
@@ -3336,7 +3336,7 @@
         {
             "Ticker": "PYPL",
             "Company": "PayPal",
-            "Sub-sector": "Transaction & Payment Processing Services",
+            "Sub_sector": "Transaction & Payment Processing Services",
             "Headquarters": "San Jose, California",
             "Date added": "2015-07-20",
             "Founded": "1998",
@@ -3345,7 +3345,7 @@
         {
             "Ticker": "PNR",
             "Company": "Pentair",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Worsley, United Kingdom",
             "Date added": "2012-10-01",
             "Founded": "1966",
@@ -3354,7 +3354,7 @@
         {
             "Ticker": "PEP",
             "Company": "PepsiCo",
-            "Sub-sector": "Soft Drinks & Non-alcoholic Beverages",
+            "Sub_sector": "Soft Drinks & Non-alcoholic Beverages",
             "Headquarters": "Purchase, New York",
             "Date added": "1957-03-04",
             "Founded": "1898",
@@ -3363,7 +3363,7 @@
         {
             "Ticker": "PFE",
             "Company": "Pfizer",
-            "Sub-sector": "Pharmaceuticals",
+            "Sub_sector": "Pharmaceuticals",
             "Headquarters": "New York City, New York",
             "Date added": "1957-03-04",
             "Founded": "1849",
@@ -3372,7 +3372,7 @@
         {
             "Ticker": "PCG",
             "Company": "PG&E Corporation",
-            "Sub-sector": "Multi-Utilities",
+            "Sub_sector": "Multi-Utilities",
             "Headquarters": "San Francisco, California",
             "Date added": "2022-10-03",
             "Founded": "1905",
@@ -3381,7 +3381,7 @@
         {
             "Ticker": "PM",
             "Company": "Philip Morris International",
-            "Sub-sector": "Tobacco",
+            "Sub_sector": "Tobacco",
             "Headquarters": "New York City, New York",
             "Date added": "2008-03-31",
             "Founded": "2008 (1847)",
@@ -3390,7 +3390,7 @@
         {
             "Ticker": "PSX",
             "Company": "Phillips 66",
-            "Sub-sector": "Oil & Gas Refining & Marketing",
+            "Sub_sector": "Oil & Gas Refining & Marketing",
             "Headquarters": "Houston, Texas",
             "Date added": "2012-05-01",
             "Founded": "2012 (1917)",
@@ -3399,7 +3399,7 @@
         {
             "Ticker": "PNW",
             "Company": "Pinnacle West",
-            "Sub-sector": "Multi-Utilities",
+            "Sub_sector": "Multi-Utilities",
             "Headquarters": "Phoenix, Arizona",
             "Date added": "1999-10-04",
             "Founded": "1985",
@@ -3408,7 +3408,7 @@
         {
             "Ticker": "PXD",
             "Company": "Pioneer Natural Resources",
-            "Sub-sector": "Oil & Gas Exploration & Production",
+            "Sub_sector": "Oil & Gas Exploration & Production",
             "Headquarters": "Irving, Texas",
             "Date added": "2008-09-24",
             "Founded": "1997",
@@ -3417,7 +3417,7 @@
         {
             "Ticker": "PNC",
             "Company": "PNC Financial Services",
-            "Sub-sector": "Regional Banks",
+            "Sub_sector": "Regional Banks",
             "Headquarters": "Pittsburgh, Pennsylvania",
             "Date added": "1988-04-30",
             "Founded": "1845",
@@ -3426,7 +3426,7 @@
         {
             "Ticker": "POOL",
             "Company": "Pool Corporation",
-            "Sub-sector": "Distributors",
+            "Sub_sector": "Distributors",
             "Headquarters": "Covington, Louisiana",
             "Date added": "2020-10-07",
             "Founded": "1993",
@@ -3435,7 +3435,7 @@
         {
             "Ticker": "PPG",
             "Company": "PPG Industries",
-            "Sub-sector": "Specialty Chemicals",
+            "Sub_sector": "Specialty Chemicals",
             "Headquarters": "Pittsburgh, Pennsylvania",
             "Date added": "1957-03-04",
             "Founded": "1883",
@@ -3444,7 +3444,7 @@
         {
             "Ticker": "PPL",
             "Company": "PPL Corporation",
-            "Sub-sector": "Electric Utilities",
+            "Sub_sector": "Electric Utilities",
             "Headquarters": "Allentown, Pennsylvania",
             "Date added": "2001-10-01",
             "Founded": "1920",
@@ -3453,7 +3453,7 @@
         {
             "Ticker": "PFG",
             "Company": "Principal Financial Group",
-            "Sub-sector": "Life & Health Insurance",
+            "Sub_sector": "Life & Health Insurance",
             "Headquarters": "Des Moines, Iowa",
             "Date added": "2002-07-22",
             "Founded": "1879",
@@ -3462,7 +3462,7 @@
         {
             "Ticker": "PG",
             "Company": "Procter & Gamble",
-            "Sub-sector": "Personal Care Products",
+            "Sub_sector": "Personal Care Products",
             "Headquarters": "Cincinnati, Ohio",
             "Date added": "1957-03-04",
             "Founded": "1837",
@@ -3471,7 +3471,7 @@
         {
             "Ticker": "PGR",
             "Company": "Progressive Corporation",
-            "Sub-sector": "Property & Casualty Insurance",
+            "Sub_sector": "Property & Casualty Insurance",
             "Headquarters": "Mayfield Village, Ohio",
             "Date added": "1997-08-04",
             "Founded": "1937",
@@ -3480,7 +3480,7 @@
         {
             "Ticker": "PLD",
             "Company": "Prologis",
-            "Sub-sector": "Industrial REITs",
+            "Sub_sector": "Industrial REITs",
             "Headquarters": "San Francisco, California",
             "Date added": "2003-07-17",
             "Founded": "1983",
@@ -3489,7 +3489,7 @@
         {
             "Ticker": "PRU",
             "Company": "Prudential Financial",
-            "Sub-sector": "Life & Health Insurance",
+            "Sub_sector": "Life & Health Insurance",
             "Headquarters": "Newark, New Jersey",
             "Date added": "2002-07-22",
             "Founded": "1875",
@@ -3498,7 +3498,7 @@
         {
             "Ticker": "PEG",
             "Company": "Public Service Enterprise Group",
-            "Sub-sector": "Electric Utilities",
+            "Sub_sector": "Electric Utilities",
             "Headquarters": "Newark, New Jersey",
             "Date added": "1957-03-04",
             "Founded": "1903",
@@ -3507,7 +3507,7 @@
         {
             "Ticker": "PTC",
             "Company": "PTC",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "Boston, Massachusetts",
             "Date added": "2021-04-20",
             "Founded": "1985",
@@ -3516,7 +3516,7 @@
         {
             "Ticker": "PSA",
             "Company": "Public Storage",
-            "Sub-sector": "Self-Storage REITs",
+            "Sub_sector": "Self-Storage REITs",
             "Headquarters": "Glendale, California",
             "Date added": "2005-08-19",
             "Founded": "1972",
@@ -3525,7 +3525,7 @@
         {
             "Ticker": "PHM",
             "Company": "PulteGroup",
-            "Sub-sector": "Homebuilding",
+            "Sub_sector": "Homebuilding",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1984-04-30",
             "Founded": "1956",
@@ -3534,7 +3534,7 @@
         {
             "Ticker": "QRVO",
             "Company": "Qorvo",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "Greensboro, North Carolina",
             "Date added": "2015-06-11",
             "Founded": "2015",
@@ -3543,7 +3543,7 @@
         {
             "Ticker": "PWR",
             "Company": "Quanta Services",
-            "Sub-sector": "Construction & Engineering",
+            "Sub_sector": "Construction & Engineering",
             "Headquarters": "Houston, Texas",
             "Date added": "2009-07-01",
             "Founded": "1997",
@@ -3552,7 +3552,7 @@
         {
             "Ticker": "QCOM",
             "Company": "Qualcomm",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "San Diego, California",
             "Date added": "1999-07-22",
             "Founded": "1985",
@@ -3561,7 +3561,7 @@
         {
             "Ticker": "DGX",
             "Company": "Quest Diagnostics",
-            "Sub-sector": "Health Care Services",
+            "Sub_sector": "Health Care Services",
             "Headquarters": "Secaucus, New Jersey",
             "Date added": "2002-12-12",
             "Founded": "1967",
@@ -3570,7 +3570,7 @@
         {
             "Ticker": "RL",
             "Company": "Ralph Lauren Corporation",
-            "Sub-sector": "Apparel, Accessories & Luxury Goods",
+            "Sub_sector": "Apparel, Accessories & Luxury Goods",
             "Headquarters": "New York City, New York",
             "Date added": "2007-02-02",
             "Founded": "1967",
@@ -3579,7 +3579,7 @@
         {
             "Ticker": "RJF",
             "Company": "Raymond James",
-            "Sub-sector": "Investment Banking & Brokerage",
+            "Sub_sector": "Investment Banking & Brokerage",
             "Headquarters": "St. Petersburg, Florida",
             "Date added": "2017-03-20",
             "Founded": "1962",
@@ -3588,7 +3588,7 @@
         {
             "Ticker": "RTX",
             "Company": "RTX Corporation",
-            "Sub-sector": "Aerospace & Defense",
+            "Sub_sector": "Aerospace & Defense",
             "Headquarters": "Waltham, Massachusetts",
             "Date added": "1957-03-04",
             "Founded": "1922",
@@ -3597,7 +3597,7 @@
         {
             "Ticker": "O",
             "Company": "Realty Income",
-            "Sub-sector": "Retail REITs",
+            "Sub_sector": "Retail REITs",
             "Headquarters": "San Diego, California",
             "Date added": "2015-04-07",
             "Founded": "1969",
@@ -3606,7 +3606,7 @@
         {
             "Ticker": "REG",
             "Company": "Regency Centers",
-            "Sub-sector": "Retail REITs",
+            "Sub_sector": "Retail REITs",
             "Headquarters": "Jacksonville, Florida",
             "Date added": "2017-03-02",
             "Founded": "1963",
@@ -3615,7 +3615,7 @@
         {
             "Ticker": "REGN",
             "Company": "Regeneron",
-            "Sub-sector": "Biotechnology",
+            "Sub_sector": "Biotechnology",
             "Headquarters": "Tarrytown, New York",
             "Date added": "2013-05-01",
             "Founded": "1988",
@@ -3624,7 +3624,7 @@
         {
             "Ticker": "RF",
             "Company": "Regions Financial Corporation",
-            "Sub-sector": "Regional Banks",
+            "Sub_sector": "Regional Banks",
             "Headquarters": "Birmingham, Alabama",
             "Date added": "1998-08-28",
             "Founded": "1971",
@@ -3633,7 +3633,7 @@
         {
             "Ticker": "RSG",
             "Company": "Republic Services",
-            "Sub-sector": "Environmental & Facilities Services",
+            "Sub_sector": "Environmental & Facilities Services",
             "Headquarters": "Phoenix, Arizona",
             "Date added": "2008-12-05",
             "Founded": "1998 (1981)",
@@ -3642,7 +3642,7 @@
         {
             "Ticker": "RMD",
             "Company": "ResMed",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "San Diego, California",
             "Date added": "2017-07-26",
             "Founded": "1989",
@@ -3651,7 +3651,7 @@
         {
             "Ticker": "RVTY",
             "Company": "Revvity",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Waltham, Massachusetts",
             "Date added": "1985-05-31",
             "Founded": "1937",
@@ -3660,7 +3660,7 @@
         {
             "Ticker": "RHI",
             "Company": "Robert Half",
-            "Sub-sector": "Human Resource & Employment Services",
+            "Sub_sector": "Human Resource & Employment Services",
             "Headquarters": "Menlo Park, California",
             "Date added": "2000-12-05",
             "Founded": "1948",
@@ -3669,7 +3669,7 @@
         {
             "Ticker": "ROK",
             "Company": "Rockwell Automation",
-            "Sub-sector": "Electrical Components & Equipment",
+            "Sub_sector": "Electrical Components & Equipment",
             "Headquarters": "Milwaukee, Wisconsin",
             "Date added": "2000-12-06",
             "Founded": "1903",
@@ -3678,7 +3678,7 @@
         {
             "Ticker": "ROL",
             "Company": "Rollins, Inc.",
-            "Sub-sector": "Environmental & Facilities Services",
+            "Sub_sector": "Environmental & Facilities Services",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "2018-10-01",
             "Founded": "1948",
@@ -3687,7 +3687,7 @@
         {
             "Ticker": "ROP",
             "Company": "Roper Technologies",
-            "Sub-sector": "Electronic Equipment & Instruments",
+            "Sub_sector": "Electronic Equipment & Instruments",
             "Headquarters": "Sarasota, Florida",
             "Date added": "2009-12-23",
             "Founded": "1981",
@@ -3696,7 +3696,7 @@
         {
             "Ticker": "ROST",
             "Company": "Ross Stores",
-            "Sub-sector": "Apparel Retail",
+            "Sub_sector": "Apparel Retail",
             "Headquarters": "Dublin, California",
             "Date added": "2009-12-21",
             "Founded": "1982",
@@ -3705,7 +3705,7 @@
         {
             "Ticker": "RCL",
             "Company": "Royal Caribbean Group",
-            "Sub-sector": "Hotels, Resorts & Cruise Lines",
+            "Sub_sector": "Hotels, Resorts & Cruise Lines",
             "Headquarters": "Miami, Florida",
             "Date added": "2014-12-05",
             "Founded": "1997",
@@ -3714,7 +3714,7 @@
         {
             "Ticker": "SPGI",
             "Company": "S&P Global",
-            "Sub-sector": "Financial Exchanges & Data",
+            "Sub_sector": "Financial Exchanges & Data",
             "Headquarters": "New York City, New York",
             "Date added": "1957-03-04",
             "Founded": "1917",
@@ -3723,7 +3723,7 @@
         {
             "Ticker": "CRM",
             "Company": "Salesforce",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "San Francisco, California",
             "Date added": "2008-09-15",
             "Founded": "1999",
@@ -3732,7 +3732,7 @@
         {
             "Ticker": "SBAC",
             "Company": "SBA Communications",
-            "Sub-sector": "Telecom Tower REITs",
+            "Sub_sector": "Telecom Tower REITs",
             "Headquarters": "Boca Raton, Florida",
             "Date added": "2017-09-01",
             "Founded": "1989",
@@ -3741,7 +3741,7 @@
         {
             "Ticker": "SLB",
             "Company": "Schlumberger",
-            "Sub-sector": "Oil & Gas Equipment & Services",
+            "Sub_sector": "Oil & Gas Equipment & Services",
             "Headquarters": "Houston, Texas",
             "Date added": "1957-03-04",
             "Founded": "1926",
@@ -3750,7 +3750,7 @@
         {
             "Ticker": "STX",
             "Company": "Seagate Technology",
-            "Sub-sector": "Technology Hardware, Storage & Peripherals",
+            "Sub_sector": "Technology Hardware, Storage & Peripherals",
             "Headquarters": "Dublin, Ireland",
             "Date added": "2012-07-02",
             "Founded": "1979",
@@ -3759,7 +3759,7 @@
         {
             "Ticker": "SEE",
             "Company": "Sealed Air",
-            "Sub-sector": "Paper & Plastic Packaging Products & Materials",
+            "Sub_sector": "Paper & Plastic Packaging Products & Materials",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "1957-03-04",
             "Founded": "1960",
@@ -3768,7 +3768,7 @@
         {
             "Ticker": "SRE",
             "Company": "Sempra Energy",
-            "Sub-sector": "Multi-Utilities",
+            "Sub_sector": "Multi-Utilities",
             "Headquarters": "San Diego, California",
             "Date added": "1957-03-05",
             "Founded": "1998",
@@ -3777,7 +3777,7 @@
         {
             "Ticker": "NOW",
             "Company": "ServiceNow",
-            "Sub-sector": "Systems Software",
+            "Sub_sector": "Systems Software",
             "Headquarters": "Santa Clara, California",
             "Date added": "2019-11-21",
             "Founded": "2003",
@@ -3786,7 +3786,7 @@
         {
             "Ticker": "SHW",
             "Company": "Sherwin-Williams",
-            "Sub-sector": "Specialty Chemicals",
+            "Sub_sector": "Specialty Chemicals",
             "Headquarters": "Cleveland, Ohio",
             "Date added": "1964-06-30",
             "Founded": "1866",
@@ -3795,7 +3795,7 @@
         {
             "Ticker": "SPG",
             "Company": "Simon Property Group",
-            "Sub-sector": "Retail REITs",
+            "Sub_sector": "Retail REITs",
             "Headquarters": "Indianapolis, Indiana",
             "Date added": "2002-06-26",
             "Founded": "2003",
@@ -3804,7 +3804,7 @@
         {
             "Ticker": "SWKS",
             "Company": "Skyworks Solutions",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "Irvine, California",
             "Date added": "2015-03-12",
             "Founded": "2002",
@@ -3813,7 +3813,7 @@
         {
             "Ticker": "SJM",
             "Company": "J.M. Smucker Company (The)",
-            "Sub-sector": "Packaged Foods & Meats",
+            "Sub_sector": "Packaged Foods & Meats",
             "Headquarters": "Orrville, Ohio",
             "Date added": "2008-11-06",
             "Founded": "1897",
@@ -3822,7 +3822,7 @@
         {
             "Ticker": "SNA",
             "Company": "Snap-on",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Kenosha, Wisconsin",
             "Date added": "1982-09-30",
             "Founded": "1920",
@@ -3831,7 +3831,7 @@
         {
             "Ticker": "SEDG",
             "Company": "SolarEdge",
-            "Sub-sector": "Semiconductor Materials & Equipment",
+            "Sub_sector": "Semiconductor Materials & Equipment",
             "Headquarters": "Herzliya, Israel",
             "Date added": "2021-12-20",
             "Founded": "2006",
@@ -3840,7 +3840,7 @@
         {
             "Ticker": "SO",
             "Company": "Southern Company",
-            "Sub-sector": "Electric Utilities",
+            "Sub_sector": "Electric Utilities",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1957-03-04",
             "Founded": "1945",
@@ -3849,7 +3849,7 @@
         {
             "Ticker": "LUV",
             "Company": "Southwest Airlines",
-            "Sub-sector": "Passenger Airlines",
+            "Sub_sector": "Passenger Airlines",
             "Headquarters": "Dallas, Texas",
             "Date added": "1994-07-01",
             "Founded": "1967",
@@ -3858,7 +3858,7 @@
         {
             "Ticker": "SWK",
             "Company": "Stanley Black & Decker",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "New Britain, Connecticut",
             "Date added": "1982-09-30",
             "Founded": "1843",
@@ -3867,7 +3867,7 @@
         {
             "Ticker": "SBUX",
             "Company": "Starbucks",
-            "Sub-sector": "Restaurants",
+            "Sub_sector": "Restaurants",
             "Headquarters": "Seattle, Washington",
             "Date added": "2000-06-07",
             "Founded": "1971",
@@ -3876,7 +3876,7 @@
         {
             "Ticker": "STT",
             "Company": "State Street Corporation",
-            "Sub-sector": "Asset Management & Custody Banks",
+            "Sub_sector": "Asset Management & Custody Banks",
             "Headquarters": "Boston, Massachusetts",
             "Date added": "2003-03-14",
             "Founded": "1792",
@@ -3885,7 +3885,7 @@
         {
             "Ticker": "STLD",
             "Company": "Steel Dynamics",
-            "Sub-sector": "Steel",
+            "Sub_sector": "Steel",
             "Headquarters": "Fort Wayne, Indiana",
             "Date added": "2022-12-22",
             "Founded": "1993",
@@ -3894,7 +3894,7 @@
         {
             "Ticker": "STE",
             "Company": "Steris",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Dublin, Ireland",
             "Date added": "2019-12-23",
             "Founded": "1985",
@@ -3903,7 +3903,7 @@
         {
             "Ticker": "SYK",
             "Company": "Stryker Corporation",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Kalamazoo, Michigan",
             "Date added": "2000-12-12",
             "Founded": "1941",
@@ -3912,7 +3912,7 @@
         {
             "Ticker": "SYF",
             "Company": "Synchrony Financial",
-            "Sub-sector": "Consumer Finance",
+            "Sub_sector": "Consumer Finance",
             "Headquarters": "Stamford, Connecticut",
             "Date added": "2015-11-18",
             "Founded": "2003",
@@ -3921,7 +3921,7 @@
         {
             "Ticker": "SNPS",
             "Company": "Synopsys",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "Sunnyvale, California",
             "Date added": "2017-03-16",
             "Founded": "1986",
@@ -3930,7 +3930,7 @@
         {
             "Ticker": "SYY",
             "Company": "Sysco",
-            "Sub-sector": "Food Distributors",
+            "Sub_sector": "Food Distributors",
             "Headquarters": "Houston, Texas",
             "Date added": "1986-12-31",
             "Founded": "1969",
@@ -3939,7 +3939,7 @@
         {
             "Ticker": "TMUS",
             "Company": "T-Mobile US",
-            "Sub-sector": "Wireless Telecommunication Services",
+            "Sub_sector": "Wireless Telecommunication Services",
             "Headquarters": "Bellevue, Washington",
             "Date added": "2019-07-15",
             "Founded": "1994",
@@ -3948,7 +3948,7 @@
         {
             "Ticker": "TROW",
             "Company": "T. Rowe Price",
-            "Sub-sector": "Asset Management & Custody Banks",
+            "Sub_sector": "Asset Management & Custody Banks",
             "Headquarters": "Baltimore, Maryland",
             "Date added": "2019-07-16",
             "Founded": "1937",
@@ -3957,7 +3957,7 @@
         {
             "Ticker": "TTWO",
             "Company": "Take-Two Interactive",
-            "Sub-sector": "Interactive Home Entertainment",
+            "Sub_sector": "Interactive Home Entertainment",
             "Headquarters": "New York City, New York",
             "Date added": "2018-03-19",
             "Founded": "1993",
@@ -3966,7 +3966,7 @@
         {
             "Ticker": "TPR",
             "Company": "Tapestry, Inc.",
-            "Sub-sector": "Apparel, Accessories & Luxury Goods",
+            "Sub_sector": "Apparel, Accessories & Luxury Goods",
             "Headquarters": "New York City, New York",
             "Date added": "2004-09-01",
             "Founded": "2017",
@@ -3975,7 +3975,7 @@
         {
             "Ticker": "TRGP",
             "Company": "Targa Resources",
-            "Sub-sector": "Oil & Gas Storage & Transportation",
+            "Sub_sector": "Oil & Gas Storage & Transportation",
             "Headquarters": "Houston, Texas",
             "Date added": "2022-10-12",
             "Founded": "2005",
@@ -3984,7 +3984,7 @@
         {
             "Ticker": "TGT",
             "Company": "Target Corporation",
-            "Sub-sector": "Consumer Staples Merchandise Retail",
+            "Sub_sector": "Consumer Staples Merchandise Retail",
             "Headquarters": "Minneapolis, Minnesota",
             "Date added": "1976-12-31",
             "Founded": "1902",
@@ -3993,7 +3993,7 @@
         {
             "Ticker": "TEL",
             "Company": "TE Connectivity",
-            "Sub-sector": "Electronic Manufacturing Services",
+            "Sub_sector": "Electronic Manufacturing Services",
             "Headquarters": "Schaffhausen, Switzerland",
             "Date added": "2011-10-17",
             "Founded": "2007",
@@ -4002,7 +4002,7 @@
         {
             "Ticker": "TDY",
             "Company": "Teledyne Technologies",
-            "Sub-sector": "Electronic Equipment & Instruments",
+            "Sub_sector": "Electronic Equipment & Instruments",
             "Headquarters": "Thousand Oaks, California",
             "Date added": "2020-06-22",
             "Founded": "1960",
@@ -4011,7 +4011,7 @@
         {
             "Ticker": "TFX",
             "Company": "Teleflex",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Wayne, Pennsylvania",
             "Date added": "2019-01-18",
             "Founded": "1943",
@@ -4020,7 +4020,7 @@
         {
             "Ticker": "TER",
             "Company": "Teradyne",
-            "Sub-sector": "Semiconductor Materials & Equipment",
+            "Sub_sector": "Semiconductor Materials & Equipment",
             "Headquarters": "North Reading, Massachusetts",
             "Date added": "2020-09-21",
             "Founded": "1960",
@@ -4029,7 +4029,7 @@
         {
             "Ticker": "TSLA",
             "Company": "Tesla, Inc.",
-            "Sub-sector": "Automobile Manufacturers",
+            "Sub_sector": "Automobile Manufacturers",
             "Headquarters": "Austin, Texas",
             "Date added": "2020-12-21",
             "Founded": "2003",
@@ -4038,7 +4038,7 @@
         {
             "Ticker": "TXN",
             "Company": "Texas Instruments",
-            "Sub-sector": "Semiconductors",
+            "Sub_sector": "Semiconductors",
             "Headquarters": "Dallas, Texas",
             "Date added": "2020-12-22",
             "Founded": "1930",
@@ -4047,7 +4047,7 @@
         {
             "Ticker": "TXT",
             "Company": "Textron",
-            "Sub-sector": "Aerospace & Defense",
+            "Sub_sector": "Aerospace & Defense",
             "Headquarters": "Providence, Rhode Island",
             "Date added": "1978-12-31",
             "Founded": "1923",
@@ -4056,7 +4056,7 @@
         {
             "Ticker": "TMO",
             "Company": "Thermo Fisher Scientific",
-            "Sub-sector": "Life Sciences Tools & Services",
+            "Sub_sector": "Life Sciences Tools & Services",
             "Headquarters": "Waltham, Massachusetts",
             "Date added": "2004-08-03",
             "Founded": "2006 (1902)",
@@ -4065,7 +4065,7 @@
         {
             "Ticker": "TJX",
             "Company": "TJX Companies",
-            "Sub-sector": "Apparel Retail",
+            "Sub_sector": "Apparel Retail",
             "Headquarters": "Framingham, Massachusetts",
             "Date added": "1985-09-30",
             "Founded": "1987",
@@ -4074,7 +4074,7 @@
         {
             "Ticker": "TSCO",
             "Company": "Tractor Supply",
-            "Sub-sector": "Specialty Stores",
+            "Sub_sector": "Specialty Stores",
             "Headquarters": "Brentwood, Tennessee",
             "Date added": "2014-01-24",
             "Founded": "1938",
@@ -4083,7 +4083,7 @@
         {
             "Ticker": "TT",
             "Company": "Trane Technologies",
-            "Sub-sector": "Building Products",
+            "Sub_sector": "Building Products",
             "Headquarters": "Dublin, Ireland",
             "Date added": "2010-11-17",
             "Founded": "1871",
@@ -4092,7 +4092,7 @@
         {
             "Ticker": "TDG",
             "Company": "TransDigm Group",
-            "Sub-sector": "Aerospace & Defense",
+            "Sub_sector": "Aerospace & Defense",
             "Headquarters": "Cleveland, Ohio",
             "Date added": "2016-06-03",
             "Founded": "1993",
@@ -4101,7 +4101,7 @@
         {
             "Ticker": "TRV",
             "Company": "Travelers Companies (The)",
-            "Sub-sector": "Property & Casualty Insurance",
+            "Sub_sector": "Property & Casualty Insurance",
             "Headquarters": "New York City, New York",
             "Date added": "2002-08-21",
             "Founded": "1853",
@@ -4110,7 +4110,7 @@
         {
             "Ticker": "TRMB",
             "Company": "Trimble Inc.",
-            "Sub-sector": "Electronic Equipment & Instruments",
+            "Sub_sector": "Electronic Equipment & Instruments",
             "Headquarters": "Westminster, Colorado",
             "Date added": "2021-01-21",
             "Founded": "1978",
@@ -4119,7 +4119,7 @@
         {
             "Ticker": "TFC",
             "Company": "Truist",
-            "Sub-sector": "Regional Banks",
+            "Sub_sector": "Regional Banks",
             "Headquarters": "Charlotte, North Carolina",
             "Date added": "1997-12-04",
             "Founded": "1872",
@@ -4128,7 +4128,7 @@
         {
             "Ticker": "TYL",
             "Company": "Tyler Technologies",
-            "Sub-sector": "Application Software",
+            "Sub_sector": "Application Software",
             "Headquarters": "Plano, Texas",
             "Date added": "2020-06-22",
             "Founded": "1966",
@@ -4137,7 +4137,7 @@
         {
             "Ticker": "TSN",
             "Company": "Tyson Foods",
-            "Sub-sector": "Packaged Foods & Meats",
+            "Sub_sector": "Packaged Foods & Meats",
             "Headquarters": "Springdale, Arkansas",
             "Date added": "2005-08-10",
             "Founded": "1935",
@@ -4146,7 +4146,7 @@
         {
             "Ticker": "USB",
             "Company": "U.S. Bank",
-            "Sub-sector": "Diversified Banks",
+            "Sub_sector": "Diversified Banks",
             "Headquarters": "Minneapolis, Minnesota",
             "Date added": "2005-08-11",
             "Founded": "1968",
@@ -4155,7 +4155,7 @@
         {
             "Ticker": "UDR",
             "Company": "UDR, Inc.",
-            "Sub-sector": "Residential REITs",
+            "Sub_sector": "Residential REITs",
             "Headquarters": "Highlands Ranch, Colorado",
             "Date added": "2016-03-07",
             "Founded": "1972",
@@ -4164,7 +4164,7 @@
         {
             "Ticker": "ULTA",
             "Company": "Ulta Beauty",
-            "Sub-sector": "Specialty Stores",
+            "Sub_sector": "Specialty Stores",
             "Headquarters": "Bolingbrook, Illinois",
             "Date added": "2016-04-18",
             "Founded": "1990",
@@ -4173,7 +4173,7 @@
         {
             "Ticker": "UNP",
             "Company": "Union Pacific Corporation",
-            "Sub-sector": "Rail Transportation",
+            "Sub_sector": "Rail Transportation",
             "Headquarters": "Omaha, Nebraska",
             "Date added": "1957-03-04",
             "Founded": "1862",
@@ -4182,7 +4182,7 @@
         {
             "Ticker": "UAL",
             "Company": "United Airlines Holdings",
-            "Sub-sector": "Passenger Airlines",
+            "Sub_sector": "Passenger Airlines",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2015-09-03",
             "Founded": "1967",
@@ -4191,7 +4191,7 @@
         {
             "Ticker": "UPS",
             "Company": "United Parcel Service",
-            "Sub-sector": "Air Freight & Logistics",
+            "Sub_sector": "Air Freight & Logistics",
             "Headquarters": "Sandy Springs, Georgia",
             "Date added": "2002-07-22",
             "Founded": "1907",
@@ -4200,7 +4200,7 @@
         {
             "Ticker": "URI",
             "Company": "United Rentals",
-            "Sub-sector": "Trading Companies & Distributors",
+            "Sub_sector": "Trading Companies & Distributors",
             "Headquarters": "Stamford, Connecticut",
             "Date added": "2014-09-20",
             "Founded": "1997",
@@ -4209,7 +4209,7 @@
         {
             "Ticker": "UNH",
             "Company": "UnitedHealth Group",
-            "Sub-sector": "Managed Health Care",
+            "Sub_sector": "Managed Health Care",
             "Headquarters": "Minnetonka, Minnesota",
             "Date added": "1994-07-01",
             "Founded": "1977",
@@ -4218,7 +4218,7 @@
         {
             "Ticker": "UHS",
             "Company": "Universal Health Services",
-            "Sub-sector": "Health Care Facilities",
+            "Sub_sector": "Health Care Facilities",
             "Headquarters": "King of Prussia, Pennsylvania",
             "Date added": "2014-09-20",
             "Founded": "1979",
@@ -4227,7 +4227,7 @@
         {
             "Ticker": "VLO",
             "Company": "Valero Energy",
-            "Sub-sector": "Oil & Gas Refining & Marketing",
+            "Sub_sector": "Oil & Gas Refining & Marketing",
             "Headquarters": "San Antonio, Texas",
             "Date added": "2002-12-20",
             "Founded": "1980",
@@ -4236,7 +4236,7 @@
         {
             "Ticker": "VTR",
             "Company": "Ventas",
-            "Sub-sector": "Health Care REITs",
+            "Sub_sector": "Health Care REITs",
             "Headquarters": "Chicago, Illinois",
             "Date added": "2009-03-04",
             "Founded": "1998",
@@ -4245,7 +4245,7 @@
         {
             "Ticker": "VRSN",
             "Company": "Verisign",
-            "Sub-sector": "Internet Services & Infrastructure",
+            "Sub_sector": "Internet Services & Infrastructure",
             "Headquarters": "Dulles, Virginia",
             "Date added": "2006-02-01",
             "Founded": "1995",
@@ -4254,7 +4254,7 @@
         {
             "Ticker": "VRSK",
             "Company": "Verisk",
-            "Sub-sector": "Research & Consulting Services",
+            "Sub_sector": "Research & Consulting Services",
             "Headquarters": "Jersey City, New Jersey",
             "Date added": "2015-10-08",
             "Founded": "1971",
@@ -4263,7 +4263,7 @@
         {
             "Ticker": "VZ",
             "Company": "Verizon",
-            "Sub-sector": "Integrated Telecommunication Services",
+            "Sub_sector": "Integrated Telecommunication Services",
             "Headquarters": "New York City, New York",
             "Date added": "1983-11-30",
             "Founded": "1983 (1877)",
@@ -4272,7 +4272,7 @@
         {
             "Ticker": "VRTX",
             "Company": "Vertex Pharmaceuticals",
-            "Sub-sector": "Biotechnology",
+            "Sub_sector": "Biotechnology",
             "Headquarters": "Cambridge, Massachusetts",
             "Date added": "2013-09-23",
             "Founded": "1989",
@@ -4281,7 +4281,7 @@
         {
             "Ticker": "VFC",
             "Company": "VF Corporation",
-            "Sub-sector": "Apparel, Accessories & Luxury Goods",
+            "Sub_sector": "Apparel, Accessories & Luxury Goods",
             "Headquarters": "Denver, Colorado",
             "Date added": "1979-06-30",
             "Founded": "1899",
@@ -4290,7 +4290,7 @@
         {
             "Ticker": "VTRS",
             "Company": "Viatris",
-            "Sub-sector": "Pharmaceuticals",
+            "Sub_sector": "Pharmaceuticals",
             "Headquarters": "Pittsburgh, Pennsylvania",
             "Date added": "2004-04-23",
             "Founded": "1961",
@@ -4299,7 +4299,7 @@
         {
             "Ticker": "VICI",
             "Company": "Vici Properties",
-            "Sub-sector": "Hotel & Resort REITs",
+            "Sub_sector": "Hotel & Resort REITs",
             "Headquarters": "New York City, New York",
             "Date added": "2022-06-08",
             "Founded": "2017",
@@ -4308,7 +4308,7 @@
         {
             "Ticker": "V",
             "Company": "Visa Inc.",
-            "Sub-sector": "Transaction & Payment Processing Services",
+            "Sub_sector": "Transaction & Payment Processing Services",
             "Headquarters": "San Francisco, California",
             "Date added": "2009-12-21",
             "Founded": "1958",
@@ -4317,7 +4317,7 @@
         {
             "Ticker": "VMC",
             "Company": "Vulcan Materials Company",
-            "Sub-sector": "Construction Materials",
+            "Sub_sector": "Construction Materials",
             "Headquarters": "Birmingham, Alabama",
             "Date added": "1999-06-30",
             "Founded": "1909",
@@ -4326,7 +4326,7 @@
         {
             "Ticker": "WAB",
             "Company": "Wabtec",
-            "Sub-sector": "Construction Machinery & Heavy Transportation Equipment",
+            "Sub_sector": "Construction Machinery & Heavy Transportation Equipment",
             "Headquarters": "Pittsburgh, Pennsylvania",
             "Date added": "2019-02-27",
             "Founded": "1999 (1869)",
@@ -4335,7 +4335,7 @@
         {
             "Ticker": "WBA",
             "Company": "Walgreens Boots Alliance",
-            "Sub-sector": "Drug Retail",
+            "Sub_sector": "Drug Retail",
             "Headquarters": "Deerfield, Illinois",
             "Date added": "1979-12-31",
             "Founded": "2014",
@@ -4344,7 +4344,7 @@
         {
             "Ticker": "WMT",
             "Company": "Walmart",
-            "Sub-sector": "Consumer Staples Merchandise Retail",
+            "Sub_sector": "Consumer Staples Merchandise Retail",
             "Headquarters": "Bentonville, Arkansas",
             "Date added": "1982-08-31",
             "Founded": "1962",
@@ -4353,7 +4353,7 @@
         {
             "Ticker": "WBD",
             "Company": "Warner Bros. Discovery",
-            "Sub-sector": "Broadcasting",
+            "Sub_sector": "Broadcasting",
             "Headquarters": "New York City, New York",
             "Date added": "2022-04-11",
             "Founded": "2022",
@@ -4362,7 +4362,7 @@
         {
             "Ticker": "WM",
             "Company": "Waste Management",
-            "Sub-sector": "Environmental & Facilities Services",
+            "Sub_sector": "Environmental & Facilities Services",
             "Headquarters": "Houston, Texas",
             "Date added": "2022-04-12",
             "Founded": "1968",
@@ -4371,7 +4371,7 @@
         {
             "Ticker": "WAT",
             "Company": "Waters Corporation",
-            "Sub-sector": "Health Care Distributors",
+            "Sub_sector": "Health Care Distributors",
             "Headquarters": "Milford, Massachusetts",
             "Date added": "2002-01-02",
             "Founded": "1958",
@@ -4380,7 +4380,7 @@
         {
             "Ticker": "WEC",
             "Company": "WEC Energy Group",
-            "Sub-sector": "Electric Utilities",
+            "Sub_sector": "Electric Utilities",
             "Headquarters": "Milwaukee, Wisconsin",
             "Date added": "2008-10-31",
             "Founded": "1896",
@@ -4389,7 +4389,7 @@
         {
             "Ticker": "WFC",
             "Company": "Wells Fargo",
-            "Sub-sector": "Diversified Banks",
+            "Sub_sector": "Diversified Banks",
             "Headquarters": "San Francisco, California",
             "Date added": "1976-06-30",
             "Founded": "1852",
@@ -4398,7 +4398,7 @@
         {
             "Ticker": "WELL",
             "Company": "Welltower",
-            "Sub-sector": "Health Care REITs",
+            "Sub_sector": "Health Care REITs",
             "Headquarters": "Toledo, Ohio",
             "Date added": "2009-01-30",
             "Founded": "1970",
@@ -4407,7 +4407,7 @@
         {
             "Ticker": "WST",
             "Company": "West Pharmaceutical Services",
-            "Sub-sector": "Health Care Supplies",
+            "Sub_sector": "Health Care Supplies",
             "Headquarters": "Exton, Pennsylvania",
             "Date added": "2020-05-22",
             "Founded": "1923",
@@ -4416,7 +4416,7 @@
         {
             "Ticker": "WDC",
             "Company": "Western Digital",
-            "Sub-sector": "Technology Hardware, Storage & Peripherals",
+            "Sub_sector": "Technology Hardware, Storage & Peripherals",
             "Headquarters": "San Jose, California",
             "Date added": "2009-07-01",
             "Founded": "1970",
@@ -4425,7 +4425,7 @@
         {
             "Ticker": "WRK",
             "Company": "WestRock",
-            "Sub-sector": "Paper & Plastic Packaging Products & Materials",
+            "Sub_sector": "Paper & Plastic Packaging Products & Materials",
             "Headquarters": "Atlanta, Georgia",
             "Date added": "1957-03-04",
             "Founded": "2015",
@@ -4434,7 +4434,7 @@
         {
             "Ticker": "WY",
             "Company": "Weyerhaeuser",
-            "Sub-sector": "Timber REITs",
+            "Sub_sector": "Timber REITs",
             "Headquarters": "Seattle, Washington",
             "Date added": "1957-03-05",
             "Founded": "1900",
@@ -4443,7 +4443,7 @@
         {
             "Ticker": "WHR",
             "Company": "Whirlpool Corporation",
-            "Sub-sector": "Household Appliances",
+            "Sub_sector": "Household Appliances",
             "Headquarters": "Benton Harbor, Michigan",
             "Date added": "1975-03-30",
             "Founded": "1911",
@@ -4452,7 +4452,7 @@
         {
             "Ticker": "WMB",
             "Company": "Williams Companies",
-            "Sub-sector": "Oil & Gas Storage & Transportation",
+            "Sub_sector": "Oil & Gas Storage & Transportation",
             "Headquarters": "Tulsa, Oklahoma",
             "Date added": "1975-03-31",
             "Founded": "1908",
@@ -4461,7 +4461,7 @@
         {
             "Ticker": "WTW",
             "Company": "Willis Towers Watson",
-            "Sub-sector": "Insurance Brokers",
+            "Sub_sector": "Insurance Brokers",
             "Headquarters": "London, United Kingdom",
             "Date added": "2016-01-05",
             "Founded": "2016",
@@ -4470,7 +4470,7 @@
         {
             "Ticker": "GWW",
             "Company": "W. W. Grainger",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "Lake Forest, Illinois",
             "Date added": "1981-06-30",
             "Founded": "1927",
@@ -4479,7 +4479,7 @@
         {
             "Ticker": "WYNN",
             "Company": "Wynn Resorts",
-            "Sub-sector": "Casinos & Gaming",
+            "Sub_sector": "Casinos & Gaming",
             "Headquarters": "Paradise, Nevada",
             "Date added": "2008-11-14",
             "Founded": "2002",
@@ -4488,7 +4488,7 @@
         {
             "Ticker": "XEL",
             "Company": "Xcel Energy",
-            "Sub-sector": "Multi-Utilities",
+            "Sub_sector": "Multi-Utilities",
             "Headquarters": "Minneapolis, Minnesota",
             "Date added": "1957-03-04",
             "Founded": "1909",
@@ -4497,7 +4497,7 @@
         {
             "Ticker": "XYL",
             "Company": "Xylem Inc.",
-            "Sub-sector": "Industrial Machinery & Supplies & Components",
+            "Sub_sector": "Industrial Machinery & Supplies & Components",
             "Headquarters": "White Plains, New York",
             "Date added": "2011-11-01",
             "Founded": "2011",
@@ -4506,7 +4506,7 @@
         {
             "Ticker": "YUM",
             "Company": "Yum! Brands",
-            "Sub-sector": "Restaurants",
+            "Sub_sector": "Restaurants",
             "Headquarters": "Louisville, Kentucky",
             "Date added": "1997-10-06",
             "Founded": "1997",
@@ -4515,7 +4515,7 @@
         {
             "Ticker": "ZBRA",
             "Company": "Zebra Technologies",
-            "Sub-sector": "Electronic Equipment & Instruments",
+            "Sub_sector": "Electronic Equipment & Instruments",
             "Headquarters": "Lincolnshire, Illinois",
             "Date added": "2019-12-23",
             "Founded": "1969",
@@ -4524,7 +4524,7 @@
         {
             "Ticker": "ZBH",
             "Company": "Zimmer Biomet",
-            "Sub-sector": "Health Care Equipment",
+            "Sub_sector": "Health Care Equipment",
             "Headquarters": "Warsaw, Indiana",
             "Date added": "2001-08-07",
             "Founded": "1927",
@@ -4533,7 +4533,7 @@
         {
             "Ticker": "ZION",
             "Company": "Zions Bancorporation",
-            "Sub-sector": "Regional Banks",
+            "Sub_sector": "Regional Banks",
             "Headquarters": "Salt Lake City, Utah",
             "Date added": "2001-06-22",
             "Founded": "1873",
@@ -4542,7 +4542,7 @@
         {
             "Ticker": "ZTS",
             "Company": "Zoetis",
-            "Sub-sector": "Pharmaceuticals",
+            "Sub_sector": "Pharmaceuticals",
             "Headquarters": "Parsippany, New Jersey",
             "Date added": "2013-06-21",
             "Founded": "1952",
