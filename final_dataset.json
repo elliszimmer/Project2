@@ -5,7 +5,7 @@
         "GOOGL",
         "META",
         "MSFT",
-        "NDVA",
+        "NVDA",
         "TSLA",
         "DXC",
         "FFIV",
@@ -20,14 +20,6 @@
         "ZBH"
     ],
     "company_info": [
-        {
-            "Ticker": "NVDA",
-            "Company": "Nvidia",
-            "Sub-sector": "Semiconductors",
-            "Headquarters": "Santa Clara, California",
-            "Date added": "2001-11-30",
-            "Founded": "1993"
-        },
         {
             "Ticker": "MMM",
             "Company": "3M",
@@ -1273,7 +1265,7 @@
             "Company": "Dominion Energy",
             "Sub-sector": "Electric Utilities",
             "Headquarters": "Richmond, Virginia",
-            "Date added": "1901-01-01",
+            "Date added": "2011-12-20",
             "Founded": "1983"
         },
         {
@@ -1521,7 +1513,7 @@
             "Company": "Eversource",
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "Hartford, Connecticut",
-            "Date added": "2009",
+            "Date added": "2009-01-01",
             "Founded": "1966"
         },
         {
@@ -1721,7 +1713,7 @@
             "Company": "Freeport-McMoRan",
             "Sub-sector": "Copper",
             "Headquarters": "Phoenix, Arizona",
-            "Date added": "1901-01-01",
+            "Date added": "1998-05-01",
             "Founded": "1912"
         },
         {
@@ -1977,7 +1969,7 @@
             "Company": "Humana",
             "Sub-sector": "Managed Health Care",
             "Headquarters": "Louisville, Kentucky",
-            "Date added": "1901-01-01",
+            "Date added": "1975-01-01",
             "Founded": "1961"
         },
         {
@@ -3273,7 +3265,7 @@
             "Company": "Rockwell Automation",
             "Sub-sector": "Electrical Components & Equipment",
             "Headquarters": "Milwaukee, Wisconsin",
-            "Date added": "1901-01-01",
+            "Date added": "2000-12-06",
             "Founded": "1903"
         },
         {
@@ -3361,7 +3353,7 @@
             "Company": "Sempra Energy",
             "Sub-sector": "Multi-Utilities",
             "Headquarters": "San Diego, California",
-            "Date added": "2001?",
+            "Date added": "1957-03-05",
             "Founded": "1998"
         },
         {
@@ -3521,7 +3513,7 @@
             "Company": "T. Rowe Price",
             "Sub-sector": "Asset Management & Custody Banks",
             "Headquarters": "Baltimore, Maryland",
-            "Date added": "1901-01-01",
+            "Date added": "2019-07-16",
             "Founded": "1937"
         },
         {
@@ -3601,7 +3593,7 @@
             "Company": "Texas Instruments",
             "Sub-sector": "Semiconductors",
             "Headquarters": "Dallas, Texas",
-            "Date added": "1901-01-01",
+            "Date added": "2020-12-22",
             "Founded": "1930"
         },
         {
@@ -3697,7 +3689,7 @@
             "Company": "U.S. Bank",
             "Sub-sector": "Diversified Banks",
             "Headquarters": "Minneapolis, Minnesota",
-            "Date added": "1901-01-01",
+            "Date added": "2005-08-11",
             "Founded": "1968"
         },
         {
@@ -3889,7 +3881,7 @@
             "Company": "Waste Management",
             "Sub-sector": "Environmental & Facilities Services",
             "Headquarters": "Houston, Texas",
-            "Date added": "1901-01-01",
+            "Date added": "2022-04-12",
             "Founded": "1968"
         },
         {
@@ -3953,7 +3945,7 @@
             "Company": "Weyerhaeuser",
             "Sub-sector": "Timber REITs",
             "Headquarters": "Seattle, Washington",
-            "Date added": "1901-01-01",
+            "Date added": "1957-03-05",
             "Founded": "1900"
         },
         {
@@ -3961,7 +3953,7 @@
             "Company": "Whirlpool Corporation",
             "Sub-sector": "Household Appliances",
             "Headquarters": "Benton Harbor, Michigan",
-            "Date added": "1901-01-01",
+            "Date added": "1975-03-30",
             "Founded": "1911"
         },
         {
@@ -6485,7 +6477,7 @@
             ]
         },
         {
-            "ticker": "NDVA",
+            "ticker": "NVDA",
             "dates": [
                 "2018-01-01",
                 "2018-02-01",
