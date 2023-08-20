@@ -1,6 +1,6 @@
 {
     "tickers": [
-        "ALL",
+        "Select All",
         "AAPL",
         "AMZN",
         "GOOGL",
@@ -4048,7 +4048,7 @@
     ],
     "stock_history": [
         {
-            "ticker": "ALL",
+            "ticker": "Select All",
             "dates": [
                 "2018-01-01",
                 "2018-02-01",

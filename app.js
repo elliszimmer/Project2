@@ -8,8 +8,12 @@ dataPromise.then(data => {
     // Here we are going to execute our sequence of routines
     jsonData = data;
     
-    // Populate menu1 with tickers acquired from json dataset 
+    // Populate menu1 with tickers acquired from json dataset     
     let tickers = data.tickers;
+    let firstAsALL = tickers[0];    
+    tickers.splice(0,1);
+    tickers.sort();
+    tickers.unshift(firstAsALL);
     let dropdown1 = d3.select("#Menu_1"); // Select the dropdown element using D3
     // Append the default option
     dropdown1.append("option").text("Select a ticker symbol").attr("value", "").property("selected", true);
@@ -45,8 +49,8 @@ dataPromise.then(data => {
 function btnClicked(ticker, year) {
     // Do something with the input parameters to test it works
     console.log("Selected values:", ticker, year);    
-    // Any other logic you want to perform when the dropdown value changes
-
+    // Execute a function for bubble chart using plotly 
+    plotBubbleChart(sampleObject, selectedID);
 }
 
 // Populate company info when an option is selected from menu 1
@@ -102,4 +106,30 @@ function menu2dateList(){
     let years = [...new Set((jsonData.stock_history)[0].dates.map(date => date.split("-")[0]))];
     console.log(years);
     return years;
+}
+
+// Create a bubble chart that displays each sample.
+function plotBubbleChart(sampleObject, selectedID) {
+    let trace = {
+        x: sampleObject.otu_ids,
+        y: sampleObject.sample_values,
+        text: sampleObject.otu_labels,
+        mode: 'markers',
+        marker: {
+            size: sampleObject.sample_values, // To set size based on the value in the 'sample_values' array
+            color: sampleObject.otu_ids, // To set color based on OTU ID
+            colorscale: 'Portland',  // Colorscale
+            sizemode: 'diameter'  // Sizemode as diameter
+        }
+    };
+
+    let layout = {
+        title: `Bubble Chart for id: ${selectedID}`,
+        showlegend: false,
+        height: 600,
+        width: 1200,
+        xaxis: { title: "OTU IDs" },
+    };
+
+    Plotly.newPlot("bubble", [trace], layout);
 }
