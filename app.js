@@ -49,8 +49,35 @@ dataPromise.then(data => {
 function btnClicked(ticker, year) {
     // Do something with the input parameters to test it works
     console.log("Selected values:", ticker, year);    
-    // Execute a function for bubble chart using plotly 
-    plotBubbleChart(sampleObject, selectedID);
+    // Obtain the data from the dataset
+    const filteredData = retrieveStockHistory(ticker, year);
+
+    // Test cases:
+    // console.log(retrieveStockHistory(ticker, year)); //("Select All", "Select All"));
+    // console.log(retrieveStockHistory("AAPL", "Select All"));
+    // console.log(retrieveStockHistory("Select All", "2018"));
+
+    // 1. Execute the line graphs
+    // Rita: (main contributor) 
+    // Arefin: consolidator, editor,
+    plotLineChart(filteredData);    
+    
+    // 2. Execute the candle-light plot
+    // Rita: (main contributor) 
+    // Arefin: consolidator, editor,
+    drawCandleStick(filteredData);
+
+    // 3. Execute a function for bubble chart using plotly 
+    // Arefin: (main contributor), consolidator, editor,
+    plotBubbleChart(filteredData);
+
+    // 4. Execute the bar plot
+    drawBarChart(filteredData);
+    
+    // Function Barchart
+    //--------------
+    // Function 3
+    //----------------
 }
 
 // Populate company info when an option is selected from menu 1
@@ -66,7 +93,12 @@ function option1Changed(selectedTicker) {
     // }
     
     // First acquire the sample data from the selected ID
-    if(selectedTicker === "Select All"){
+    if(selectedTicker == "Select a ticker symbol"){   //// <<------------ this case is not working
+        let panel = d3.select("#company-metadata");        
+        panel.html(""); // Clear any existing metadata
+        console.log("Default setting");
+    }
+    else if(selectedTicker === "Select All"){
         console.log("All Company info is shown");
         displayAllLogos();
     }
@@ -120,6 +152,7 @@ function option1Changed(selectedTicker) {
 function menu2dateList(){
     // Extract the years and make sure they are unique using a Set
     let years = [...new Set((jsonData.stock_history)[0].dates.map(date => date.split("-")[0]))];
+    years.unshift("Select All"); // add a string as another option at the begining of the list.
     console.log(years);
     return years;
 }
@@ -180,7 +213,7 @@ function displayAllLogos() {
             //hoverinfo: 'text',
             mode: 'markers',
             marker: {
-                size: {size: 50, opacity: 0}, // Adjust size as needed
+                size: 50, // Adjust size as needed
                 symbol: `url(${encodePath(Ticker.LogoPath)})`
             }
         };
@@ -218,27 +251,339 @@ function encodePath(path) {
 }
 
 // Create a bubble chart that displays each sample.
-// function plotBubbleChart(sampleObject, selectedID) {
-//     let trace = {
-//         x: sampleObject.otu_ids,
-//         y: sampleObject.sample_values,
-//         text: sampleObject.otu_labels,
-//         mode: 'markers',
-//         marker: {
-//             size: sampleObject.sample_values, // To set size based on the value in the 'sample_values' array
-//             color: sampleObject.otu_ids, // To set color based on OTU ID
-//             colorscale: 'Portland',  // Colorscale
-//             sizemode: 'diameter'  // Sizemode as diameter
-//         }
-//     };
+function plotBubbleChart(filteredData) {
+    
+    let traces = [];
 
-//     let layout = {
-//         title: `Bubble Chart for id: ${selectedID}`,
-//         showlegend: false,
-//         height: 600,
-//         width: 1200,
-//         xaxis: { title: "OTU IDs" },
-//     };
+    const metrics = ['open', 'close', 'high', 'low'];
+    //console.log("filteredData.dates: ",filteredData.dates);
+    for (let metric of metrics) {
+        for (let data of filteredData) {
+            const trace = {
+                name: data.ticker+ '-' + metric,
+                x: data.dates,
+                y: data[metric], //data.open, // default y-axis data to 'open'
+                text: data.dates, // show date info when hovering over a bubble
+                mode: 'markers',
+                marker: {
+                    size: data.volume.map(v => Math.cbrt(v) * 0.1), // We use the cube root to scale down the volume, and a multiplier to adjust size
+                    sizemode: 'diameter'
+                },
+                yaxis: 'y1',
+                visible: metric === 'open'  // Only show 'open' data series by default
+            };
+            traces.push(trace);
+        }
+    }
 
-//     Plotly.newPlot("bubble", [trace], layout);
-// }
+    let layout = {
+        title: 'Stock Data Bubble Chart',
+        xaxis: { title: 'Dates',
+            showline: true,
+            linewidth: 1,
+            linecolor: 'blue',
+            mirror: true
+        },
+        yaxis: { title: 'Value (in USD $)',
+            showline: true,
+            linewidth: 1,
+            linecolor: 'blue',
+            mirror: true
+        },
+        updatemenus: [{
+            x: 1.1,
+            y: 1.15,
+            yanchor: 'top',
+            buttons: [
+                {
+                    //args: ['y', [filteredData.map(d => d.open)]],
+                    args: ['visible', [true, false, false, false, false, false, false, false]],
+                    label: 'Open',
+                    method: 'restyle'
+                },
+                {
+                    //args: ['y', [filteredData.map(d => d.close)]],
+                    args: ['visible', [false, true, false, false, false, false, false, false]],
+                    label: 'Close',
+                    method: 'restyle'
+                },
+                {
+                    //args: ['y', [filteredData.map(d => d.high)]],
+                    args: ['visible', [false, false, true, false, false, false, false, false]],
+                    label: 'High',
+                    method: 'restyle'
+                },
+                {
+                    //args: ['y', [filteredData.map(d => d.low)]],
+                    args: ['visible', [false, false, false, true, false, false, false, false]],
+                    label: 'Low',
+                    method: 'restyle'
+                }
+            ],
+            //paper_bgcolor: '#96aaf7',  // Light gray color for the border
+            plot_bgcolor: '#ffa000',   // White color for the inner chart
+            // margin: {
+            //             l: 55,   // Left margin (increase as needed)
+            //             r: 50,   // Right margin (increase as needed)
+            //             b: 50,   // Bottom margin (increase as needed)
+            //             t: 70,   // Top margin (increase as needed)
+            //             pad: 4
+            // }
+        }],
+        showlegend: true
+    };
+
+
+    Plotly.newPlot("bubble_Arefin", traces, layout);
+}
+
+// Create the line chart function
+function plotLineChart(filteredData){
+
+    let dates = [];
+    let openPrices = [];
+    let closePrices = [];
+    let highPrices = [];
+    let lowPrices = [];
+    
+    for (let sdata of filteredData) {
+        if (sdata.ticker) {
+            dates.push(...sdata.dates);
+            openPrices.push(...sdata.open);
+            closePrices.push(...sdata.close);
+            highPrices.push(...sdata.high);
+            lowPrices.push(...sdata.low);
+        }
+    }
+
+    data = {
+        x: dates,
+        open: openPrices,
+        close: closePrices,
+        high: highPrices,
+        low: lowPrices
+    }
+
+    // Calculate the differences
+    let highLowDifference = data.high.map((value, index) => value - data.low[index]);
+    let openCloseDifference = data.open.map((value, index) => value - data.close[index]);
+
+    // Create traces for each of the values and differences
+    let openTrace = {
+        type: 'scatter',
+        mode: 'lines',
+        x: data.x,
+        y: data.open,
+        name: 'Open'
+    };
+
+    let closeTrace = {
+        type: 'scatter',
+        mode: 'lines',
+        x: data.x,
+        y: data.close,
+        name: 'Close'
+    };
+
+    let highTrace = {
+        type: 'scatter',
+        mode: 'lines',
+        x: data.x,
+        y: data.high,
+        name: 'High'
+    };
+
+    let lowTrace = {
+        type: 'scatter',
+        mode: 'lines',
+        x: data.x,
+        y: data.low,
+        name: 'Low'
+    };
+
+    let highLowBarTrace = {
+        type: 'bar',
+        x: data.x,
+        y: highLowDifference,
+        name: 'High-Low Diff',
+        marker: {
+            color: 'rgba(204,204,204,1)'
+        }
+    };
+
+    let openCloseBarTrace = {
+        type: 'bar',
+        x: data.x,
+        y: openCloseDifference,
+        name: 'Open-Close Diff',
+        marker: {
+            color: 'rgba(222,45,38,0.8)'
+        }
+    };
+
+    // Combine the traces
+    let layout = {
+        title: 'Stock Prices and Their Differences',
+        xaxis: {
+            title: 'Date'
+        },
+        yaxis: {
+            title: 'Price (USD $)'
+        },
+        barmode: 'relative'
+    };
+    tracedata = [openTrace, closeTrace, highTrace, lowTrace, highLowBarTrace, openCloseBarTrace];
+    Plotly.newPlot('line', tracedata, layout);
+}
+
+// Create the candle-light plot
+function drawCandleStick(filteredData){
+
+    // Unpacking the data
+    let dates = [];
+    let openPrices = [];
+    let closePrices = [];
+    let highPrices = [];
+    let lowPrices = [];
+    
+    for (let sdata of filteredData) {
+        if (sdata.ticker) {
+            dates.push(...sdata.dates);
+            openPrices.push(...sdata.open);
+            closePrices.push(...sdata.close);
+            highPrices.push(...sdata.high);
+            lowPrices.push(...sdata.low);
+        }
+    }
+
+    data = {
+        x: dates,
+        open: openPrices,
+        close: closePrices,
+        high: highPrices,
+        low: lowPrices
+    }
+
+    let tracedata = [{
+        x: data.x, // this is the date
+        close: data.close,
+        decreasing: {line: {color: 'red'}},
+        high: data.high,
+        increasing: {line: {color: 'green'}},
+        line: {color: 'rgba(31,119,180,1)'},
+        low: data.low,
+        open: data.open,
+        type: 'candlestick',
+        xaxis: 'x',
+        yaxis: 'y'
+    }];
+
+    let layout = {
+        dragmode: 'zoom',
+        margin: {
+            r: 10,
+            t: 25,
+            b: 40,
+            l: 60
+        },
+        showlegend: false,
+        xaxis: {
+            autorange: true,
+            domain: [0, 1],
+            title: 'Date',
+            type: 'date',
+            // rangeslider: {
+            //     visible: false
+            // }
+        },
+        yaxis:{
+            autorange: true,
+            domain: [0, 1],
+            type: 'linear',
+            title: 'Price (USD $)'
+        },
+        title: `Stock Prices Candlestick Representation`
+    }
+    Plotly.newPlot('candlestick', tracedata, layout)
+}
+
+// Create the bar graph
+function drawBarChart(filteredData){
+    // Obtain the data traces
+    let traces = [];
+    
+    for (let data of filteredData) {
+        if (data.ticker) {
+            let trace = {
+                x: data.dates,
+                y: data.volume,
+                name: data.ticker,
+                type: 'bar',
+                hoverinfo: 'x+y+name', // Show date, volume, and ticker name on hover
+                hovertemplate: `<b>${data.ticker}</b><br>Date: %{x}<br>Volume: %{y}<extra></extra>` // Custom hover template
+            };
+            traces.push(trace);
+        }
+    }
+
+    let layout = {
+        title: 'Volume Over Time',
+        barmode: 'stack', // This will stack the bars
+        xaxis: {
+            title: 'Date'
+        },
+        yaxis: {
+            title: 'Volume'
+        }
+    };
+
+    Plotly.newPlot('bar', traces, layout);
+}
+
+
+// Obtain the selected data
+function retrieveStockHistory(ticker, year) {
+    let result = [];
+
+    if (ticker === "Select All" && year === "Select All") {
+        // Return all the data from stock_history
+        result = jsonData.stock_history;
+    } else if (ticker !== "Select All" && year === "Select All") {
+        // Return all years of data for a specific ticker
+        for (let stock of jsonData.stock_history) {
+            if (stock.ticker === ticker) {
+                result.push(stock);
+                break;
+            }
+        }
+    } else if (ticker === "Select All" && year !== "Select All") {
+        // Return all tickers' data for a specific year
+        for (let stock of jsonData.stock_history) {
+            let dates = stock.dates;
+            if (dates.some(date => date.startsWith(year))) {
+                result.push(stock);
+            }
+        }
+    } else {
+        // Return specific ticker's data for a specific year
+        for (let stock of jsonData.stock_history) {
+            if (stock.ticker === ticker) {
+                let filteredDates = stock.dates.filter(date => date.startsWith(year));
+                if (filteredDates.length) {
+                    let filteredStock = {...stock}; // shallow copy
+                    filteredStock.dates = filteredDates;
+                    let endIndex = filteredDates.length;
+                    filteredStock.open = stock.open.slice(0, endIndex);
+                    filteredStock.high = stock.high.slice(0, endIndex);
+                    filteredStock.low = stock.low.slice(0, endIndex);
+                    filteredStock.close = stock.close.slice(0, endIndex);
+                    filteredStock["adj close"] = stock["adj close"].slice(0, endIndex);
+                    filteredStock.volume = stock.volume.slice(0, endIndex);
+                    result.push(filteredStock);
+                    break;
+                }
+            }
+        }
+    }
+    return result;
+}

@@ -1,5 +1,5 @@
 body {
-    background-color: #f5f6fa;
+    background-color: #96aaf7;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
@@ -8,11 +8,18 @@ body {
 .dashboard {
     max-width: 900px;
     margin: 50px auto;
-    background-color: #ffffff;
+    background-color: #faeeee;
     border-radius: 8px;
     box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1);
-    padding: 20px;
+    /*padding: 20px;*/
 }
+
+.col-md-9 {
+    border: 1px solid black; /* Adjust as needed */
+    /*display: inline-block;*/   /* Ensures the border wraps tightly around the chart */
+    /*padding: 10px;*/          /* Optional: Adds some space between the border and the chart */
+}
+
 /* .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* this will auto adjust the number of columns based on container width */
