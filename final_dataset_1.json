@@ -5,7 +5,7 @@
         "GOOGL",
         "META",
         "MSFT",
-        "NDVA",
+        "NVDA",
         "TSLA",
         "DXC",
         "FFIV",
@@ -6485,7 +6485,7 @@
             ]
         },
         {
-            "ticker": "NDVA",
+            "ticker": "NVDA",
             "dates": [
                 "2018-01-01",
                 "2018-02-01",

@@ -31,9 +31,9 @@ dataPromise.then(data => {
             alert('Please select values from both dropdowns before applying.');
         }
     });
- })//.catch(error => {
-//     console.error("Error fetching or parsing the data:", error);
-// });
+ }).catch(error => {
+     console.error("Error fetching or parsing the data:", error);
+ });
 
 
 function btnClicked(ticker, year) {
@@ -41,18 +41,19 @@ function btnClicked(ticker, year) {
     console.log("Selected values:", ticker, year);
     
     // Any other logic you want to perform when the dropdown value changes
-    getBarChart(ticker, year, jsonData)
+    getAllData(ticker, year, jsonData)
 }
 
 function option1Changed(selectedTicker) {
+    if (selectedTicker == null) {
+        let panel = d3.select("#sample-metadata");
+        panel.html(""); // Clear any existing metadata
+    }
+    else {
     // Do something with the selectedValue
     //console.log("Selected Value from menu 1:", selectedValue);
     
     // Any other logic you want to perform when the dropdown value changes
-    if (jsonData) {
-        console.log("data length: ", jsonData.company_info.length);
-    }
-    
     // First acquire the sample data from the selected ID
     let sampleObject = {}; // Declare an empty object to hold the filtered content
     let testObject = {};
@@ -73,6 +74,10 @@ function option1Changed(selectedTicker) {
     console.log("sampleObject: ", sampleObject);
     console.log("metadataObject: ", metadataObject);
 
+    let reset_bar = d3.select("#bar");
+    reset_bar.html("");
+    let reset_line = d3.select("#line");
+    reset_line.html("");
     // Update the "Demographic Info panel"
     let panel = d3.select("#sample-metadata");
     panel.html(""); // Clear any existing metadata
@@ -88,8 +93,36 @@ function option1Changed(selectedTicker) {
     get5YearLineChart(testObject)    
     }
 }
+}
+
+function option2Changed(year) {
+    testObject = {}
+    tradingVolume = 0;
+    count = 0;
+    avgTradingVolume_list = []
+    //console.log(((jsonData.stock_history)[0].dates)[0])
+    for (let i = 0; i < jsonData.tickers.length; i++){
+        ticker = (jsonData.tickers)[i];
+        if ((jsonData.stock_history)[i].ticker == ticker){
+            for (let j = 0; j < (jsonData.stock_history)[i].dates.length; j++){
+                if ((((jsonData.stock_history)[i].dates)[j].slice(0,4)) == year.toString()){
+                    tradingVolume += ((jsonData.stock_history)[i].volume)[j];
+                    count += 1;
+                }
+            }
+        }
+        avgTradingVolume_list.push(tradingVolume/count)
+        tradingVolume = 0;
+        count = 0;
+    }
+    get5YearBarChart(avgTradingVolume_list, year)
+}
 
 function get5YearLineChart(data){
+    let reset_bar = d3.select("#bar");
+    reset_bar.html("");
+    let reset_line = d3.select("#line");
+    reset_line.html("");
     let x_dates = data.dates;
     let y_close = data.close
 
@@ -103,23 +136,52 @@ function get5YearLineChart(data){
         //orientation: 'h'
     }]
     let layout = {
-        title: "10 Dates",
+        title: "5 Year Closing Values",
     }
-    Plotly.newPlot("plot", tracedata, layout)
+    Plotly.newPlot("line", tracedata, layout)
+
 }
 
-function getBarChart(ticker, year, data){
+function get5YearBarChart(data, year){
+    let reset_bar = d3.select("#bar");
+    reset_bar.html("");
+    let reset_line = d3.select("#line");
+    reset_line.html("");
+    let xdata = data;
+    let ydata = jsonData.tickers;
+
+    let tracedata = [{
+        x: xdata,
+        y: ydata,
+        type: "bar",
+        orientation: "h"
+    }]
+    let layout = {
+        title: `${year} Average Trading Volume of IT Section`
+    }
+    Plotly.newPlot("bar", tracedata, layout)
+}
+
+function getAllData(ticker, year, data){
     let testObject = {};
     let datelist = [];
     let volumelist = [];
     let closelist = [];
+    let difflist = [];
+    let openlist = [];
+    let highlist = [];
+    let lowlist = [];
     for (let j = 0; j < data.stock_history.length; j++){
         if ((data.stock_history)[j].ticker == ticker){
             for (let k = 0; k < (data.stock_history)[j].dates.length; k++){
                 if ((((data.stock_history)[j].dates)[k].slice(0,4)) == year){
                     datelist.push(((data.stock_history)[j].dates)[k]);
                     volumelist.push(((data.stock_history)[j].volume)[k]);
-                    closelist.push(((data.stock_history)[j].volume)[k]);
+                    closelist.push(((data.stock_history)[j].close)[k]);
+                    difflist.push((((data.stock_history)[j].close)[k]) - (((data.stock_history)[j].open)[k]))
+                    openlist.push(((data.stock_history)[j].open)[k]);
+                    highlist.push(((data.stock_history)[j].high)[k]);
+                    lowlist.push(((data.stock_history)[j].low)[k]);
                 }
             }
         }
@@ -127,10 +189,15 @@ function getBarChart(ticker, year, data){
     testObject.dates = datelist;
     testObject.volume = volumelist;
     testObject.close = closelist;
+    testObject.stock_diff = difflist;
+    testObject.open = openlist;
+    testObject.high = highlist;
+    testObject.low = lowlist;
     console.log(testObject)
 
     drawBarChart(testObject, year)
     drawLineChart(testObject, year)
+    drawCandleStick(testObject, year)
 }
 
 function drawBarChart(data, year){
@@ -144,23 +211,95 @@ function drawBarChart(data, year){
         orientation: "h"
     }]
     let layout = {
-        title: `${year} data`
+        title: `${year} Trading Volume`
     }
-    Plotly.newPlot("plot", tracedata, layout)
+    Plotly.newPlot("bar", tracedata, layout)
 }
 
 function drawLineChart(data, year){
     let xdata = data.dates;
     let ydata = data.close;
+    let odata = data.open;
+    let zdata = data.stock_diff;
+    let colorlist = []
+    for (let i = 0; i < zdata.length; i++){
+        if (zdata[i] < 0){
+            colorlist.push("red");
+        }
+        else{
+            colorlist.push("green");
+        }
+    }
 
-    let tracedata = [{
+    let trace1 = {
         x: xdata,
         y: ydata,
-        type:"line",
+        type: 'line',
+        name: 'Closing Price'
         //orientation: 'h'
-    }]
+    };
+    let trace2 = {
+        x: xdata,
+        y: odata,
+        type: 'line',
+        name: 'Opening Price'
+    }
+    let trace3 = {
+        x: xdata,
+        y: zdata,
+        type: 'bar', 
+        name: 'Pricing Gap',
+        marker: {
+            color: colorlist,
+        }
+    };
+
+let tracedata = [trace1, trace2, trace3];
     let layout = {
-        title: `${year} Line`,
+        title: `Stock Movement of ${year}`
     }
     Plotly.newPlot("line", tracedata, layout)
+}
+
+function drawCandleStick(data, year){
+    let tracedata = [{
+        x: data.dates,
+        close: data.close,
+        decreasing: {line: {color: 'red'}},
+        high: data.high,
+        increasing: {line: {color: 'green'}},
+        line: {color: 'rgba(31,119,180,1)'},
+        low: data.low,
+        open: data.open,
+        type: 'candlestick',
+        xaxis: 'x',
+        yaxis: 'y'
+    }];
+
+    let layout = {
+        dragmode: 'zoom',
+        margin: {
+            r: 10,
+            t: 25,
+            b: 40,
+            l: 60
+        },
+        showlegend: false,
+        xaxis: {
+            autorange: true,
+            domain: [0, 1],
+            title: 'Date',
+            type: 'date',
+            // rangeslider: {
+            //     visible: false
+            // }
+        },
+        yaxis:{
+            autorange: true,
+            domain: [0, 1],
+            type: 'linear'
+        },
+        title: `Stock Movement Candlestick Representation of Year ${year}`
+    }
+    Plotly.newPlot('candlestick', tracedata, layout)
 }

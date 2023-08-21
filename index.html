@@ -32,7 +32,7 @@
         </div>
         <div class="col-md-5 d-flex align-items-center">
             <h5 for="Menu_2">Year:</h5>
-            <select id="Menu_2" class="form-control">
+            <select id="Menu_2" class="form-control" onchange="option2Changed(this.value)">
                 <!-- Menu_1 options should be populated from JavaScript -->
             </select>            
         </div>       
@@ -54,9 +54,10 @@
             </div>
         </div>
     </div>
-
-    <div id="plot"></div>
     <div id="line"></div>
+    <div id="bar"></div>
+    <div id="candlestick"></div>
+
 </div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
