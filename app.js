@@ -365,8 +365,9 @@ function plotLineChart(filteredData){
     }
 
     // Calculate the differences
-    let highLowDifference = data.high.map((value, index) => value - data.low[index]);
+    //let highLowDifference = data.high.map((value, index) => value - data.low[index]);
     let openCloseDifference = data.open.map((value, index) => value - data.close[index]);
+    let openCloseDifferenceColors = openCloseDifference.map(diff => diff >= 0 ? 'green' : 'red');
 
     // Create traces for each of the values and differences
     let openTrace = {
@@ -385,31 +386,31 @@ function plotLineChart(filteredData){
         name: 'Close'
     };
 
-    let highTrace = {
-        type: 'scatter',
-        mode: 'lines',
-        x: data.x,
-        y: data.high,
-        name: 'High'
-    };
+    // let highTrace = {
+    //     type: 'scatter',
+    //     mode: 'lines',
+    //     x: data.x,
+    //     y: data.high,
+    //     name: 'High'
+    // };
 
-    let lowTrace = {
-        type: 'scatter',
-        mode: 'lines',
-        x: data.x,
-        y: data.low,
-        name: 'Low'
-    };
+    // let lowTrace = {
+    //     type: 'scatter',
+    //     mode: 'lines',
+    //     x: data.x,
+    //     y: data.low,
+    //     name: 'Low'
+    // };
 
-    let highLowBarTrace = {
-        type: 'bar',
-        x: data.x,
-        y: highLowDifference,
-        name: 'High-Low Diff',
-        marker: {
-            color: 'rgba(204,204,204,1)'
-        }
-    };
+    // let highLowBarTrace = {
+    //     type: 'bar',
+    //     x: data.x,
+    //     y: highLowDifference,
+    //     name: 'High-Low Diff',
+    //     marker: {
+    //         color: 'rgba(204,204,204,1)'
+    //     }
+    // };
 
     let openCloseBarTrace = {
         type: 'bar',
@@ -417,7 +418,7 @@ function plotLineChart(filteredData){
         y: openCloseDifference,
         name: 'Open-Close Diff',
         marker: {
-            color: 'rgba(222,45,38,0.8)'
+            color: openCloseDifferenceColors//'rgba(222,45,38,0.8)'
         }
     };
 
@@ -432,7 +433,7 @@ function plotLineChart(filteredData){
         },
         barmode: 'relative'
     };
-    tracedata = [openTrace, closeTrace, highTrace, lowTrace, highLowBarTrace, openCloseBarTrace];
+    tracedata = [openTrace, closeTrace, openCloseBarTrace]; //highTrace, lowTrace]; //, highLowBarTrace, openCloseBarTrace];
     Plotly.newPlot('line', tracedata, layout);
 }
 
