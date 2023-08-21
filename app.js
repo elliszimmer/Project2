@@ -123,6 +123,8 @@ function get5YearLineChart(data){
     reset_bar.html("");
     let reset_line = d3.select("#line");
     reset_line.html("");
+    let reset_candlestick = d3.select("#candlestick");
+    reset_candlestick.html("");
     let x_dates = data.dates;
     let y_close = data.close
 
@@ -147,6 +149,8 @@ function get5YearBarChart(data, year){
     reset_bar.html("");
     let reset_line = d3.select("#line");
     reset_line.html("");
+    let reset_candlestick = d3.select("#candlestick");
+    reset_candlestick.html("");
     let xdata = data;
     let ydata = jsonData.tickers;
 
