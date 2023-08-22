@@ -73,6 +73,9 @@ function btnClicked(ticker, year) {
 
     // 4. Execute the bar plot
     drawBarChart(filteredData);
+
+    // 5. Show the data with Jquery , that was not taught in class
+    displayDataInTable(filteredData, ticker, year);
     
     // Function Barchart
     //--------------
@@ -541,7 +544,6 @@ function drawBarChart(filteredData){
     Plotly.newPlot('bar', traces, layout);
 }
 
-
 // Obtain the selected data
 function retrieveStockHistory(ticker, year) {
     let result = [];
@@ -587,4 +589,113 @@ function retrieveStockHistory(ticker, year) {
         }
     }
     return result;
+}
+
+// The following is a working code... go back to it if the modification doesnt work
+// function displayDataInTable(stockData, selectedTicker, selectedYears) {
+//     let dataToDisplay = [];
+//     let columnNames = ['Date', 'Open', 'Close', 'High', 'Low'];
+
+//     if (selectedTicker === "Select All") {
+//         $('#dataDisplay').empty(); // Clear the container
+
+//         for (let sdata of stockData) {
+//             let tableId = sdata.ticker + "_table";
+//             $('#dataDisplay').append('<h2>' + sdata.ticker + '</h2><table id="' + tableId + '" class="display"></table>');
+
+//             for (let i = 0; i < sdata.dates.length; i++) {
+//                 let year = new Date(sdata.dates[i]).getFullYear();
+//                 if (selectedYears.includes(year) || selectedYears === "Select All") {
+//                     dataToDisplay.push([sdata.dates[i], sdata.open[i], sdata.close[i], sdata.high[i], sdata.low[i]]);
+//                 }
+//             }
+
+//             $('#' + tableId).DataTable({
+//                 data: dataToDisplay,
+//                 columns: columnNames.map(name => ({ title: name })),
+//                 destroy: true
+//             });
+
+//             dataToDisplay = []; // Reset for the next ticker
+//         }
+//     } else {
+//         for (let sdata of stockData) {
+//             if (sdata.ticker === selectedTicker) {
+//                 for (let i = 0; i < sdata.dates.length; i++) {
+//                     let year = new Date(sdata.dates[i]).getFullYear();
+//                     if (selectedYears.includes(year) || selectedYears === "All") {
+//                         dataToDisplay.push([sdata.dates[i], sdata.open[i], sdata.close[i], sdata.high[i], sdata.low[i]]);
+//                     }
+//                 }
+//                 break;
+//             }
+//         }
+
+//         $('#dataTable').DataTable({
+//             data: dataToDisplay,
+//             columns: columnNames.map(name => ({ title: name })),
+//             destroy: true // This allows you to reinitialize the table
+//         });
+//     }
+// }
+
+function displayDataInTable(stockData, selectedTicker, selectedYears) {
+    if (selectedTicker === "Select All") {
+        // Clear existing tabs and contents
+        $('#tickerTabs').empty();
+        $('#tickerTabsContent').empty();
+
+        stockData.forEach((sdata, index) => {
+            let ticker = sdata.ticker;
+            let isActive = index === 0 ? 'active' : '';  // Make the first tab active
+
+            // Create tab navigation for each ticker
+            $('#tickerTabs').append(`
+                <li class="nav-item">
+                    <a class="nav-link ${isActive}" id="tab_${ticker}" data-toggle="tab" href="#content_${ticker}" role="tab">${ticker}</a>
+                </li>
+            `);
+
+            // Create content container for each tab
+            $('#tickerTabsContent').append(`
+                <div class="tab-pane fade show ${isActive}" id="content_${ticker}" role="tabpanel">
+                    <table id="table_${ticker}" class="display"></table>
+                </div>
+            `);
+
+            let dataToDisplay = [];
+            for (let i = 0; i < sdata.dates.length; i++) {
+                let year = new Date(sdata.dates[i]).getFullYear();
+                if (selectedYears.includes(year.toString()) || selectedYears === "Select All") {
+                    dataToDisplay.push([sdata.dates[i], sdata.open[i], sdata.close[i], sdata.high[i], sdata.low[i]]);
+                }
+            }
+
+            // Initialize DataTable for this ticker
+            $(`#table_${ticker}`).DataTable({
+                data: dataToDisplay,
+                columns: ['Date', 'Open', 'Close', 'High', 'Low'].map(name => ({ title: name })),
+                destroy: true
+            });
+        });
+    } else {
+        // Single ticker logic remains mostly unchanged
+        let sdata = stockData.find(data => data.ticker === selectedTicker);
+        let dataToDisplay = [];
+        for (let i = 0; i < sdata.dates.length; i++) {
+            let year = new Date(sdata.dates[i]).getFullYear();
+            if (selectedYears.includes(year.toString()) || selectedYears === "Select All") {
+                dataToDisplay.push([sdata.dates[i], sdata.open[i], sdata.close[i], sdata.high[i], sdata.low[i]]);
+            }
+        }
+
+        $('#tickerTabs').empty(); // Remove tab navigation for single ticker display
+        $('#tickerTabsContent').empty().append(`<table id="single_ticker_table" class="display"></table>`); // Clear previous content and append table for single ticker
+
+        $('#single_ticker_table').DataTable({
+            data: dataToDisplay,
+            columns: ['Date', 'Open', 'Close', 'High', 'Low'].map(name => ({ title: name })),
+            destroy: true
+        });
+    }
 }
