@@ -28,6 +28,9 @@ The goal of this project is to create an interactive web-based dashboard that wi
 -	Code the charts
 -	Test and improve
 
+## GitHub Pages
+https://elliszimmer.github.io/Project3_Group2/
+
 ## References
 https://finance.yahoo.com/quote/%5EGSPC/history?fr=yhssrp_catchall 
 
