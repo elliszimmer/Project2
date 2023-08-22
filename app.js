@@ -1,5 +1,7 @@
 // 1. Read in the json sample data from the given url
-const url = "https://raw.githubusercontent.com/elliszimmer/Project3_Group2/javascript-branch-A/final_dataset.json"             
+// const url = "https://raw.githubusercontent.com/elliszimmer/Project3_Group2/javascript-branch-A/final_dataset.json"    
+
+const url = "http://127.0.0.1:5000/api/v1.0/fetch_data"
 //const filepath = "final_dataset.json"
 let jsonData;
 dataPromise = d3.json(url);
@@ -10,7 +12,7 @@ dataPromise.then(data => {
     
     // Populate menu1 with tickers acquired from json dataset     
     let tickers = data.tickers;
-    let firstAsALL = tickers[0];    
+    let firstAsALL = "Select All";//tickers[0];    
     tickers.splice(0,1);
     tickers.sort();
     tickers.unshift(firstAsALL);
