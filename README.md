@@ -1,12 +1,15 @@
 # Project3_Group 2: S&P 500 Dashboard & Analysis
 ### Group members: 
 Arefin Shamsil [https://github.com/Arefinster]
+
 Rita Nguyen [https://github.com/tnguy25]
+
 Owagboe Olusoga [https://github.com/ALKEBULANPRIEST]
+
 Ellis Zimmer [https://github.com/elliszimmer]
 
 ## Project Introduction & Objective
-The goal of this project is to create an interactive web-based dashboard that will display selected companies from the S&P Index. The dashboard will consist of two dropdown bars where users can select the company ticker and the year. When applied the dashboard will produce multiple charts containing the volume and price of stock over a period of time, the difference of open and close prices, the price of stock movement from month to month and the volume of stock throughout the year. ![image](https://github.com/elliszimmer/Project3_Group2/assets/126611342/abb2b0fd-9c77-4117-b900-d892080adbc8)
+The goal of this project is to create an interactive web-based dashboard that will display selected companies from the S&P Index. The dashboard will consist of two dropdown bars where users can select the company ticker and the year. When applied the dashboard will produce multiple charts containing the volume and price of stock over a period of time, the difference of open and close prices, the price of stock movement from month to month and the volume of stock throughout the year.
 
 ## Tools
 - Flask
