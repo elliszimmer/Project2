@@ -29,5 +29,7 @@ The goal of this project is to create an interactive web-based dashboard that wi
 
 ## References
 https://finance.yahoo.com/quote/%5EGSPC/history?fr=yhssrp_catchall 
+
 https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+
 Canva (app)
