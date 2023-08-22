@@ -28,6 +28,18 @@ The goal of this project is to create an interactive web-based dashboard that wi
 -	Code the charts
 -	Test and improve
 
+## App and chart screen shots
+
+### The charts
+![1a](App screenshots/Barchart.png)
+ ![1b](App screenshots/Bubble.png)
+ ![1c](App screenshots/Candlestick.png)
+ ![1d](App screenshots/Line.png)
+
+### The App
+ ![1e](App screenshots/Entire - dashboard.PNG)
+
+
 ## References
 https://finance.yahoo.com/quote/%5EGSPC/history?fr=yhssrp_catchall 
 
