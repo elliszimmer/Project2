@@ -15,6 +15,7 @@ The goal of this project is to create an interactive web-based dashboard that wi
 - Flask
 - MongoDB
 - JSQuery
+- PostgreSQL
 - HTML
 - JavaScript
 
