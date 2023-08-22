@@ -13,6 +13,15 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap">
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <!-- DataTables CSS and JS -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
+
+
+
 </head>
 <body>
 
@@ -24,7 +33,7 @@
         IT Sector Stocks History (2018-2023)
     </h1>
 
-    <div class="dropdowns row">
+    <div class="dropdowns row mb-3">
         <div class="col-md-5 d-flex align-items-center">
             <h5 for="Menu_1">Ticker:</h5>
             <select id="Menu_1" class="form-control" onchange="option1Changed(this.value)">
@@ -43,13 +52,12 @@
     </div>
     
     
-    <div class="row-info">
+    <div class="info row mb-3">
         <!-- (Arefin) Company info panel-->
         <div class="col-md-3"> <!--  d-flex align-items-center-->
-
             <div class="panel panel-primary">
                 <div class="panel-heading">
-                    <h5 class="panel-title">Company Info</h5>
+                    <h4 class="panel-title">Company Info</h4>
               
                 </div>
                 <div id="company-metadata" class="panel-body">
@@ -58,14 +66,34 @@
             </div>            
         </div>
 
-
-        <!-- (Arefin) Space to the RIGHT of Company info panel -->
         <div class="col-md-9">
+            <div class="panel panel-secondary">
+                <div class="panel-heading2">
+                    <h4 class="panel-title2">Dataset</h4>
+                </div>
+                <div id="dataDisplay" class="panel-body2">
+                    <!-- <table id="dataTable" class="display"></table> -->
+                    <!-- Tab Navigation -->
+                    <ul class="nav nav-tabs" id="tickerTabs" role="tablist"></ul>
+                    <!-- Tab Content -->
+                    <div class="tab-content" id="tickerTabsContent"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="Interactive_graphs row mb-3">
+        <h4 class="panel-title3">Interactive Graphs</h4>
+    </div>
+
+    <div class="bubble_graphs row mb-3">
+        <!-- (Arefin) Space to the RIGHT of Company info panel -->
+        <div class="col-md-12">
             <div id="bubble_Arefin"></div>
         </div>
     </div>
 
-    <div class="row-line_graphs">
+    <div class="line_graphs row mb-3">
         <div class="col-md-6">
             <div id="line"></div>
         </div>
@@ -74,27 +102,21 @@
         </div>
     </div>
 
-    <div class="row-bar-graphs">
+    <div class="bar-graphs row mb-3">
         <div class="col-md-12">
             <div id="bar"></div>
         </div>
     </div>
 
-
-    
-    
-    
-    
-    
-    
-
-    
-    
 </div>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <script src="app.js"></script>
+
+<!-- Bootstrap JS and Popper.js -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 
 </html>
