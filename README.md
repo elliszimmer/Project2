@@ -11,13 +11,19 @@ Ellis Zimmer [https://github.com/elliszimmer]
 ## Project Introduction & Objective
 The goal of this project is to create an interactive web-based dashboard that will display selected companies from the S&P Index. The dashboard will consist of two dropdown bars where users can select the company ticker and the year. When applied the dashboard will produce multiple charts containing the volume and price of stock over a period of time, the difference of open and close prices, the price of stock movement from month to month and the volume of stock throughout the year.
 
+Web link for the deployed dashboard app:
+https://elliszimmer.github.io/Project3_Group2/
+
 ## Tools
-- Flask
-- MongoDB
-- JSQuery
-- PostgreSQL
+- Python Flask framework
 - HTML
+- CSS
+   - Bootstrap.js
+   - Popper.js
 - JavaScript
+   - Plotly.js
+   - D3.js
+   - JSQuery
 
 ## Project Process: 
 -	Choose a dataset and scrape the data
@@ -31,13 +37,13 @@ The goal of this project is to create an interactive web-based dashboard that wi
 ## App and chart screen shots
 
 ### The charts
-![1a](App screenshots/Barchart.png)
- ![1b](App screenshots/Bubble.png)
- ![1c](App screenshots/Candlestick.png)
- ![1d](App screenshots/Line.png)
+![BarChart](Output_screenshots/Barchart.png)
+![BubbleChart](Output_screenshots/Bubble.png)
+![CandlestickChart](Output_screenshots/Candlestick.png)
+![LineChart](Output_screenshots/Line.png)
 
 ### The App
- ![1e](App screenshots/Entire - dashboard.PNG)
+ ![Appscreenshot](Output_screenshots/Entire_dashboard.PNG)
 
 
 ## References
