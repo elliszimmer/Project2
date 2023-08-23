@@ -34,6 +34,7 @@ https://elliszimmer.github.io/Project3_Group2/
 -	Code the charts
 -	Test and improve
 
+<<<<<<< HEAD
 ## App and chart screen shots
 
 ### The charts
@@ -45,6 +46,10 @@ https://elliszimmer.github.io/Project3_Group2/
 ### The App
  ![Appscreenshot](Output_screenshots/Entire_dashboard.PNG)
 
+=======
+## GitHub Pages
+https://elliszimmer.github.io/Project3_Group2/
+>>>>>>> 1b2ed16883ce82bcd02b539cabe6e22a5edabdec
 
 ## References
 https://finance.yahoo.com/quote/%5EGSPC/history?fr=yhssrp_catchall 
